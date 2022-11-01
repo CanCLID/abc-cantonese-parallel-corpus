@@ -20,6 +20,7 @@ substitution_yue = (
     ('𡃶', '錫'),
     ('𡄯', '噎'),
     ('𧨾', '氹'),
+    ('𧵳', '蝕'),
     ('依𠺢', '依家'),
     ('而𠺢', '而家'),
     ('𠺢吓', '家下'),
@@ -28,14 +29,11 @@ substitution_yue = (
     ('自覺得己', '覺得自己'),
 )
 
-trans = None
+_fw = 'ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ１２３４５６７８９０'
+_hw = unicodedata.normalize('NFKC', _fw)
+_trans = str.maketrans(_fw, _hw)
 def full_width_to_half_width(s: str) -> str:
-    global trans
-    if trans is None:
-        fw = 'ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ１２３４５６７８９０'
-        hw = unicodedata.normalize('NFKC', fw)
-        trans = str.maketrans(fw, hw)
-    return s.translate(trans)
+    return s.translate(_trans)
 
 def remove_space(s: str) -> str:
     '''
@@ -48,13 +46,13 @@ def remove_space(s: str) -> str:
     s = re.sub(r'(?<=[\da-zA-Z！，：？《》]) (?=[\p{Unified_Ideograph}\u3006\u3007])', r'', s)
     return s
 
-pattern_han = re.compile(r'[\p{Unified_Ideograph}\u3006\u3007]')
+_pattern_han = re.compile(r'[\p{Unified_Ideograph}\u3006\u3007]')
 def is_han(c: str) -> str:
-    return bool(pattern_han.fullmatch(c))
+    return bool(_pattern_han.fullmatch(c))
 
-pattern_letter = re.compile(r'[a-zA-Z]')
+_pattern_letter = re.compile(r'[a-zA-Z]')
 def is_letter(c: str) -> str:
-    return bool(pattern_letter.fullmatch(c))
+    return bool(_pattern_letter.fullmatch(c))
 
 def normalise(yue: str, en: str) -> tuple[str, str]:
     for src, dst in substitution_yue:
@@ -90,32 +88,35 @@ def should_remove(yue: str, en: str) -> bool:
 
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 
-with open(filename, encoding='utf-8') as f:
-    soup = BeautifulSoup(f, 'lxml')
+def main():
+    with open(filename, encoding='utf-8') as f:
+        soup = BeautifulSoup(f, 'lxml')
 
-pattern = re.compile(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', flags=re.MULTILINE)
-sentences = []
+    _pattern_data = re.compile(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', flags=re.MULTILINE)
+    sentences = []
 
-for page in soup.select('page'):
-    content = page.select_one('text').get_text().removeprefix('<WL>').removesuffix('</WL>')
+    for page in soup.select('page'):
+        content = page.select_one('text').get_text().removeprefix('<WL>').removesuffix('</WL>')
 
-    for match in pattern.finditer(content):
-        yue, en = match.groups((1, 2))
-        if should_remove(yue, en):
-            continue
-        assert '\n' not in yue
-        assert '\n' not in en
-        yue, en = normalise(yue, en)
-        sentences.append((yue, en))
+        for match in _pattern_data.finditer(content):
+            yue, en = match.groups((1, 2))
+            if should_remove(yue, en):
+                continue
+            assert '\n' not in yue
+            assert '\n' not in en
+            yue, en = normalise(yue, en)
+            sentences.append((yue, en))
 
-def key(item):
-    yue, en = item
-    return len(yue), yue, en
+    def key(item):
+        yue, en = item
+        return len(yue), yue, en
 
-sentences.sort(key=key)
+    sentences.sort(key=key)
 
-with open('yue.txt', 'w', encoding='utf-8') as f1, \
-        open('en.txt', 'w', encoding='utf-8') as f2:
-    for yue, en in sentences:
-        print(yue, file=f1)
-        print(en, file=f2)
+    with open('yue.txt', 'w', encoding='utf-8') as f1, \
+            open('en.txt', 'w', encoding='utf-8') as f2:
+        for yue, en in sentences:
+            print(yue, file=f1)
+            print(en, file=f2)
+
+main()
