@@ -59,9 +59,10 @@ def normalise(yue: str, en: str) -> tuple[str, str]:
         yue = yue.replace(src, dst)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
-    if is_han(yue[-1]) and is_letter(en[-1]) and len(yue) > 6:
-        yue += '。'
-        en += '.'
+    if is_han(yue[-1]) and is_letter(en[-1]):
+        if (4 <= len(yue) < 6 and yue[0] in '我你佢') or len(yue) >= 6:  # 一定係陳述句
+            yue += '。'
+            en += '.'
     return yue, en
 
 pattern_pua = re.compile(r'[\ue000-\uf8ff\U000f0000-\U000ffffd\U00100000-\U0010fffd]')
