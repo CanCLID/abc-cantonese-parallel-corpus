@@ -28,7 +28,6 @@ substitution_yue = (
 )
 
 trans = None
-
 def full_width_to_half_width(s: str) -> str:
     global trans
     if trans is None:
@@ -37,11 +36,30 @@ def full_width_to_half_width(s: str) -> str:
         trans = str.maketrans(fw, hw)
     return s.translate(trans)
 
+def remove_space(s: str) -> str:
+    '''
+    >>> remove_space('摸 A B 12至 3')
+    '摸A B 12至3'
+    '''
+    s = re.sub(r'(?<=[\p{Unified_Ideograph}\u3006\u3007]) (?=[\da-zA-Z])', r'', s)
+    s = re.sub(r'(?<=[\da-zA-Z]) (?=[\p{Unified_Ideograph}\u3006\u3007])', r'', s)
+    return s
+
 def normalise(yue: str, en: str) -> tuple[str, str]:
     for src, dst in substitution_yue:
         yue = yue.replace(src, dst)
     yue = full_width_to_half_width(yue)
+    yue = remove_space(yue)
     return yue, en
+
+pattern_pua = re.compile(r'[\ue000-\uf8ff\U000f0000-\U000ffffd\U00100000-\U0010fffd]')
+def contains_pua(s: str) -> str:
+    return bool(pattern_pua.search(s))
+
+def should_remove(yue: str) -> bool:
+    if contains_pua(yue):
+        return True
+    return False
 
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 

@@ -2930,6 +2930,7 @@ He had left darn fast
 He dearly loves his granddaughter
 He dearly loves this junior fellow female student
 She's quite tense, so she distorted her pronunciation
+He has good qualifications
 He took a white woman as his wife
 She carries the child on her back as she works
 His older sister performs in Cantonese opera
@@ -3134,6 +3135,7 @@ You can't touch these porcelain pieces
 There are some small worms on these flowers
 These dimsum have the refreshing taste of olives
 Who is responsible for this matter?
+Two takes of this movie scene were no good
 This movie is nice to watch, right?
 You still haven't chopped this letter with an inked seal
 He has been promoted through the ranks quickly over the past few years
@@ -3897,7 +3899,6 @@ His girlfriend wanted to end their relationship
 He seemed to be not so very happy
 He has gotten better and just left the hospital
 He works very hard at doing things for us
-He has good qualifications
 He's extremely angry just like a mad dog
 She gathers up the chopsticks into a bunch in her hand
 He connected the spare parts together
@@ -4101,7 +4102,6 @@ These cookies were made with a chocolate filling
 These cookies were prepared with a chocolate filling
 I'll go ahead with this business deal regardless of the situation
 This business deal has a point worth consideration!
-Two takes of this movie scene were no good
 This cloth very quickly soaks up all the water
 This movie is well worth watching
 In these several months she has become very fat
@@ -7671,6 +7671,7 @@ Why are there several soft masses of dog shit on the rug?
 Why would there be civil servants who are so idle and indolent?
 After you've whisked the egg add in a little bit of milk
 The free size is better, as it would be more comfortable
+This is PC4321 calling base station, over (as said by a police officer)
 Shit! Somebody stole a glance at my diary!
 One child is loveable, two children are wonderful, but having three of them will be unbearable (as they will break your shoulder pole when you carry them with it
 It rained just as I went out on the street, so it was really unlucky!
@@ -8736,7 +8737,6 @@ Why isn't he here? He has to go to work today, that's why
 Why does my boyfriend have a hickey on his neck?
 Why do you seem so spiritless these days? Are you unhappy?
 The comedy doesn't have much of a story, so it's only good for a few laughs
-This is PC4321 calling base station, over (as said by a police officer)
 After the soccer game, everyone was dripping with sweat
 As soon as the vacation comes, he goes to a casino in Macau to try his luck
 The reporters continuously took photographs as soon as someone came
@@ -9129,6 +9129,7 @@ All you need is twelve dollars, and you can immediately bowl one game
 All you need is twelve dollars, and you can immediately play one game of bowling
 I asked you to introduce me to a girl who I can have a date with, so is there any news on that matter?
 If colleagues don't get along well among themselves, it will be difficult to get any work done
+Compete with me? He's not qualified yet!
 This matter has become serious, so I'm afraid it will be hard to wind it up
 This antique is invaluable, so don't break it
 This antique is invaluable, so don't break it
@@ -9961,7 +9962,6 @@ It's not your money being spent, so why do you need to feel so pained about it?
 It's not your money being spent, so why do you need to feel so pained about it?
 All you need to do is to get fully prepared, then you'll naturally have a good performance
 You seem so reluctant when I ask you to eat, so if you don't want to eat, then forget about it
-Compete with me? He's not qualified yet!
 The boss knows about your working overtime. That's different from a secret part-time job
 Drug addiction is destroying her whole life. It's really tragic
 As this matter has come out, someone must be found to take responsibility for it
@@ -10539,6 +10539,7 @@ He had promised me he would come, so I don't think he would dare to fail to keep
 After he threw the dice, the people opened their eyes wide to see what the dice showed
 After he threw the dice, the people opened their eyes wide to see what the dice showed
 He's made the things to be very disorganized, so now they're quite untidy
+He took office recently, so naturally he has to demonstrate his skills
 He eats ice cream everyday, so it's no wonder that he has become such a fat guy
 She has two cats: one's yellow, and one's brown
 He's got an indoor parking space (in a parking garage) for rent. It's two thousand dollars a month
@@ -11776,7 +11777,6 @@ He was driving a red Ferrari. I saw him go around the curve and hit the curb
 She has found a great job, as not only is the salary good, but the benefits are also very good
 He had made a very serious blunder, so of course nobody can forget it
 He had made a very serious blunder, so of course nobody has forgotten it
-He took office recently, so naturally he has to demonstrate his skills
 He likes most to brag about himself, so don't believe anything he says!
 He hadn't written two words but then crumpled up the paper into a ball and threw it into the waste basket
 What is he doing in his car honking the horn in front of our house?
@@ -14225,6 +14225,7 @@ For a long time I haven't written in my diary, because at this time not a thing 
 If you want to find an unbiased person to help, you'd better not ask him, as he is unable to distinguish between right from wrong and will take the side of his friends
 If you talk like that all the time, then they will think you are really out of touch with reality!
 I'm sorry, but today it's not convenient for me to loan you money, as I myself don't have enough money to go out and shop
+Sorry, I am too busy to talk to you on the phone right now, so I'll call you back in a short while
 Especially when they're conducting short, quick interviews, some news reporters will ask questions that are not at all interesting
 Decades ago there was no such thing as giving birth in a hospital, as people just found a neighbor to serve as the midwife
 I fell into a trap, and was cheated out of thirty thousand dollars by him. I've already made a report to the police. What else can I still do about it?
@@ -14376,7 +14377,6 @@ Mommy nurses her baby watching him suck a mouthful of milk and swallow it. They 
 Learn from what Deng Xiaoping has said: it doesn't matter if the cat is black or white, a good cat is just the one that catches mice
 Everybody in the family completely depends on you, so if you have some misfortune, they won't know what to do!
 Everybody in the family completely depends on you, so if you have some serious emergency, they won't know what to do!
-Sorry, I am too busy to talk to you on the phone right now, so I'll call you back in a short while
 So if my husband and I go traveling each of us pulls a travel bag, pulling a travel bag isn't very strenuous in my opinion
 The cop told the driver to blow into the breathalyzer, but he wasn't willing to do it, and said to the police officer, I don't know what you're saying
 Dear friend, whatever you do don't exaggerate so! I don't deserve your praise! I've had to experience failure before I could learn things!
@@ -14608,6 +14608,7 @@ As soon as the pervert saw there was quarry for him he stood next to me and pret
 The jockey tried to take the lead out of the starting gate, but suddenly he collided with another horse, and then they all fell to the ground
 In fact for a very long time her husband hasn't worked at a job, it's no wonder that people all say he is a man who lives off of a woman!
 In fact I'm not biased against young gay men. When they come and talk to me, I usually always very politely respond
+This female star wears low-cut, short dresses all the time and says that she has to flaunt her good figure
 How can this fruit stay with me and satisfy my hunger? I need to eat a beef steak and some potatoes in order to keep from feeling hungry!
 This is the Government Headquarters, so don't mistake it for a place where you can go in and out freely
 Recently it rains every day, yet that's not necessarily a bad thing, because it rains, it's only then that we have water to drink
@@ -14788,7 +14789,6 @@ In fact is it really so difficult to use turn signal lights? I've already seen t
 In fact in Macau casino-chip roller is a legitimate occupation, generally casino-chip rollers themselves earn commissions by looking for high-stakes gamblers to go up to the VIP rooms to gamble
 Whether or not the martial arts master is famous isn't the most important thing. The most important thing is: does he have genuine ability or not?
 It's good to go away and study abroad, but you can't have it both ways, and it will be difficult to see your Mom frequently
-This female star wears low-cut, short dresses all the time and says that she has to flaunt her good figure
 No cars are allowed to travel on this road, but now the important thing is to save lives, and in an emergency flexibility counts, so I think the police officers will understand the situation
 The smoke was so horribly thick coming towards me. I picked up my key and opened the door. Then I rushed down scrambling out of the building!
 At this movie theatre the ticket-takers don't carefully check tickets, so the result is lots of people can see the movie without paying for a ticket
@@ -15344,9 +15344,11 @@ Speaker A says: Going to the hospital is quite troublesome. Sometimes for a mino
 When the cop bumped into the young triad guy who was loitering there, he took the opportunity to secretly plant the knife in that guy's bag, and it was later on at the police station that the guy knew he had been framed by the cop
 When I was in the sixth grade, I was bullied by a kid of mixed race, so in a neighboring class there was a big kid who suddenly ran out and helped me thoroughly bash and bloody the mongrel's head. After that he never bullied me
 Although every time it seems to be at the last minute that your boyfriend looks for you to go shopping, eat a meal, see a movie, or sing karaoke, in fact each time you still want to go out with him! 
+Vivek Mahbubani is an Indian born and raised in Hong Kong. He speaks very fluent Hong Kong Cantonese and English performing stand-up comedy   
 The key money of ninety-five thousand dollars already includes all the new renovations, new clothes hangers, cashier's counter, and cabinet with display windows, so if you are interested in taking over (renting) this nice shop, then call me!
 Those people in the casinos who pester you in fact are called 'paa zai', you can also say they're swindlers. They will use whatever methods they can to deceive you to fall into their trap, in the end they want you to borrow their money
 Lots of stuff causes cancer! If you don't eat a lot, there's no problem. For breakfast we don't choose too much. Luncheon meat, small sausages—these are quite ordinary, and everybody calls for them 
+I still remember when I was learning single English words in elementary school. The teacher explained to a class of little kids that the meanings of the two English words 'alone' and 'lonely' were different
 Just as I had parked the car and got out of it, a man then fell down from a height headfirst and straight through my car's windshield. Luckily when the incident happened I wasn't inside the car
 I bought a Rubik's Cube, I don't quite know how to twist it, I twisted the Rubik's Cube, I had twisted it for a very long time and still couldnt get it solved, I hope there is a solution that can help me twist it back to its solved position
 At first the time the newspaper guy delivered the newspaper didn't match the time I left the house, that is, 7 o'clock, but then after talking to him the newspaper is now brought to the door at around seven o'clock
@@ -15354,10 +15356,8 @@ The landlord says the key money includes the new renovation of the shop, carpet,
 In fact Chaozhou-style restaurants are not a bit cheap, but I myself like to eat Chaozhou food, so then this evening some friends and I came together to patronize this newly-opened Chaozhou-style restaurant
 The Chief Executive criticized Hong Kong U's student union publication 'Undergrad', he said as for advocating Hong Kong independence, this is not ordinary academic research, but it's advocacy
 Today the Organized Crime and Triad Bureau of the Hong Kong Police launched an operation against illegal gambling premises and arrested fourteen people. During the operation they seized horse racing betting slips worth about three million (HK.) dollars
-Vivek Mahbubani is an Indian born and raised in Hong Kong. He speaks very fluent Hong Kong Cantonese and English performing stand-up comedy   
 If you want to have a natural pregnancy, you need to look at your family heredity to have twins. If not even one of your relatives on either your side or your husband's side has ever given birth to twins, your chance of having twins is equal to zero
 Younger sister tearfully told me she's gotten pregnant! It was the first time she did it with her boyfriend. Her boyfriend ejaculated, and didn't wear a condom! She asked me what should she do now?
-I still remember when I was learning single English words in elementary school. The teacher explained to a class of little kids that the meanings of the two English words 'alone' and 'lonely' were different
 After I had broken up with my former girlfriend, she then demanded to collect twenty-thousand dollars from me as compensation. She said if I didn’t give her compensation for breaking up with her, she would accuse me of raping her, what can I do?
 I'm very angry! I discovered today that my protective motorcycle cover was wickedly damaged. It's been so badly damaged it can't be used anymore. It's obvious somebody used scissors or a cutter to damage it
 I saw that the car in front didn't have its lights on. I then flashed my high beams to him twice, but he didn't know why, and later when I was passing on his side, he even gave me the middle finger to show he was quite angry!
