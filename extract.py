@@ -11,13 +11,14 @@ substitution_yue = (
     ('啝', '喎'),
     ('噖', '琴'),  # 噖[日晚] -> 琴[日晚]
     ('嚫', '親'),
+    ('床', '牀'),
     ('衭', '褲'),
     ('贃', '賺'),
-    ('𡄯', '噎'),
     ('𠶧', '掂'),
     ('𠹺', '埋'),
     ('𡁵', '緊'),
     ('𡃶', '錫'),
+    ('𡄯', '噎'),
     ('𧨾', '氹'),
     ('依𠺢', '依家'),
     ('而𠺢', '而家'),
@@ -45,18 +46,32 @@ def remove_space(s: str) -> str:
     s = re.sub(r'(?<=[\da-zA-Z]) (?=[\p{Unified_Ideograph}\u3006\u3007])', r'', s)
     return s
 
+pattern_han = re.compile(r'[\p{Unified_Ideograph}\u3006\u3007]')
+def is_han(c: str) -> str:
+    return bool(pattern_han.fullmatch(c))
+
+pattern_letter = re.compile(r'[a-zA-Z]')
+def is_letter(c: str) -> str:
+    return bool(pattern_letter.fullmatch(c))
+
 def normalise(yue: str, en: str) -> tuple[str, str]:
     for src, dst in substitution_yue:
         yue = yue.replace(src, dst)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
+    # if is_han(yue[-1]) and is_letter(en[-1]) and len(yue) > 6:
+    #     yue += '。'
+    #     en += '.'
     return yue, en
 
 pattern_pua = re.compile(r'[\ue000-\uf8ff\U000f0000-\U000ffffd\U00100000-\U0010fffd]')
 def contains_pua(s: str) -> str:
     return bool(pattern_pua.search(s))
 
-def should_remove(yue: str) -> bool:
+def should_remove(yue: str, en: str) -> bool:
+    if '(empty band???)' in (yue, en) or \
+            '[missing example characters???]' in (yue, en):
+        return True
     if contains_pua(yue):
         return True
     return False
@@ -74,8 +89,7 @@ for page in soup.select('page'):
 
     for match in pattern.finditer(content):
         yue, en = match.groups((1, 2))
-        if '(empty band???)' in (yue, en) or \
-                '[missing example characters???]' in (yue, en):
+        if should_remove(yue, en):
             continue
         assert '\n' not in yue
         assert '\n' not in en

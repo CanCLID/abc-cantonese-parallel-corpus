@@ -1066,7 +1066,6 @@ Who said so?
 Who said so? (can sometimes mean 'It's not true')
 Any one of them is okay
 Who is prettier?
-Which kind is better?
 The currency has become reduced in value
 The room is not bright enough
 Grandma knits a sweater
@@ -1091,7 +1090,6 @@ How the hell should I know who he is?
 Like hell I'll love him!
 Fresh lime soda
 I'm a little bit hungry
-Raise up your trouser legs
 Give him a slap
 It's not permitted to touch it
 Give me some candy
@@ -1369,7 +1367,6 @@ He is very finicky about what he eats
 He is very finicky about what he eats
 She's giggling so
 He was so scared his lips were quivering
-She closed the window by sliding it horizontally
 He cut his finger accidentally
 He's crying like that
 He turns round and round like in a circular motion
@@ -1782,8 +1779,6 @@ Blackie has come to see you
 Dark chocolate mousse
 How should I address you?
 This film is so boring!
-Wave at the kid to come over
-Tuck in your shirt
 With a gurgling sound he vomited it up
 Rinse your mouth out first before you spit out the water
 Rinse these three cups
@@ -1948,7 +1943,6 @@ He got beaten up by someone
 He was given a scolding by someone
 His foot was pricked by a thorn
 His son is a cop
-He is very hard of hearing in his left ear
 The name of his gang is very powerful, or He has a top rank in his gang
 She's really quite ugly
 Her face has gotten wrinkled
@@ -2224,7 +2218,6 @@ These clothes are both low-priced and also good-looking
 This pork is half-cooked
 These eggs smell terrible
 This matter is quite troublesome
-This matter is really troublesome
 This business deal is quite troublesome
 Who is the protagonist in this movie?
 Several frames of this film have been overexposed
@@ -2236,7 +2229,6 @@ There is a bad odor here
 It's quite cool here in the summer
 One must speak English here
 Here a question mark has been omitted
-This door is opened by sliding it horizontally
 This vegetable knife has rusted
 How are they doing these days?
 These days the weather is really stuffy and hot
@@ -2274,7 +2266,6 @@ Wow! We got here so fast!
 You've come back so soon!
 Where are you going in such a rush?
 It's too long, so let's cut it shorter
-Apply some medicine to the wound
 Hey! You've cheated me as well!
 Ha! Who would say that?
 Don't be afraid, and calm down
@@ -2374,7 +2365,6 @@ Help me peel these apples
 Help me peel these apples
 They have a vegetarian meal on the first day of the Chinese Lunar New Year
 When will the work be completed?
-There is a lot of dust underneath the bed
 Lend me five hundred dollars first
 The door is quite tightly closed
 Do you mean there are just five people?
@@ -2552,6 +2542,7 @@ To stir-fry vegetables it's better to use a hotter fire
 Deep-fried spring rolls have a pleasant oily and crispy taste
 The smoking made everyone's eyes water
 It can't be fixed if it's damaged
+There is a lot of dust underneath the bed
 Milk is mixed in together with the coffee
 The convict was hanged this morning
 A handkerchief with scalloped edges
@@ -2675,7 +2666,6 @@ Next week I will work the middle shift
 How come she's dressed up so attractively?
 How come he speaks in such an effeminate manner?
 How come you get dressed up in such old-fashioned clothes?
-How come the house is in such a mess?
 You're talking nonsense, as there's no such thing!
 Everyone says eating game can strengthen one's body
 The wages are so high that it's worthwhile to accept the offer
@@ -3611,7 +3601,6 @@ Why are you so muddleheaded?
 Why are they so nervous?
 Why isn't anyone at home?
 Why do you need to take fingerprints?
-Wave at him to come over to us here
 Hmph! What should I be afraid of?
 Take all of those people back to the police station (as said by a higher ranking police officer to his subordinates)
 You don't need to use so much strength when massaging me
@@ -3631,7 +3620,6 @@ We had better take this taxi!
 The clearance sale is not for profit
 Central to Mid-Levels Escalator
 How can you do things in such a careless and slapdash manner?
-Why are you doing things so irresponsibly?
 How come you act so clumsily in you work?
 What results are predictable?
 What did you say? Could you please speak a little louder?
@@ -4523,9 +4511,7 @@ It's already too late for us to wait for you to come!
 Wait for me to go in before you go in
 Let me sit here and doze for a moment and that'll be fine
 Let me eat something to ease my hunger first
-The essay is so damn sloppily written
 I turned the screw till it got stripped smooth of its grooves
-It's very troublesome for a pregnant woman to go out
 Young boys shouldn't be so noisily quarrelsome
 Uncle has bought a present for you
 Mom is seldom happy like that
@@ -5199,7 +5185,6 @@ These vegetables have worms in them, so we need to spray them with pesticide
 These vegetables are really old and tough, so how on earth can anyone eat them?
 These sweet potatoes are rather tough, so don't eat them
 The beancurd is too soft and tender, so how can I pick it up?
-The beancurd is too soft and tender, so how can I pick it up?
 The rice has become cold, so warm it up and then eat it
 Is the food ready yet? It will be ready soon!
 It's so late but the dishes still haven't been served (so what's the matter?)
@@ -5445,7 +5430,6 @@ Help! Someone's chopping a guy!
 Anyone abetting children to commit crimes will be prosecuted
 Not many taxi drivers just starting out know the roads well
 There are especially more lion dance performances in the first month of the Chinese New Year
-Traditional houses in Japan have horizontally sliding doors
 At sunset the sun was both big and round
 From Monday to Friday there is the special promotion for bowling
 Quite a lot of auto tire shops don't open on Sundays
@@ -5619,8 +5603,6 @@ Both sides confronted each other and were prepared to fight
 Two-hour session fee plus pre-paid tips cost only one hundred eighty eight (dollars)
 The children whose parents are from mainland China have grabbed up Hong Kong people's choices (of schools)
 You left without turning off the TV!
-The sliding door to the balcony is broken, and it can't be opened
-The sliding door to the balcony is broken, and you can't slide it open
 Just now the power went off, and everywhere is pitch dark
 Just now the power went off, and everywhere is pitch dark
 Just now I heard the sound of baby crying
@@ -5646,10 +5628,8 @@ Why aren't you using this bookshelf?
 Why do you have so many calluses on your feet?
 Why do you never get fat no matter how much you eat?
 Why does the string have several knots in it?
-Shh! Someone is coming, so don't talk right now
 The dictionary fell noisily on the ground
 Nobody can be satisfied with losing money
-Baby's been peeing, and his diaper is completely wet
 After several years Aa Ming and Susan got married
 Wide-angle lens
 In a very short time university life had come to an end
@@ -5759,7 +5739,6 @@ If you don't feel well, then go home and take a rest
 If you feel sick, you had better go see a Chinese medical practitioner
 If you feel unwell, you had better go see a Chinese medical practitioner
 Aren't you afraid of your ferocious wife at home?
-How can you stop a taxi if you don't wave your hand?
 Your skills are still extremely inferior!
 She has put your oranges inside the refrigerator
 Have you ever had a meal at my house?
@@ -7172,12 +7151,10 @@ The late night buffet at this hotel is both low-priced and good-quality
 The late night buffet at this hotel is both low-priced and good-quality
 This hotel has a shuttle bus going to the airport
 It's clearly known that this sport is dangerous
-This damned type of car takes up two parking spaces
 It's freezing, and there's no liquor, so I really can't bear it
 How can one live in such a crowded, cramped, and untidy environment?
 How can one live in such a crowded, cramped, and untidy environment?
 There are so many things, so can you carry all of them?
-Of all my subjects I like maths the most
 You're a big kid now, but you still wet the bed, so it's really embarrassing!
 It's a thing of such poor quality that even if you gave it to me I wouldn't want it
 It's a thing of such poor quality, even if you gave it to me I wouldn't have it
@@ -7327,11 +7304,11 @@ When will the food be served? We're really hungry!
 When will the food be served? We're very hungry!
 The kitchen is in such a mess, but you still have done nothing to tidy things up
 Oh how terrible! I can't find my wallet!
+The desk doesn't sit level on the floor, so it is still wobbling
+The table is uneven, so you need to wedge something under one of the legs to fix it
 The bed collapsed after I slept on it once, so it's as fragile as if it were a ritual paper offering
 The bed and the cupboard are his only possessions
 The bed is not long enough, so I have to huddle up when I sleep
-The desk doesn't sit level on the floor, so it is still wobbling
-The table is uneven, so you need to wedge something under one of the legs to fix it
 How is this tiny sum of money enough to take a taxi?
 I will be afraid if I'm alone at home
 When you are free, tidy up those odds and ends of things in the drawer
@@ -7383,7 +7360,6 @@ Professional drivers like us live from hand to mouth
 We've got lots of miscellaneous things that still haven't been tidied up
 Me and my classmates all get along well with our teacher
 The newly arrived teacher in our class is very easy-going and gentle
-The newly arrived teacher in our class is very gentle
 Our manager formerly was a teacher
 Of course we farmers see our fate as tied to the mercy of heaven
 We will have a meeting at two o'clock tomorrow afternoon
@@ -7988,7 +7964,6 @@ He finally had to admit he was wrong and apologized for it
 He will make high-sounding reasons to shut you up
 He has ten books that pay him royalties, so it's quite financially rewarding for him
 He's got guts. He has prepared to abandon the mainland market
-He's a bit hard of hearing, and so didn't hear what you said
 He is involved in triad activities, so offending him will do you no good
 He didn't wait for the ball to fall to the ground and immediately tried to kick a goal
 Of course he has no money, as he doesn't know how to save up money
@@ -9197,7 +9172,6 @@ This yacht is so large and luxurious it must have cost a great deal
 Just as I was calling him, he then showed up
 Just now I was saying the ship had not yet sailed, but then it started to move
 We haven't finished this meal, but you're already talking about the next meal
-This kind of person can do anything and arson is nothing to him
 You think I should give all this money entirely to you? How greedy you are!
 You think I should give all this money entirely to you? How greedy you are!
 Why are you so hysterical? Hurry up and dial 999 (emergency services number in HK.)
@@ -10332,7 +10306,6 @@ Sexual harassment in offices has increasingly become a cause for concern
 Ordinarily I'll check where I can buy it cheaply then I go wherever to buy it
 Blizzards forced the closure of a number of airports
 In rural villages, as soon as it rains everywhere becomes soft and muddy
-In rural villages, as soon as it rains everywhere becomes soft and muddy
 The doctor says the boy will talk when he's about three or four years old
 The doctor said it's necessary to take an X-ray before knowing if you have a bone fracture
 The physician said it is incurable, so isn't that to say I wait to die?
@@ -10493,7 +10466,6 @@ She's a woman well-known for laughing all the time, and even laughs without stop
 He deliberately makes fun of you, so how can it not be on purpose?
 After he was beaten up by the young hooligans, he became a totally frightened and reckless person
 He was fired by the boss, and he left behind some troublesome things for me to do
-As a person, he's very irresponsible and always wants people to clean up his messes
 His son likes to race cars in Macau, so he's really really reckless in the extreme
 When he is free, he plays blindfold chess games with those inmates in the cell
 He has no work and no income, so now he has to buy everything on credit
@@ -12289,7 +12261,6 @@ After he gets back from vacation, he will open a file on this matter for follow-
 Her breakfast is quite simple. She only eats a piece of toast and drinks a cup of tea
 He came back in a big hurry, and then left again after putting some things down
 He made a big business deal yesterday, so he went to see his boss to get credit for his success
-Her boyfriend knows how to make people happy, he's also even clever at joking around!
 Her boyfriend dresses with a very fresh and attractive look, but she herself is very shabbily dressed
 He helplessly looked at the thieves take away all the jewelry
 He suddenly let slip out that he missed his ex-girlfriend very much
@@ -14226,7 +14197,6 @@ If you want to find an unbiased person to help, you'd better not ask him, as he 
 If you talk like that all the time, then they will think you are really out of touch with reality!
 I'm sorry, but today it's not convenient for me to loan you money, as I myself don't have enough money to go out and shop
 Sorry, I am too busy to talk to you on the phone right now, so I'll call you back in a short while
-Especially when they're conducting short, quick interviews, some news reporters will ask questions that are not at all interesting
 Decades ago there was no such thing as giving birth in a hospital, as people just found a neighbor to serve as the midwife
 I fell into a trap, and was cheated out of thirty thousand dollars by him. I've already made a report to the police. What else can I still do about it?
 Today when I was secretly looking at my boyfriend's mobile phone, I saw he had taken several nude photos of himself
@@ -14813,7 +14783,6 @@ I have heard some award-winning singers also speak with incorrect pronunciation.
 I grabbed my girlfriend's hand and put it inside my pants to grasp my dick. I asked her, what did she think, is it big? She said it was quite big
 I'm now learning how to swim. Sometimes I swallow water to the extent I'm crying, but in order to lose weight I'll never give up and must keep on swimming
 I've now moved up to the twenty-third floor. Except for a spiderman burglar, I believe it's quite difficult for someone to enter my flat again to burglarize it
-I feel he acts in a rather effeminate way. Look how he waves to people to come over. Isn't that so?
 It's a new year! I'm nineteen years old. That's neither very old nor very young. I've already been an adult for a year
 Every night around six o'clock this road turns into a bottleneck, as it's jammed full of buses, minibuses, taxis, and private cars
 Some people are just really quite poor. They have no choice and must receive Comprehensive Social Security Assistance. Don't think receiving Comprehensive Social Security Assistance is better than working!
