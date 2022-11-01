@@ -567,6 +567,7 @@ Shortage of money; tight liquidity
 The banks are infused with cash
 Copper-pipe cutter
 Steel and cement
+Give her a kiss
 Set the dining table and let's eat
 The room is very hot
 The flat is already vacant
@@ -591,7 +592,6 @@ Lobster sashimi, i.e. thin slices of raw lobster
 Sharpen the pencil
 Sharpen the pencil
 Circle around there
-Give her a kiss
 Sweep away the garbage
 Cut it shorter
 Donald Duck in cute-style (i.e. cute animation of Donald Duck)
@@ -693,7 +693,6 @@ He is always ready to cry
 He closes one eye
 She took a puff on her cigarette
 He wastes lots of money
-He was buried yesterday
 He has lots of money
 She is quite ticklish
 He's got quite the reasoning ability
@@ -738,6 +737,7 @@ He flirts with girls the best
 Boil the clothes to sterilize them
 She cooks a casserole pot of soup
 He has uncovered an inside story
+He was buried yesterday
 He opens his eyes wide
 He slept quite soundly
 He slept like a log
@@ -948,10 +948,10 @@ I'm telling (this to) you now so you know
 I know your father
 I couldn't come up with a neat plan
 I gave him a kiss
+I gave him a kiss
 I like to eat congee (rice porridge)
 I have a stiff neck and feel pain in my shoulders
 I have a stiff neck and feel pain in my shoulders
-I gave him a kiss
 Twist off the lid of the bottle
 The knife has become somewhat dull
 Spread out the quilt
@@ -1299,6 +1299,7 @@ He hit me with two blows
 He digs out the tree stump
 She carries a handbag on her arm
 He tried to strike me with his fist
+Is he capable of handling the matter?
 He takes up the whole table
 She puffed out her cheeks
 He pulled on the string and broke it
@@ -1373,15 +1374,14 @@ He cut his finger accidentally
 He's crying like that
 He turns round and round like in a circular motion
 He begged me for help
-Is he capable of handling the matter?
 He drops the rope down into the well
 He drops the rope down
 He drops the rope down to the ground
 He lost one million (HK.) dollars in doing business
 He hides himself under the bed
 He didn't even dare to speak up
-These days I seldom see you
 It's now seven-thirty
+These days I seldom see you
 Is it really so?
 The baby suckles the breast
 Today the boy is one year old
@@ -1476,9 +1476,9 @@ Don't do it like that!
 Don't be so impatient!
 Don't talk like that!
 Don't scare me!
+Don't join their gang
 Don't make fun of me!
 Don't smoke, okay?
-Don't join their gang
 Don't push him down!
 Don't wake Daddy up
 Excuse me, please give way a little, Please make room for me (so I can get by)!
@@ -1508,9 +1508,6 @@ Doing it this way is also even worse
 That's not so good
 That's all there is to it, it's so easy!
 Well, we don't have any solution
-He didn't sleep last night
-Last night she stayed up quite late
-Last night I slept soundly
 He was stunned with fear
 Hey! I don't like this!
 The piece of wood was submerged in water so that it softened and swelled up
@@ -1532,6 +1529,7 @@ Altogether (or pooled together) it's a total of three thousand dollars
 The movie completely bored me to tears
 Female mannequin
 (We'll) count on you to join in the fun!
+It's now seven-thirty
 Cut these vegetables into slices
 Scald the vegetables
 Wind up this piece of string
@@ -1707,6 +1705,9 @@ It was so hot he felt dazed
 It's now seven-thirty
 Cash transactions are okay
 The referee blew the whistle to end the match
+He didn't sleep last night
+Last night she stayed up quite late
+Last night I slept soundly
 Try to use a bamboo stick to poke it back
 Use mung beans to prepare a herbal drink (to counteract your internal heat)
 Male mannequin
@@ -1786,7 +1787,6 @@ Tuck in your shirt
 With a gurgling sound he vomited it up
 Rinse your mouth out first before you spit out the water
 Rinse these three cups
-It's now seven-thirty
 It came noisily rushing up
 The baby is pleasingly plump and healthy
 Baby boy needs to take a bath
@@ -2337,7 +2337,6 @@ Keep watch on opposing player number 5
 Only by doing that will you be on the right track
 Doing it this way doesn't seem quite okay
 She looks like that, yet you still say she's pretty
-I slept quite soundly last night
 The firecrackers are crackling noisily
 Watch out for their dirty tricks
 There is a rush for property stocks again
@@ -2355,6 +2354,7 @@ My girlfriend's birthday is coming soon, or My girlfriend will soon have a birth
 Add some ice water to the whiskey
 Mother kisses the baby's cheek
 Mom is washing the diapers
+It's now seven-thirty
 My hand is tired from writing
 It slipped my mind while I was writing
 Have you mailed the letter?
@@ -2555,6 +2555,7 @@ It can't be fixed if it's damaged
 Milk is mixed in together with the coffee
 The convict was hanged this morning
 A handkerchief with scalloped edges
+I slept quite soundly last night
 Give me three hundred dollars first
 It would be okay to give me some more
 Give me one hundred dollars more
@@ -2655,7 +2656,6 @@ How do you watch the result of drawing the lottery numbers?
 Why are you so muddleheaded?
 Why are you mad at her?
 Why is she so nervous?
-It's now seven-thirty
 It vanished in a flash with a whizzing sound
 In a flash it had vanished with a whizzing sound
 Pull in your belt
@@ -2912,7 +2912,6 @@ His cooking skills are really not so good
 His writing skills are no good
 His wealth can't be all that much
 She laughed with a sniggering sound
-He passed away yesterday!  
 His face turned white with fear
 As he was sitting down, he lost his balance and fell to the ground
 He sits here and sticks out his tongue licking the corners of his mouth like he has not had enough to eat
@@ -2973,6 +2972,7 @@ She scared Fatty sure enough!
 Her face cloth smells so very bad that it makes you want to vomit
 He practices (shooting) every week so as to develop sharp-sightedness
 He set off a long string of firecrackers
+He passed away yesterday!  
 He has cancer
 She uses a knife to cut one section of sugarcane at an angle
 She shifts from second gear up to third gear
@@ -3264,8 +3264,6 @@ Your method of doing things only brings you hardship
 So then you're actually telling me to lie
 Such days are really unbearable
 In that case what about us? Huh?
-That guy passed away last night
-Last night I screwed his girlfriend
 Last night I worked till quite late
 He slipped and fell with a thump
 Are you trying to scare me? Get the hell out of here!
@@ -3499,8 +3497,8 @@ The automobile had traveled halfway there and broke down
 The car stalled while we were on our way
 The salmon is both big and heavy
 The prostitute wants to retire and get married and live a settled life
-The trousers are so worn they have become unpleasantly shiny
 The skirt should be a bit shorter to suit my taste
+The trousers are so worn they have become unpleasantly shiny
 The fish jumped away and disappeared
 Sofa refers to a kind of furniture
 It started to rain just as I thought of going out
@@ -3522,6 +3520,8 @@ I was called for a foul for no reason at all
 The dentist tells him to open his mouth wide
 Anyone committing a criminal offense will have a criminal record
 In playing blackjack don't go over the limit and bust
+That guy passed away last night
+Last night I screwed his girlfriend
 Sweetheart, I love you forever
 Cook with low heat for a few hours
 Let those chickens roam around to find their food
@@ -3536,8 +3536,8 @@ Weigh the luggage and see how heavy it is
 It's the right time to take herbal nourishment when the autumn wind starts to blow
 Let me treat you to a dimsum meal one of these days
 Let me treat you to a dimsum meal one of these days
-Just wait till I set a trap that'll take care of him
 Let me go over and have a look first
+Just wait till I set a trap that'll take care of him
 Forget about it, and ignore him then
 Redwood furniture is quite solid by nature
 Kids shouldn't play with cigarette lighters
@@ -4252,7 +4252,6 @@ People like that are really rare indeed
 Well you know, this may make things difficult for us
 Speculating in stocks like that can be devastating
 I really can't reconcile myself to the fact that I lost to him in this way
-Last night they performed on stage in Macau
 Last night I worked overtime till after ten o'clock
 He was so scared that his face turned pale
 Come on, ride on Dad's shoulders
@@ -4263,6 +4262,7 @@ Be careful not to step on my foot
 Watch out! There's a drainage ditch in front!
 As for infinite greed, that's human nature
 The one sitting on the side is my older sister
+Joining a large group has more benefits than joining a small group
 By how many percent has it increased?
 By how many percent has it increased?
 By how many percent has it increased?
@@ -4440,8 +4440,8 @@ The place where I have my lunch is not fixed
 I'm worried that I'll miss the train
 As for table tennis, I don't play as well as he does
 In bowling this person is the best
-Playing video games is my best way for reducing pressure in my life
 Even if you count me, there are only three of us
+Playing video games is my best way for reducing pressure in my life
 What tools does a carpenter use?
 First consideration will be given to those who are licensed riggers (as wrtn. in a job advertisement)
 As for playing chess, he's quite addicted to it
@@ -4504,6 +4504,7 @@ To make money he carries goods across the border so they can be resold
 Ordinarily, the manager has no reason not to show up
 In the hot weather she likes to get a suntan
 The referee has blown the whistle to end the match
+Last night they performed on stage in Macau
 Clean the car with some old clothes
 Rub this garment with soap first
 You should pay more attention to your teacher's lecture!
@@ -4619,7 +4620,6 @@ Gymnasts have very long legs
 After the sliced raw fish has been scalded for a bit, then you can eat it
 Who would know today would be so extremely windy?
 Why is there a stinking odor here?
-Joining a large group has more benefits than joining a small group
 Where is the stench coming from?
 Push the table over by the window
 Push the table over by the window
@@ -4857,8 +4857,8 @@ They'll make you work as a freelance prostitute!
 They're here just now chatting about this matter
 While they played and played, it had turned completely dark
 They created a scene with no justification so then I bear the consequences for it
-While they ate, I had slept
 They are eating some chocolate waffles
+While they ate, I had slept
 He is abroad and often misses his son
 He eventually did go even though he was expected not to, so let's forget about it then
 Forget about him if he doesn't come, and we'll go ahead and eat anyway
@@ -4923,8 +4923,8 @@ He looks quite like an emperor when he acts that role
 He took some money out (from his pocket) and buys a newspaper
 She carries a water bucket in her hand and goes to the shower room
 He scolded his son to his face
-His method of making money is scalping tickets
 He's looking for 18-inch electroplated tire rims
+His method of making money is scalping tickets
 He repudiated the debt, so what can we do?
 He repudiated the debt, so what can we do?
 She carries a water bucket in her hand and goes to the shower room
@@ -5235,9 +5235,6 @@ What were the lottery numbers that were drawn that time?
 As for whether doing it that way is okay or not, we'll have to see first
 It's not a pity you couldn't buy that kind of thing
 How dare you say such things!
-Yesterday I went to window-shop with my girlfriend
-Starting from yesterday I'm not looking for him anymore
-Last night all of his stuff was stolen by someone
 I want a beef chow mein, and make it fast!
 All of those who come to my shop are regular customers
 Four dollars plus two dollars, that's six dollars in total
@@ -5264,6 +5261,7 @@ Thank you for your praise, but I think you do even better
 Learning how to type isn't difficult. It's actually quite easy
 One must learn some skills in order to make a living
 Safety measures are continuously emphasized all the time
+At this moment I really don't know what I should do
 Stack up these books together one by one
 Cut some celery stalks into one-inch pieces
 Hang the picture a bit above the light switch
@@ -5352,7 +5350,6 @@ I just now gave him a phone call
 I'm in the middle. She's at the very end
 I have reserved a table in Lai Gung Restaurant
 My leg quite hurts, so give me a massage
-Last night I caught a cold and now I have the chills
 There are already more than ten of us here
 When I fly on a plane I always sleep well
 I'll finish up these leftover things, and then I'll be ready to go
@@ -5382,6 +5379,7 @@ I burned my finger so then it got a blister
 I (as your leader) am looking after you, so what's there to be afraid of?
 My Daddy can definitely destroy him
 I really am addicted to playing bridge
+Last night I caught a cold and now I have the chills
 I really don't know how to be a wife
 I'm really happy till I'm speechless
 With my eyes closed I listened to the teacher lecture
@@ -5499,6 +5497,9 @@ No matter where I am I can fall asleep
 Noodles will be tastier if they have been put in cold water after the first cooking and then cooked again
 The dentist said to her, "Please close your mouth"
 Those hooligans were intoxicated on Special K (i.e. ketamine)
+Yesterday I went to window-shop with my girlfriend
+Starting from yesterday I'm not looking for him anymore
+Last night all of his stuff was stolen by someone
 Make business deals only if they are beneficial
 It will be more shiny and smooth if you plaster it with gypsum powder
 Making him lose face is just right, as he's so arrogant
@@ -5647,7 +5648,6 @@ Why do you never get fat no matter how much you eat?
 Why does the string have several knots in it?
 Shh! Someone is coming, so don't talk right now
 The dictionary fell noisily on the ground
-At this moment I really don't know what I should do
 Nobody can be satisfied with losing money
 Baby's been peeing, and his diaper is completely wet
 After several years Aa Ming and Susan got married
@@ -5927,8 +5927,8 @@ He sat still in front of the TV set the whole night
 His method of making money is scalping tickets
 She takes out a tissue and wipes her forehead with it
 Her stirring up so much damn stuff is completely damn useless?!
-She had finally cleared the debt owed to the loan shark
 He has collected many Japanese postcards
+She had finally cleared the debt owed to the loan shark
 She's preparing soup with watercress and salted pig's knuckle
 Every day he drives his motorcycle out of the urban area to go to work
 He works in the daytime and attends evening classes
@@ -6222,15 +6222,6 @@ Weren't you still studying at that time?
 Look, this photo is of my father
 With this way of gambling success is guaranteed
 If you reprimand him in this way, the two of you may surely end up turning against each other
-Yesterday (the weather) was fine. Did you go out?
-Yesterday I went to see a movie with several friends
-Yesterday financial stocks in Hong Kong had fallen again
-Last night I went to see a movie with several friends
-Last night I ran into your older sister at the movie theater
-Last night I was very uncomfortable and couldn't fall asleep
-Last night I made an appointment with him to eat breakfast this morning
-Last night thirty people came to attend my class
-Why was she the only one winning games of mahjong last night?
 Yesterday I went to see a movie with several friends
 Last night I went to see a movie with several friends
 Last night we celebrated the Mid-Autumn Festival early
@@ -6518,6 +6509,15 @@ She is the most outstanding in the group of girls
 The cops blocked the way and wouldn't allow people to pass
 The group of cops blocked the way, and wouldn't allow people to pass
 The group of police officers are intensely staring at us, so we can't start out on our job
+Yesterday (the weather) was fine. Did you go out?
+Yesterday I went to see a movie with several friends
+Yesterday financial stocks in Hong Kong had fallen again
+Last night I went to see a movie with several friends
+Last night I ran into your older sister at the movie theater
+Last night I was very uncomfortable and couldn't fall asleep
+Last night I made an appointment with him to eat breakfast this morning
+Last night thirty people came to attend my class
+Why was she the only one winning games of mahjong last night?
 Making a fire with wet wood naturally produces a great deal of smoke
 If you use a gas-stove to cook congee it's very easy for it to boil over
 Leave it alone, as there's no need for such trouble
@@ -6579,8 +6579,8 @@ Lychee can cause indigestion, so don't eat so much of them
 Lychee can cause indigestion, so don't eat so much of them
 It's raining so hard that I need to hold up my trouser legs (so they won't get wet)
 Put the tea leaves in the teapot before you pour in the boiling water
-When you go into a bar, you just can't avoid either finger-guessing games or boozing it up with your buddies
 As I was getting off the train the closing train doors caught hold of my shirt
+When you go into a bar, you just can't avoid either finger-guessing games or boozing it up with your buddies
 Get out of here! Don't be blocking my way!
 You damn girl! Why don't you hurry up and come to help?
 It's because his father died that bonzes are performing the ritual funeral service for him
@@ -6763,7 +6763,6 @@ Your staff ID number is five, four, double two (5422)
 Your doing that is the same as taking advantage of a weak person
 Given the way you do business, it'll be strange if your store doesn't have few customers
 Doing things like that could cost you your job
-Why did you stand us up yesterday?
 Please be forgiving, and don't get mad at me
 You look so fine. Why did you have to go into the hospital?
 You seem to be very hungry, so let me refill your bowl with rice
@@ -6783,6 +6782,7 @@ Have you ever slept (had sexual intercourse) with his girlfriend?
 Have you seen this movie?
 What matters do you have that you want to talk to me about?
 You have a slight fever, so maybe you caught a cold last night
+Why did you stand us up yesterday?
 You are so pretty. How could somebody not want to love you?
 What are you using those several bits of tree bark for?
 Why are you standing here so ramrod straight?
@@ -7277,11 +7277,6 @@ That jerk irritates his wife all the time!
 There's a girl with big breasts working at the counter in that McDonald's restaurant
 Wow, you are so sincere to come and pay me a special visit!
 As for whether it will be okay or not, we'll have to take a look first (before deciding on what to do)
-Yesterday as I was driving to work the tire of my car blew out
-Last night in Mongkok some young hooligans had a gang fight
-Last night thirty people came to attend my class
-Last night it rained heavily, so this morning it has flooded everywhere
-Last night I went to see a movie with several friends
 Yesterday morning I went with several friends for yum cha
 Last night I went to see a movie with several friends
 Most of those looking for summer jobs are schoolboys
@@ -7418,8 +7413,8 @@ I want to buy a genuine second-hand Rolex watch
 I would like to have a dish of fried noodles and I want a soup as well
 I hate him so bad! He's just a jerk!
 I haven't seen the number nine signal in all of more than ten years
-When I put on a necktie, I always will use a tie clip
 I'm surprised that no matter how many times I call your mobile telephone no one answers
+When I put on a necktie, I always will use a tie clip
 I had to stay up late at night before I could finish writing my thesis
 When I move house I'll throw out all these odds and ends of things
 When I take the subway it's difficult to avoid being bumped by somebody
@@ -7561,6 +7556,11 @@ Mr. Wong, are you free tomorrow?
 We're just playing, so how come you break the rules so wildly?
 The group of damn boys went to a supermarket to steal things
 The bunch of hoodlums provokes disputes in the streets all the time
+Yesterday as I was driving to work the tire of my car blew out
+Last night in Mongkok some young hooligans had a gang fight
+Last night thirty people came to attend my class
+Last night it rained heavily, so this morning it has flooded everywhere
+Last night I went to see a movie with several friends
 As for reusable shopping bags, I've always got two with me
 My business partner owes me money, so what can I do about it?
 If you use a gas-stove to cook congee, it's very easy for it to boil over
@@ -7738,9 +7738,9 @@ What matter were you quarreling about with people today?
 This time your way of doing things is really way off target!
 Your soccer jersey is all sweaty and smelly, so why don't you change it?
 Your shirt is all wrinkled, so let me help you iron it
+You stand to one side, and don't bother people, okay?
+You stand to one side, and don't bother people, okay?
 As you're standing so close to the edge, aren't you afraid of falling off?
-You stand to one side, and don't bother people, okay?
-You stand to one side, and don't bother people, okay?
 You bastard! How dare you hit my gang leader!
 You need to reduce the size of your file before you can use it
 You damn boy, the whole day all you care about is hanging out on the street!
@@ -7902,8 +7902,8 @@ His son is really naughty, and goes around bullying others all the time
 Her appearance is so fierce-looking, I dare not look at her
 His appearance is so fierce-looking, I dare not look at him
 With such a sour face, he definitely lost money from gambling
-I don't know what he's stuffed into his bulging trouser pocket
 I'm really fed up with his bad temper!
+I don't know what he's stuffed into his bulging trouser pocket
 He is so focused on working he doesn't have any interest in going to school
 He had worked as an office boy but later began to study again
 He didn't want to listen to you babble on anymore, so he decided to eat anyway
@@ -7948,7 +7948,6 @@ He is the weakest one in our class
 In Hong Kong quite a lot of people look for her to be in fashion shows
 Her look is really quite eye-catching!
 I waited for his repair service till I was extremely angry
-He couldn't sleep last night and kept his eyes open all night
 He was sentenced to ten years in prison for rape
 She was disqualified in the exam because she gave her answers to someone else
 Her face is very wrinkled. It's really quite ugly
@@ -8000,6 +7999,7 @@ Every morning he does 100 push-ups
 In order to get promoted, he licks the boss' boots all day long
 His father wants to invest a lot of capital in this company
 He has conflicts with many people, and so may not be able to last long in his job
+He couldn't sleep last night and kept his eyes open all night
 She gave birth to a son, so naturally I'm very happy for her!
 She's given birth to so many kids. Is she going to be a sow?
 He's so ugly that nobody would marry him!
@@ -8051,8 +8051,8 @@ As his face has been withered and sallow for so long, his health is definitely n
 He mumbled his lines so, so that I didn't know what he was saying
 He was imploring me this way and that in asking me to go with him
 He got himself into trouble, as he had wrongly sent the money to another place
-Every day at this time this road is always quite congested with traffic
 Nowadays setting up speed cameras is for the most part with laser guns
+Every day at this time this road is always quite congested with traffic
 Everyone wants a peaceful and stable life
 Do you want to try to see who has the real strength and power?
 The baby has grown so big. When will he be weaned?
@@ -8313,16 +8313,6 @@ If we do it like this, won't it be a bit too mean?
 In such a situation, I have no other way but to persevere and give it all I've got
 You purchased such a stock? How really stupid you are!
 Nothing could be done, so of course I felt quite disgraced
-Yesterday police raided a gambling den for cricket fights in Mongkok
-Last night the boy didn't sleep well and this morning he feels very unwell
-Last night I was screwing my girlfriend till my legs went completely weak
-Last night the kids were noisy, so I couldn't sleep well
-Last night two triad gangs fought with knives and choppers in Yau Ma Tei
-Last night I was cleaned out of all my money by a Macau casino
-Last night I visited my girlfriend and together we injected drugs and got quite high
-Last night I visited my girlfriend, and together we injected drugs and got high
-Last night in my sleep, I felt I was being pressed upon by a ghost lying on top of me, and I couldn't move
-Last night there was a stage performance in the school hall, so did you watch it?
 Yesterday morning I went with several friends for yum cha
 The big rock hit the car with a thump
 Because he requires only more tile to complete his mahjong hand, so of course he's quite excited
@@ -8430,8 +8420,6 @@ At that time when I was in San Francisco I went to Chinatown
 I rented two video cassettes at this store
 I've experienced working in my husband's office for several days
 My roommate has moved out to live somewhere else
-Last night I worked late into the night, so that's why today I feel very tired
-Last night I studied late into the night, so that's why today I feel very tired
 I sat there so long that both of my legs became so numb I couldn't move them
 I had been sitting for such a long time reading that I forgot I was hungry and I lost my appetite
 I had been sitting for such a long time reading that I forgot I was hungry and I lost my appetite
@@ -8463,6 +8451,8 @@ My girlfriend's boob is so big it takes two hands to squeeze it
 My girlfriend's boob is so big it takes two hands to squeeze it
 My girlfriend lives together with her parents and younger sister
 Every morning when I get out of bed I've got such a completely hard erection
+Last night I worked late into the night, so that's why today I feel very tired
+Last night I studied late into the night, so that's why today I feel very tired
 I've discovered my husband likes to get on the internet to watch sex films
 I see three ships are now lying at anchor in the harbor
 When I see how dirty this wall is, then I want to paint it
@@ -8601,6 +8591,16 @@ While Mr. Wong was in Shenzhen he fell into somebody's sex trap
 Ling eventually found a good husband and settled down
 A jewelry store was burglarized and lost jewelry worth two million (HK.) dollars
 Modern society is attaching increasing importance to women's rights
+Yesterday police raided a gambling den for cricket fights in Mongkok
+Last night the boy didn't sleep well and this morning he feels very unwell
+Last night I was screwing my girlfriend till my legs went completely weak
+Last night the kids were noisy, so I couldn't sleep well
+Last night two triad gangs fought with knives and choppers in Yau Ma Tei
+Last night I was cleaned out of all my money by a Macau casino
+Last night I visited my girlfriend and together we injected drugs and got quite high
+Last night I visited my girlfriend, and together we injected drugs and got high
+Last night in my sleep, I felt I was being pressed upon by a ghost lying on top of me, and I couldn't move
+Last night there was a stage performance in the school hall, so did you watch it?
 From here you can walk there in ten minutes
 A man's morning wood could possibly be related to dreaming
 My boyfriend said to me, a girl has to be chubby in order to be pretty
@@ -8842,6 +8842,7 @@ All of your classmates have already completely left
 You are so low caliber. How can you compare to me?
 The way you waste the rice like that is really a shame!
 You've come too late, and all of them have already left
+Could you come over here to see if the wires are wrongly connected?
 Do you have enough strength to lift up this suitcase?
 You seem to be quite tired, as you're sitting here with your eyes closed
 You place a high value on personal loyalty and the way you treat your friends is above criticism
@@ -8902,7 +8903,6 @@ You eat the food so noisily, and it's ill-mannered
 Do you drink your coffee with cream in it?
 Why do you feel you're tricked into doing hard work with no reward by doing volunteer work?
 Why do you purse your lips in displeasure like that? Are you unhappy?
-Could you come over here to see if the wires are wrongly connected?
 He's best at arts, but isn't very good at English
 He lives alone. Someday when he has kicked the bucket, no one will know about it
 She carries some vegetables in one hand and cradles her younger brother in her other arm
@@ -8975,7 +8975,6 @@ He just recovered from an injury not long ago, so his health is still weak
 He just recovered from an injury not long ago, so his health is still weak
 He has such a spotty record of service. How on earth can he be promoted?
 His representative drama is The Story of Liang Shanbo and Zhu Yingtai
-He got completely drunk yesterday, and it was really disgraceful
 After he scored he raised up his shirt and revealed some tattoos
 He likes to mix leftover sauce with rice for a meal before going to bed at night
 When did his girlfriend become so snobbish?
@@ -9014,6 +9013,7 @@ Every time she sees the boss she always puts on a huge grin showing her teeth
 In order to get money, he doesn't hesitate to abandon honor and show no respect to his friends
 No matter how humbly he begged, the cop just determinedly ignored it
 If he causes trouble, I'll uproot (destroy) his entire Ma family
+He got completely drunk yesterday, and it was really disgraceful
 She lost a great deal of blood after giving birth, and so relies on blood transfusions to stay alive
 He hit the table with a bamboo pole making a cracking noise
 From primary school to university, he went all the way without any trouble
@@ -9282,15 +9282,6 @@ Well! The dress you're wearing today is really stylish!
 Wow! Suddenly several cars crashed into each other!
 Wow! I heard that in Wan Chai Road several cars crashed into each other resulting in a serious accident
 As you don't have a boyfriend, do you need to hire a male prostitute?
-Last night you didn't sleep enough, so it's no surprise that today you're very tired
-Last night she was very tired, so it's no wonder she overslept this morning
-Last night around this area there was an incident in which thugs bashed their victim on the head and robbed him
-Last night in Mongkok some young hooligans had a gang fight
-Last night I played ping-pong with my girlfriend at my home
-Last night I was sleeping till late in the night when I woke up at four o'clock and couldn't go back to sleep
-Last night I made an appointment with a group of friends to eat hotpot together
-It had rained last night, so the whole playground is covered with water
-Last night police raided three illegal mahjong gambling dens
 Be careful! If you fall from the building, the only thing left of you will be ashes!
 The toilet got stopped up, so the restroom was filled with an extremely strong stench
 The arrangement of the site was completely in Oriental style
@@ -9542,6 +9533,15 @@ The dentist had to use quite a lot of strength before he could pull the tooth ou
 Even though you're just playing, don't be so fierce, as it looks like you guys are fighting with each other!
 A jewelry store was burglarized while no one was there and lost jewelry worth two million (HK.) dollars
 They're just a bunch of ruffians who fight among themselves, so why be concerned about them?
+Last night you didn't sleep enough, so it's no surprise that today you're very tired
+Last night she was very tired, so it's no wonder she overslept this morning
+Last night around this area there was an incident in which thugs bashed their victim on the head and robbed him
+Last night in Mongkok some young hooligans had a gang fight
+Last night I played ping-pong with my girlfriend at my home
+Last night I was sleeping till late in the night when I woke up at four o'clock and couldn't go back to sleep
+Last night I made an appointment with a group of friends to eat hotpot together
+It had rained last night, so the whole playground is covered with water
+Last night police raided three illegal mahjong gambling dens
 It took five hours altogether to get from my home to here
 Pay more attention to your work, and don't just think about dating
 Of course he feels very uncomfortable, as he hasn't taken a shit for three days
@@ -9627,8 +9627,8 @@ He even sank so low as to sell heroin? What a scumbag he is!
 The longer I walked the more things didn't seem quite right, and it was only later that I realized I had taken the wrong way
 I only have fifty or so dollars on me, so very likely it's not quite enough to take a taxi
 Before you go back to mainland China to get married, you first must apply for and get the bachelor's certificate
-I've been continuosly working for three days and three nights, and I've done that till I'm exhausted
 He has already won three championships including this one
+I've been continuosly working for three days and three nights, and I've done that till I'm exhausted
 Only after a whole hour had passed did he then leisurely come in
 Who was so inconsiderate as to drop these banana skins here?
 Who has taken away the documents from my desk?
@@ -10092,13 +10092,6 @@ Wow, where have you been playing? Your face is so very dirty
 If you're taken advantage of like that, wouldn't you say you were stupid?
 So you dare not even try to do this a little! What a coward you are!
 I've heard a lot of such talk, and it's all talk but no action
-The stock market didn't collapse yesterday simply because someone was propping it up
-Yesterday Mommy went to Japan Home Center and bought an ironing board
-Yesterday morning I went together with several friends to yum cha
-You slept really well last night. You don't even know it rained!
-Last night when he was drunk he talked too much, and then let the cat out of the bag
-Last night it was very hot, so it's no wonder the kids kicked off the quilt while they were sleeping
-Last night a woman was raped as she was returning home
 A counter selling cell phones was set up in the metro station today
 There are many kinds of children's books on the market but their quality varies greatly
 Sit still, and don't twist your body around on the stool (as said to a child)
@@ -10134,8 +10127,8 @@ I have ten days of paid leave this year so I'll take a trip to Beijing
 I'm still a young male virgin, so I quite envy you who are doing it
 The place where I live is somewhat far, but the best thing is it's quiet
 I am bow-legged, but the problem is not very serious
-I had got it just a bit wrong, but then people spread rumors about it so I've become notorious
 I'm working, so can't you guys stop being so noisy?
+I had got it just a bit wrong, but then people spread rumors about it so I've become notorious
 I don't have any money to buy a flat, so then this is the place where I stay
 Until now I had never thought you would tell me these things
 I have been to many stores and compared their prices, and among all of them, this one offers the lowest price
@@ -10172,7 +10165,6 @@ I asked her, has your Prince Charming come or not?
 I've been working here for quite a long time, but the salary is still quite small
 I have been working as a cook in this restaurant for more than ten years
 Where did I buy it? It was that shop in Wan Chai, don't you remember?
-I came back to Hong Kong last night, and have to go again to Guangzhou tomorrow morning
 I'm in a big hurry, so could you take me across the harbor?
 My older sister is always picking on people. She twists the facts and won't admit it
 I hope my son is smart and obedient and studies more diligently
@@ -10187,6 +10179,7 @@ I'm leaving as I've got matters to take care of, I'll see you again tomorrow, by
 I have a colleague who boasts all the time that he lives on The Peak
 My boyfriend comes too soon every time, and it makes me feel very dissatisfied
 My boyfriend comes too soon every time, and it makes me feel very unsatisfied
+I came back to Hong Kong last night, and have to go again to Guangzhou tomorrow morning
 I'll use alcohol to wash your wound, and it'll be a bit painful
 I've discovered my daughter is dating a boy with bleached blond hair
 I really sense he does love me
@@ -10271,6 +10264,13 @@ No matter how troublesome it is, you still must continue doing it
 You've played so much you've made yourself all sticky with sweat, so why don't you go take a shower?
 When the gang of robbers happened to meet the police, every one of them was shot to death
 The kids are here making a huge noise, but I don't know what they are up to
+The stock market didn't collapse yesterday simply because someone was propping it up
+Yesterday Mommy went to Japan Home Center and bought an ironing board
+Yesterday morning I went together with several friends to yum cha
+You slept really well last night. You don't even know it rained!
+Last night when he was drunk he talked too much, and then let the cat out of the bag
+Last night it was very hot, so it's no wonder the kids kicked off the quilt while they were sleeping
+Last night a woman was raped as she was returning home
 Due to the irrefutable evidence, police arrested him at once for prosecution
 From Kwun Tong to Hong Sing you still need 45 minutes more or less
 A: What's your profession? B: I'm a photographer
@@ -10745,7 +10745,6 @@ That movie shot in which the ghost gets in the house to catch people is indeed q
 Wow! You've bought two big flats, so you're quite rich!
 Well, I really must learn things from you senior colleagues in this group
 Well, I really must learn things from you senior colleagues in this group
-Last night I went to Tsim Sha Tsui accompanied by my darling young wife to eat dinner
 Everyone likes him because he is a very trustworthy person
 Because several guests have come, you must sleep in the living room tonight
 Because I had bought two shirts, so he made the price cheaper
@@ -10918,6 +10917,7 @@ Customs found a large quantity of smuggled cigarettes in the false compartment o
 Since it so happens that you're going to visit him, please take a letter to him for me
 Why is the fire so low? Does the gas bottle need to be replaced?
 Each day the athletes have to do three hours of training for physical strength
+Last night I went to Tsim Sha Tsui accompanied by my darling young wife to eat dinner
 Use a sheet of paper to wrap it up. Brown wrapping paper or white paper is fine
 Since childhood, he has been a person who quite likes to argue
 Team A defeated Team B and that ended Team B's five-year unbeaten record
@@ -11338,16 +11338,6 @@ That young hoodlum knows many things, so you go interrogate him (as said by one 
 Wow! There are so many customers today! We can't help but do good business!
 Wow! There are so many customers today! We can't help but do good business!
 Hey, they're so pretty! Take a look, there are a pair of rainbows!
-A single race yesterday made me lose several hundred dollars
-Yesterday I put lucky money in several red envelopes in preparation to give to the sons and daughters of friends
-Yesterday I lost a lot money playing mahjong, so today I'll go out and borrow some money
-Yesterday I lost a lot of money playing mahjong, so today I'll go out and borrow some money
-Yesterday resource stocks and property stocks all slipped lower one after the other
-Last night his head was hit and injured by some hooligans, so immediately he had to go into the hospital
-Last night we had looked for a long time before finding a taxi stand in Central
-Last night we had looked for a long time before finding a taxi stand in Central
-Last night about fifty people came to my dad's birthday party
-Last night in an undercover operation police smashed one unlicensed bar in Mongkok
 Because of flooding in the place where it is grown, this kind of fruit has recently become quite short in supply
 Recently there has been nothing to do, so the boss then fired us
 Because it was raining and the road was very slippery, when I was walking I then slipped and hurt myself
@@ -11437,7 +11427,6 @@ As I am not afraid to talk about it, what is there about these things that makes
 I don't know what's wrong with the car, but suddenly I can't turn the steering wheel
 I was unhappy working there, so it's not strange I left my job
 I asked my girlfriend how big were her tits. She said only 33B
-Last night I chatted with my friend the whole night long, so that's why today I feel a bit tired
 We have waited for you for such an extremely long time, so what are you still doing?
 I'm quite afraid to take a passenger-pooling taxi because I experienced being groped by a layabout kid
 I quite want to challenge him, but I don't know if there is this opportunity
@@ -11465,6 +11454,7 @@ I was still in good shape in the morning, but then in the afternoon I suffered f
 Of course I won't let this chance slip away to go visit you guys!
 Of course I didn't respond to him, I absolutely won't fall into his trap!
 My girlfriend is quite disgusted with other girls who have nice figures and are prettier than she is
+Last night I chatted with my friend the whole night long, so that's why today I feel a bit tired
 My boy-girl problem is a long story. I could talk for a long time and still not finish telling it
 After being elected, I will bring the voice of the community into the legislature
 I really can't endure that China locust in the dormitory!
@@ -11566,6 +11556,16 @@ The dentist said to her, "Please open your mouth as wide as you can"
 The hawker control squad caught a hawker and took his goods which would be used as evidence in court
 We were so happy playing together but then he said he would leave. It is really disappointing!
 As soon as the young people came, things became quite jolly and it's quite happy indeed (as said by an older per.)
+A single race yesterday made me lose several hundred dollars
+Yesterday I put lucky money in several red envelopes in preparation to give to the sons and daughters of friends
+Yesterday I lost a lot money playing mahjong, so today I'll go out and borrow some money
+Yesterday I lost a lot of money playing mahjong, so today I'll go out and borrow some money
+Yesterday resource stocks and property stocks all slipped lower one after the other
+Last night his head was hit and injured by some hooligans, so immediately he had to go into the hospital
+Last night we had looked for a long time before finding a taxi stand in Central
+Last night we had looked for a long time before finding a taxi stand in Central
+Last night about fifty people came to my dad's birthday party
+Last night in an undercover operation police smashed one unlicensed bar in Mongkok
 A: I've won the Mark Six lottery! B: Are you sure about that? (as I'm skeptical)
 A: Tomorrow it's your responsibility, B: Okay, it's fine!
 If a boy doesn't like chatting on the telephone, it's quite possible he'll lose out on flirting with girls
@@ -11916,9 +11916,6 @@ From that time he slapped me on the face right up till now I still haven't been 
 That group of people pointlessly argues among themselves, so it's no wonder some people stay away from them
 At that time he was a British inspector of police who could speak Cantonese and was taking bribes
 As for people who tell only part of the truth like that, I'll feel they're fairly suspicious
-Last night you drank several cups of coffee, so it's not surprising you couldn't fall asleep
-Last night in Yuen Long the police carried out anti-prostitution raids and arrested more than ten prostitutes
-Last night I went together with some friends to Jordan to hang out in an upstairs bar
 There are only a few more people coming, but the waiter is already pressured into a nervous rush
 She didn't get along well with her mother-in-law, so she and her husband had to split up
 Because my boss has forced me to retire, therefore I must now take things one step at a time
@@ -11984,7 +11981,6 @@ I don't drink milk. As soon as I drink it I then feel the pain of stomach cramps
 I don't want to work the evening shift because I want to help my son with his studies at night
 Just now I gave him a phone call, so it's impossible that he left so soon
 That dead husband of mine also left behind some money for me
-Last night I went to bed at ten o'clock, but it was sometime after midnight before I fell asleep
 My face is quite fat. What way is there to reduce the baby-fat in my face?
 I go to sleep quite late, but around five or so in the morning then I've woken up
 I would quite like to know a white boy who lives on Hong Kong island and make him my boyfriend
@@ -12004,6 +12000,7 @@ I have an old friend who fell into a trap: he was cheated out of his money and t
 I haven't started cooking yet, so I think you've got to wait a while before you will have anything to eat
 I originally had come with good intentions to mediate in the quarrel, but who would have thought that someone would punch me?
 My girlfriend says I've gotten her pregnant. Now she wants money to have an abortion
+Last night I went to bed at ten o'clock, but it was sometime after midnight before I fell asleep
 I use this pressure cooker to cook soup and congee, it's been quite good to use
 My boyfriend is not only handsome and stylish, but he also dances quite well
 My boyfriend quite likes to tell bad jokes, but nobody laughs
@@ -12081,6 +12078,9 @@ To cook a boiled egg I first get the water boiling before I put the egg into it
 Dad is a rich but stingy man and isn't willing to give some more 'lucky money'!
 A jewelry store was burglarized while it was occupied, and it's temporarily not known how much the loss was
 Every time these scoundrels have their party, I have to clean up after them
+Last night you drank several cups of coffee, so it's not surprising you couldn't fall asleep
+Last night in Yuen Long the police carried out anti-prostitution raids and arrested more than ten prostitutes
+Last night I went together with some friends to Jordan to hang out in an upstairs bar
 Happy birthday! I wish you will have good luck in everything this year!
 At that time even though it was so dangerous, you still stayed so calm, and you really impressed me
 If Miss Baak were not a perfectionist, she would have gotten married long ago
@@ -12217,8 +12217,8 @@ You want to go out to eat a buffet meal? Didn't you just say you're dieting?
 You should have confidence of success, as I think your application will very likely succeed
 You're always so boastful, but your grades are just so-so
 You're always boasting about how smart you are, and it's really disgusting to me!
-You pull a long face all the time, so even if people want to chat with you, they dare not do so
 You make a sour face all the time, so even if people want to chat with you, they dare not do so
+You pull a long face all the time, so even if people want to chat with you, they dare not do so
 You side with outsiders and help your friends, but you won't help me, your own mother
 You broke the glass, so if it becomes known by the school principal, you will definitely be severely scolded
 What are you up to? I ate just a little bit, but you are charging me more than a hundred dollars!
@@ -12277,7 +12277,6 @@ He has been working at this company for more than twenty years, so he is really 
 He claimed to the managing director that he had connections to him, but it was only to gain some advantage
 His son does well in his studies, as both the father and mother spend the whole day looking after him
 She waved her hands and shook her head like that, so I then knew she also wasn't willing to help us
-He made a big business deal yesterday, so he went to see his boss to get credit for his success
 Everything he says to you is phony information, so don't believe all of it
 His family is so rich that very likely he goes to work only for the fun of it
 With several sons and daughters in his family there's not enough harmony, so it's a household always rife with quarrels
@@ -12289,6 +12288,7 @@ He defeated other opponents of the same group, and so was qualified to participa
 After he gets back from vacation, he will open a file on this matter for follow-up action
 Her breakfast is quite simple. She only eats a piece of toast and drinks a cup of tea
 He came back in a big hurry, and then left again after putting some things down
+He made a big business deal yesterday, so he went to see his boss to get credit for his success
 Her boyfriend knows how to make people happy, he's also even clever at joking around!
 Her boyfriend dresses with a very fresh and attractive look, but she herself is very shabbily dressed
 He helplessly looked at the thieves take away all the jewelry
@@ -12298,9 +12298,9 @@ He has already built his network of relationships in that location, so it's quit
 He's now an investor trapped with stocks that have fallen in value, and he doesn't know when he'll be able to freely unload them
 He was framed by someone just before retirement, and as a result he was fired
 His concepts are outdated and his horizons are narrow, so whenever he does things he cannot help but stick to his old ways
-She said she slept quite well last night, so this morning the color in her face is better
 He said he wouldn't go to the beach because it was too sunny? The real reason must be because he can't swim!
 He's told me they're all feeling quite unwell and won't come to work tomorrow
+She said she slept quite well last night, so this morning the color in her face is better
 He said now a waiter's monthly salary is about ten thousand dollars
 She said she would definitely win the championship if she took part in the beauty contest, so I'm really disgusted with her arrogance!
 What he says sounds pleasing to one's ears, and is so unlike you who criticize people all the time
@@ -12415,17 +12415,6 @@ That restaurant is so high-class that all the waiters wear tuxedos
 Admittedly, doing it this way is good, but I'm afraid it will have little immediate benefit
 You dare let such words come out of you mouth? You really don't know how shameless you are!
 This kind of book shouldn't be read by young people, so why do you want to buy it?
-Weren't you looking for Mr. Lee yesterday? Were you eventually able to find him?
-Weren't you looking for Mr. Lee yesterday? Were you eventually able to find him?
-Weren't you looking for Mr. Lee yesterday? Were you able to find him eventually?
-You were told just yesterday, but today you've forgotten about it, so you're really forgetful
-Yesterday my older female cousin on my mother's side gave birth to a baby boy, and we're all quite happy (about it)
-Last night a Cantonese opera was performed at the Sunbeam Theater in North Point, so did you go see it?
-Last night I went to bed a bit after ten. This morning around nine o'clock I got up
-Last night when I was going to get my car I discovered that someone had stolen the P plate from the rear of my car
-Last night I went to burn ritual paper offerings for Grandpa. Grandpa's new house is very big
-Last night after smoking pot, I couldn't get a hard-on, so that made my girlfriend very disappointed
-Last night the police caught some illegal women immigrants in Mongkok, and most of them had been working as prostitutes
 Because he suffers from night blindness, he doesn't like to drive at night
 Because a car had stopped in that lane I was driving in, I needed to switch lanes and pass around it
 Because a car had stopped in that lane I was driving in, so I needed to switch lanes and pass around it
@@ -12576,6 +12565,17 @@ Firefighters and police officers must still go to work no matter if the typhoon 
 His father said to him, you're such a big man but you still want to get free room and board?
 Dad's now going to take you to ride on the roller coaster. Isn't it wonderful?
 Mr. Wong's family is well-to-do, so of course he has the money to go to a foreign country to study at university
+Weren't you looking for Mr. Lee yesterday? Were you eventually able to find him?
+Weren't you looking for Mr. Lee yesterday? Were you eventually able to find him?
+Weren't you looking for Mr. Lee yesterday? Were you able to find him eventually?
+You were told just yesterday, but today you've forgotten about it, so you're really forgetful
+Yesterday my older female cousin on my mother's side gave birth to a baby boy, and we're all quite happy (about it)
+Last night a Cantonese opera was performed at the Sunbeam Theater in North Point, so did you go see it?
+Last night I went to bed a bit after ten. This morning around nine o'clock I got up
+Last night when I was going to get my car I discovered that someone had stolen the P plate from the rear of my car
+Last night I went to burn ritual paper offerings for Grandpa. Grandpa's new house is very big
+Last night after smoking pot, I couldn't get a hard-on, so that made my girlfriend very disappointed
+Last night the police caught some illegal women immigrants in Mongkok, and most of them had been working as prostitutes
 Using your Octopus card to ride the subway is very convenient. As soon as you have swiped your smart card, you can go through the turnstile
 My boyfriend told me that a close friend of his who is married teaches people to patronize prostitutes
 Judging from his smart look, I don't think he will be cheated so easily
@@ -12857,10 +12857,6 @@ That is a well-hidden place, and the cops know that they take drugs there but ca
 That day he wasn't free, so we needed to wait till the next day to find him
 That restaurant gave many people food poisoning, and so its license was revoked
 So how big is your debt? Do you owe a brokerage or a bank?
-Yesterday while pulling a large bag I twisted my waist, this morning it felt so painful I couldn't bend over
-Last night I slept with the air conditioning on, and this morning I feel like I've really come down with a bad cold
-Last night there was a soccer match to watch, so that's why today many people have pretended to be sick and didn't go to work
-Last night my boyfriend asked me, "When we do it the next time can he not wear a condom?"
 Because she and her husband have both been fired from their jobs, so they plan to return to the countryside to farm
 Because the tip of the pen is too fine, as soon as you write fast, then you completely ruin the papers (you're writing on)
 Because we were in a big rush that day, so we had to take a taxi to go to the airport
@@ -12947,7 +12943,6 @@ An hour after eating at that sidewalk food stall I had diarrhea
 I have quite an extensive network of relationships in the political arena, so that's why many reporters come to me to get information
 That time in a lucky draw I tried my luck, and I drew the jackpot which was a trip to Europe
 That time in a lucky draw I tried my luck, and I drew the jackpot which was a trip to Europe
-Yesterday I typed all these letters, so if you do them again, aren't you just repeating work that's already been done?
 I much approve of teachers working in pairs: one teaches, and one maintains order
 I quite like to shop together with some friends
 I quite like to gamble on soccer. Every day I diligently study soccer commentary, and watch every match
@@ -12958,6 +12953,7 @@ My photography skills aren't great. Most of the photos which I took this morning
 My wife spent all my money, as today I went shopping with her, and now I don't have even one dollar
 I am only responsible for delivering the TV set and am not responsible for setting it up (as said by a deliveryman)
 No matter what time I go to sleep, I automatically get up at a little past seven or eight o'clock
+Yesterday I typed all these letters, so if you do them again, aren't you just repeating work that's already been done?
 My application to immigrate seems to be hopeless, as I've never heard anything more about it
 My boyfriend is quite responsible. I'm not afraid when he goes to Shenzhen by himself
 I give my girlfriend money to buy pills to take, so by doing that we have unprotected sex every time
@@ -13024,6 +13020,10 @@ The boss knows you made the mistake! There's no reason for me to be made the sca
 In order to support his family, A Ming has to work two jobs, and knocks himself out trying to make a living
 In order to support his family, A Ming has to work two jobs, and knocks himself out trying to make a living
 In order to support his family, A Ming works two jobs, and knocks himself out trying to make a living
+Yesterday while pulling a large bag I twisted my waist, this morning it felt so painful I couldn't bend over
+Last night I slept with the air conditioning on, and this morning I feel like I've really come down with a bad cold
+Last night there was a soccer match to watch, so that's why today many people have pretended to be sick and didn't go to work
+Last night my boyfriend asked me, "When we do it the next time can he not wear a condom?"
 Due to one flat having been subdivided into quite a few rooms, therefore the walls were all quite thin
 A: Who are the people still here? B: It seems like she's the only one
 Every day my boyfriend comes to my house to eat free meals. I see my dad really dislikes him
@@ -13273,8 +13273,6 @@ Those two Westerners are here jabbering in a strange language, and nobody knows 
 That day a very heavy rain fell, and there was a landslide and a building collapsed
 That group of guys don't know how to play soccer, but they are going to be playing in a match, so they really won't know where to start
 Back at that time I worked as a one-star probationary police inspector, I earned twenty to thirty thousand bucks a month
-Last night we saw some people turn their backs on the national flag. We also heard some people boo the national anthem
-Last night I ate too much Peking duck, so today I feel rather unwell
 Category-IV movies are pornographic films without any pixelation. The extent of pornography is even higher than in Category-III movies
 Because he didn't get an increase in salary, so he relentlessly pesters the manager about it every day like that
 Because that shop sells contaminated food products, some people are boycotting it
@@ -13387,6 +13385,8 @@ Every night around two o'clock or so I've woken up and can't go back to sleep, I
 Every morning I must kick my husband out of bed before he will go take a shower and brush his teeth
 Shenzhen police smashed a sex-trap gang that was organized by some Hongkongers
 Whenever I tell him I have some photos I want to give him to look at, he always says he's busy
+Last night we saw some people turn their backs on the national flag. We also heard some people boo the national anthem
+Last night I ate too much Peking duck, so today I feel rather unwell
 Your boyfriend has been so good to you but you still act in a self-important way playing hard to get, so watch out because someone may steal him away from you
 Of course, the women are noisy. Have you ever heard that three women and a goose make a market?
 You seem to exercise your body furiously every day, so it's no wonder your figure is so physically fit!
@@ -13596,9 +13596,6 @@ As for that horse, it's dubious if your bet is win, but maybe there's still a ch
 Hey, it's your fault, isn't it? You got him drunk, and so you've got to take him home
 Wow! As soon as you exert your strength your bicep muscles become so big. Is it because you have been lifting weights?
 A good job like that won't be around for long, so why don't you hurry up and apply for it?
-Yesterday my cat bit my hand. As he was biting me a tooth of his fell out into my hand
-Last night he and his girlfriend drove to a secluded place in Sai Kung and had sex in the car
-Last night I didn't turn on the air conditioning, so then this morning my two sons were soaking wet
 Since he's quite afraid of being robbed, at night when he drives his taxi he'll carry a pistol
 Because of that, I have quarreled with my mom lots of times. I'm really unhappy!
 I want to make handicrafts; therefore I must buy corrugated cardboard with lots of different colors
@@ -13693,6 +13690,9 @@ Reporters closely questioned Bow-tie Tsang (2nd Chief Executive of the HK. S.A.R
 I got away right after the explosion. To my surprise I still got hurt, but fortunately it was just a slight injury
 The father had bought a wristwatch for his young son, and now he's so happy he's grinning from ear to ear
 Those students took to the street to demonstrate for their rights, so how can one say they were stirring up trouble?
+Yesterday my cat bit my hand. As he was biting me a tooth of his fell out into my hand
+Last night he and his girlfriend drove to a secluded place in Sai Kung and had sex in the car
+Last night I didn't turn on the air conditioning, so then this morning my two sons were soaking wet
 Every time my boyfriend does it with me he wears a condom, as he doesn't want me to take so many pills into my stomach
 The teacher falsely accused me of fighting. In fact I was only using very little force to play around with my friend
 Chan was really caught in the act this time, as he was seen by his wife leaving a hotel with his mistress
@@ -13835,8 +13835,6 @@ I saw the madam and three girls sitting there inside the room watching TV
 In Hong Kong you can use cash to pay your water bill at any Circle K convenience store
 That salesman can be considered conscientious, his service attitude is also quite good
 That old bastard is well over seventy years of age, but still he says flattering things all the time to the pretty girls
-Yesterday you forgot to punch your time card, so will the boss mistakenly think you didn't come to work?
-Yesterday I got my hair cut in Shenzhen. It was only twenty dollars to wash, cut, and blow-dry my hair! It's really quite cheap!
 Because I ignored him, his expression then made a hundred and eighty degree turn, and it changed to be quite unfriendly
 Sit down first and think about why that matter didn't go well, as that's better than making an unbelievable excuse for your failure
 The one sitting next to me talks constantly, and for a long time I've been wanting to tell him to keep his mouth shut
@@ -13879,7 +13877,6 @@ I asked her if she were afraid her younger sister would get married before she d
 I've just started working as a shop assistant. I never thought I would be so busy with this job that I couldn't get away from it even for a short time
 All my friends know I've tied a fake bun into my hair as a compensating device, because all along I've not had a lot of hair
 My friends, no matter whether they're men or women, all like to go to Shenzhen to have a massage
-Yesterday I annoyed my girlfriend, and now I don't know what to do about it, she's really angry at me
 I don't want to be an insurance broker because I would have to run around all over the place in a monkey suit all day
 I want to start a real estate business in Guangzhou, so do you have any connections to find some pieces of land for me?
 I want to start a real estate business in Guangzhou, so do you have any connections to find some pieces of land for me?
@@ -13893,6 +13890,7 @@ I feel quite sad for her, she's gotten married to a scoundrel, luckily my husban
 I'm going to sue him, but I don't know if I can make him foot the bill for my lawyer's fee
 I basically can't get along with them at all, and you're telling us how to work together?
 My girlfriend dislikes my willy being too short, so is there any way I can increase the length of my willy?
+Yesterday I annoyed my girlfriend, and now I don't know what to do about it, she's really angry at me
 I really didn't know parking a motor tricycle in a motorcycle parking space was breaking the law
 I know my boyfriend is next door, but because I'm very unhappy, I'm ignoring him
 I got braces on my teeth which have made my lips swollen. My face is completely swollen up! Will it always be annoying like this?
@@ -13930,6 +13928,8 @@ The boss told me to work with two stupid people. Of course we couldn't get anyth
 In order to save as much money as possible, before I go traveling I always first do some preparation
 Playing around with stocks requires that you do your homework, so don't imitate what other people do and blindly follow the herd
 The electronic card-reading device at the soccer pitch has been out of order for a month. Nobody has paid attention to it. It's really quite annoying
+Yesterday you forgot to punch your time card, so will the boss mistakenly think you didn't come to work?
+Yesterday I got my hair cut in Shenzhen. It was only twenty dollars to wash, cut, and blow-dry my hair! It's really quite cheap!
 Speaker A says, You don't need to get angry. We can calmly discuss it, Speaker B replies, Discuss your mother!
 That's really strange! Just now I put it right here, so why had it disappeared in such a short time?
 Looking at this home's interior decor, I think it reflects that the owner is quite a romantic
@@ -14051,10 +14051,6 @@ In Hong Kong ordinary locksmiths all have a set of masterkeys, the price is quit
 That thief dropped his own wallet when he was fleeing, so we may well say he lost more than he gained
 That boy is especially ugly. He's so ugly he scares people. That's why I especially recognize him!
 Wow! Fully a dozen or more blue-beret police officers must have been there. Tuch a big battle, so what the hell was actually going on?
-Last night I went to play basketball. To my surprise I was unlucky. I had sprained my ankle. It's painful for me!
-Last night the master circuit breaker for the house suddenly tripped, and the electrician said the refrigerator in the kitchen short-circuited
-Last night an action was carried out to check for unauthorized residents, and it was discovered that three people were living in this dormitory without authorization
-Last night an action was carried out to check for unauthorized residents, and it was discovered that three people were living in this dormitory without permission
 As it's both convenient and cheap, when I go to Hong Kong I usually stay in a serviced apartment
 Because all of us don't own cars, so we all took the MTR to go to Mongkok to see a movie
 Because I had requested time off from class at the Lunar New Year, tonight I must go visit the teacher to make up the missed class
@@ -14124,6 +14120,10 @@ The Yaumatei wholesale fruit market is Hong Kong's major wholesale fruit market 
 The usage rate of the female toilet at the train station is high, so you will often see the women standing in a long queue (waiting to use it)
 He does the cooking, takes the orders, washes dishes, sweeps the floor, and is the cashier. He's a factotum doing everything all by himself without any help
 When the group of students were taking the examination, the teacher saw one of them take a cheat sheet out of his pocket
+Last night I went to play basketball. To my surprise I was unlucky. I had sprained my ankle. It's painful for me!
+Last night the master circuit breaker for the house suddenly tripped, and the electrician said the refrigerator in the kitchen short-circuited
+Last night an action was carried out to check for unauthorized residents, and it was discovered that three people were living in this dormitory without authorization
+Last night an action was carried out to check for unauthorized residents, and it was discovered that three people were living in this dormitory without permission
 Because the speed it was moving at was extremely great, the front end of the BMW sedan was crushed flat on the spot, and the windshield was severely cracked
 My boyfriend's dick is too short. After he's entered me, I really can't feel anything!
 They praise you to your face but then turn around and stab you in the back, so these assholes are no strangers to me!
@@ -14214,8 +14214,6 @@ Towels in saunas can also carry pubic lice, so maybe you contracted it from some
 The market had fallen sharply that day and he lost a lot of money, so the next day he hanged himself and died
 The market had fallen sharply that day. He lost a lot of money, so the next day he committed suicide by hanging himself
 Now, talking about this menu, it seems to be made of genuine leather. They certainly spent a lot of money on that!
-Yesterday when I was making love with my boyfriend he stuck his finger into my anus for a minute. That hurt a lot
-Yesterday a group of us we close buddies went hiking on Lantau, and today we're all extremely tired
 Because several colleagues have been sick and haven't come to work, so these past few days I have been really caught up and busy with work
 Because it was like that, so I then had the suspicion of having been cheated, I also had the feeling that I had been taken advantage of
 Because I've always been wearing boxer shorts, if I wear briefs I feel they're quite tight and uncomfortable
@@ -14274,6 +14272,8 @@ The pedophile said, little sister, what's on your mind? You can tell Uncle about
 After our boss died, we all said it wasn't at all strange his oldest son then became the boss
 It doesn't matter whether it's winter or summer. My kids all like to go barefoot in the house
 After that we then went looking for her. After we had arrived at her house, we then discovered nobody's there
+Yesterday when I was making love with my boyfriend he stuck his finger into my anus for a minute. That hurt a lot
+Yesterday a group of us we close buddies went hiking on Lantau, and today we're all extremely tired
 When he was a DJ, I often listened to the programs he did. His voice was quite nice to listen to
 In judging his appearance, I know he's a womanizer, so don't you be tricked by him into becoming his girlfriend!
 The first person told me to go that way and the second person told me to go the other way, so they really caused me a lot of trouble and made me exhausted
@@ -14622,9 +14622,6 @@ In the emergency room I didn't see any senior doctors. They're all interns, as w
 On the side of the road there is a woman standing next to a parked car, so let's see if it's because her car's engine won't start
 That bad teenaged girl only knows how to chase after the young hoodlums, and from her appearance you know she has been tricked into taking drugs
 All the restaurants over there are crowded with people, so why don't we try this one, or else we can go to Causeway Bay and find a good one
-Last night a friend was waylaid and robbed by someone on his way home, and the robber snatched his watch and several hundred dollars
-Last night a friend was waylaid and robbed on his way home and the robber snatched his watch and several hundred dollars
-Last night my wife wanted to be a wife who didn't cook a meal for one night, so I then gave her a break. We went out and ate Japanese food
 Because she wouldn't accept a long-term contract, the record company boss was then so angry that he kept her from performing for a half year
 Because the young auto repairman didn't lock my car's right back wheel on good, that caused the whole wheel to come off
 As he supports self-determination for Hong Kong, so then the returning officer had disqualified him from standing for office!
@@ -14661,6 +14658,9 @@ I finally asked myself, at the end of the day what am I happiest doing, what do 
 Having such a good opportunity to go study, I'd be quite stupid if I don't study! Okay, no matter what I'll go study!
 Several people seemed like they were going to fight some cops, so we stood there looking all around to watch what would happen
 Every night on this highway, many people are illegally racing their cars, and so accidents have occurred there in great numbers
+Last night a friend was waylaid and robbed by someone on his way home, and the robber snatched his watch and several hundred dollars
+Last night a friend was waylaid and robbed on his way home and the robber snatched his watch and several hundred dollars
+Last night my wife wanted to be a wife who didn't cook a meal for one night, so I then gave her a break. We went out and ate Japanese food
 He looks both tall and strongly built like he's a good boxer, but actually he's weak and can be easily defeated
 The money will be given either to my nephew or my son-in-law, so this time I really face a difficult dilemma
 During the day younger brother can never get any sleep; only after older brother has fallen asleep can he go to sleep, so he sleeps very little
@@ -14873,7 +14873,6 @@ On weekends the public can learn to fly an airplane or fly their own private air
 At the soccer match some soccer fans booed the national anthem. They said they're not worried about being picked out for arrest. If they must be arrested then they'll be arrested, it can't be avoided
 That Miss Hong Kong completely pretended she couldn't speak Cantonese well. In fact every one knew that when she was selected to be Miss Hong Kong she was a local talent
 At that time I remember a white-haired guy was our boss, but now I can't remember what his name was
-Last night I was in an incident with several young thugs at a Wan Chai bar and was forced into paying money. Some waiters required me to pay compensation of four thousand dollars!
 Yesterday the head of the Immigration Department confirmed on the radio that in recent years the number of people with claims for non-refoulement protection has increased a lot
 Recently because he saw some male entertainers had all been exercising to build up their muscles, so then he decided to exercise to build up his own muscles!
 A pregnant colleague tells the boss she can't do anything, in addition she's the boss' relative, so the boss doesn't even dare to give her something to do
@@ -14886,9 +14885,9 @@ Today I went to the hardware store and bought four screws that were two and a ha
 I told a friend not to invest money with someone to buy stuff, but I couldn't persuade him, he said if you want to earn big returns, then you first must invest some money
 I said to the miserly woman I had no money to buy food. She then said she would loan me ten dollars. Maybe that day she was bewitched
 When I go with a group of friends to eat a meal, there will always be several smartphone addicts. They just keep their heads down and are only concerned with pressing on their telephones
-Yesterday I asked him, Why in fact do you still owe the money? Is it that you don't have the money or you don't want to pay me back?
 My older brother has become a completely changed person. He's always arguing with Dad, he also says he wants to divorce his wife. He also doesn't want his daughter
 My older sister had borrowed quite a lot of money, but can't pay it back, so now some debt collectors come to my house and knock on the door saying they want to find her
+Yesterday I asked him, Why in fact do you still owe the money? Is it that you don't have the money or you don't want to pay me back?
 Since my younger brother molested someone when he was fourteen years old, he was sentenced to a two-year probation order, but I don't know if he now has a criminal record or not
 When I was a kid I still remember my village had a pond, and we boys really liked to skip flat rocks across the water there
 When I was a kid I still remember my village had a pond, and we boys really liked to skip flat rocks across the water there
@@ -14904,6 +14903,7 @@ It's like that every time. After I've done it with my boyfriend the first time, 
 He would never reject a request for his help, but many times he just says things to flatter you (and make you happy), so don't expect him to genuinely offer his help
 Of course the boss can't remember everyone's name, but only calling someone Mr. What's-his-name really disrespects people!
 Sales manager Mr. Cheung revealed at the press conference that he estimates the entire project will completely sell and can produce cash of four billion Hong Kong dollars
+Last night I was in an incident with several young thugs at a Wan Chai bar and was forced into paying money. Some waiters required me to pay compensation of four thousand dollars!
 In the village Dad slipped and pulled a tendon in his leg. He returned to Hong Kong and then went to see the bone-setter. The bone-setter said it couldn't be treated
 The adjacent cash-dispensing machine had no money to withdraw, so I had to walk quite far before I could get to another place to withdraw cash, and it was really inconvenient
 Although taxis have already increased fares, taximeters still haven't changed (to reflect that), and urban taxis still start their meters at eighteen dollars
@@ -14933,7 +14933,6 @@ This girl says that in her inner thigh area near her pussy the skin has turned d
 Don't call Putonghua locust language, you'll see the time when you yourself need to speak locust language to communicate with a group of China-mainlanders to earn your living!
 After the young hoodlums were arrested and brought to the police station by the cops, a cop then took their photos and fingerprints
 That day the boss and several colleagues pointed out his mistakes to him, but who would know he still stubbornly refused to admit his mistakes and said he hadn't done anything wrong at all!
-Last night I had drunk liquor till I was about seventy percent drunk. I got in bed with my girlfriend, and then to my surprise I couldn't get an erection!
 Yesterday I helped a friend move some rubbish, sheets of stainless steel, marble, and other stuff, and it was as arduous as if I were a coolie
 Because the government wants to use the judicial system to overturn the election result, so we pan-democrats must all oppose this disqualification!
 Because it was after nine o'clock at night when we arrived at the hotel at the foot of Huashan (mountain), therefore it was pitch dark and there wasn't anything to see
@@ -14960,6 +14959,7 @@ Some overseas Chinese girls have a special attraction for white guys, with their
 The young hooligan shouted at the female boss of the shop, "You watch your step! Are you giving me laisee or not? You better watch out!"
 The worst thing about Macau is the streets have no place at all to take cover from the sun. I got so hot from the sun you could actually take the top of my head and fry an egg on it!
 Because of the visa, my Indonesian helper needs to exit the territory (i.e. Hong Kong), so tomorrow I'll take her to Macau and then we'll turn around and come back
+Last night I had drunk liquor till I was about seventy percent drunk. I got in bed with my girlfriend, and then to my surprise I couldn't get an erection!
 My boyfriend very patiently taught me how to park the car, but when I was parking in a parking space I killed the motor, he told me not to be nervous
 Suddenly in front of me a car entered my lane. I had slowed down but still almost rammed into his car's rear end. I was so angry I was ready to explode
 An old friend asked me if I were interested in going to a wine tasting. The cost was one hundred dollars per person, so of course I tagged along and went together with him
@@ -15035,7 +15035,6 @@ The young boy couldn't find the toilet in time, urine seeped across the cloth of
 The worthless young guy said to the pretty waitress, "Your buttocks are quite springy, so doing it will certainly make some noise, and thinking about it gives me a thoroughly hard erection!"
 Nobody really knows it was she who stole my stuff, but you are all blaming her, so it's really the case of a bad person getting away with his evil deed, while the good person gets punished for it!
 The day before yesterday I bought a set of bedding, but I discovered the quilt cover is black, so would this be an omen that's not so good?
-Last night I was chatting in bed with my girlfriend. I the next room her younger brother was making love to his girlfriend and moaning. Hearing that got us sexually aroused
 In coming to this café to buy something to eat you must be patient. The unlucky thing is at anytime you have waited more than twenty minutes and you still haven't bought anything
 Because my experience has been bad, so I sometimes regard every woman as being a Hong Kong woman. All are so mean and worthless, and so unworthy of being cherished
 Because the government wants to use the judicial system to overturn the election result, so then we must use civil strength to resist this disqualification! 
@@ -15057,6 +15056,7 @@ I've heard people say that joss paper must be folded in the daytime, but a frien
 Travelers holding boarding passes for connecting (onward) flights, please follow the directional sign to the departure level for boarding gates, and undergo security screening
 During summer vacation the kids all quite like to go to a camp, they can ride on horses, go on hikes, swim, and such things like that
 A classmate's parents were constantly scolding him about his poor grades. Eventually he couldn't stand the pressure, and used two school ties to hang himself and commit suicide
+Last night I was chatting in bed with my girlfriend. I the next room her younger brother was making love to his girlfriend and moaning. Hearing that got us sexually aroused
 My boyfriend let me know that he had met a livelihood emergency, so he asked me if I could loan him money to use, when he's got money he'll pay me back
 When the tour bus parked at the entrance to the park to prepare to get off, I felt quite regretful. I discovered I had forgotten to bring my camera!
 My wife is always quite worried when going out that she didn't turn off the gas, didn't turn off the faucet, didn't turn off the lights, and didn't shut the windows
@@ -15083,11 +15083,10 @@ It turns out rich young guys like to go out at night to hang out at bars and com
 Opposing the transformation of Hong Kong into being more like mainland China is something which very many Hongkongers demand. The process of Hong Kong's modernization was completely different from that of mainland China
 This road is really both steep and slippery. I've seen a taxi applying the brakes and rolling down like that. It's really very dangerous!
 At that time the road was quite slippery. I saw the car in front of me suddenly swing around 180-degrees. I didn't know if I could brake in time. It scared me to death!
-Yesterday I went to a massage parlor that provides masturbation service and the girl said my rod was quite big, I jokingly asked her, do you always utter that line whenever you see a familiar face?
-Last night a friend and I had drunk too much, but we still went together to play ball. When my friend kicked the ball he fell down twice. I found it really hilarious
 The Basic Law says that Hong Kong implements an administration that is led by the executive (branch of government), but a lame government can't do this. On the contrary it has changed into an administration that is led by inflexible bureaucrats
 Mom knows that if you don't teach a child to know things, when they grow up it's possible they'll become bad. It's just like the saying that the child who steals small things may grow up to steal valuable things!
 After older sister had gotten married, she got completely out of shape, now she doesn't go jogging, she doesn't go swimming, she doesn't do any kind of exercise
+At present flower crab is very expensive, so we had better buy prawns! As for eating, they're very meaty, and just as satisfying!
 This morning when passing by a stall I saw some Bee Flower scented soap for sale. I was longing to buy it for taking a bath, but I didn't know if it's good to use or not
 In the past we had two cars. It was because we had two parking spaces, so my husband drove his sports car, and I drove a Volkswagen
 I found a sexy girl. The pimp asked me if I were interested, I said okay, and asked him, "What's the price?" He said, "A hundred fifty dollars"
@@ -15097,10 +15096,11 @@ Sometimes a solo beat and a paired beat are walked in combination together. It's
 Sometimes when you're buying stuff and you really don't like showing your whole wad of money like that for people to see, if you've got a credit card then you can carry less money
 Of course foreign dragon-boat teams which come every year to Hong Kong to compete in the international dragon-boat races are all champions in their countries, only very capable people will join in the competition
 Every indigenous male inhabitant of the New Territories has the right to build a small house. He can apply to the government once in his life to build a small house on land in the village he belongs to and live in it himself
+Yesterday I went to a massage parlor that provides masturbation service and the girl said my rod was quite big, I jokingly asked her, do you always utter that line whenever you see a familiar face?
+Last night a friend and I had drunk too much, but we still went together to play ball. When my friend kicked the ball he fell down twice. I found it really hilarious
 A male dancer in the show did two somersaults on the back of a horse, then he did a headstand. His skill was really quite terrific!
 Who would have thought that one day I felt sympathy for a colleague. I felt he was quite lonely, so I had a one-night stand of casual sex with him, then several days later he had gone into hiding
 Who would have thought that one day I felt sympathy for a colleague. I felt he was quite lonely, so I had a one-night stand of casual sex with him. Then several days later he had disappeared
-At present flower crab is very expensive, so we had better buy prawns! As for eating, they're very meaty, and just as satisfying!
 This derby soccer match is called a friendly derby, but for heaven's sake don't you assume that in this derby the two sides will be playing so genteelly!
 Today was the first time my boyfriend and I had done it (had sex). As soon as we had taken off all our clothes, he immediately then said to me that my chest was quite small, and that I was just like a washboard
 This morning I had got up quite early at six o'clock to turn on the TV, I was thinking to see if there was the typhoon signal number eight. The result was I didn't have to go to work!
@@ -15191,10 +15191,6 @@ Any type of sandwich with two choices of fillings is twenty-four dollars. There'
 These pork ribs with sweet-and-sour sauce include pork ribs, pineapple, onion, and green bell pepper. The pork ribs were fried up with a very good flavor. Moreover the pineapple also has a rather sour taste
 The dinner here tasted quite good, but the portions were rather small, and in addition the food was brought out very slowly, but at that time there were just two or three tables with diners
 In Shanghai street in Yau Ma Tei there's a Thai restaurant. At night it covertly turns itself into a bar with male prostitutes. Some young male prostitutes from Thailand offer sexual services to female customers
-Yesterday in Mongkok police arrested five gamblers who are fans of cricket-fighting, and they confiscated two hundred fighting crickets, cricket-fighting paraphernalia along with eight thousand dollars of betting slips and cash
-Last night after we had finished watching a movie I spent the night at my girlfriend's house. In the middle of the night I woke up and couldn't stop myself from feeling around searching for my girlfriend
-Last night a pair of young lovers, while it was late and quiet, put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex acts outdoors
-Last night some cops pretended to be gays for an undercover operation, and successfully raided three one-man gay brothels, and arrested three gay male prostitutes from mainland China
 Because some drivers like to rush through yellow traffic lights, you old folks should be especially careful when you're crossing the road. Also don't walk too slowly
 Because the acoustics of the performance hall were quite bad, she needed to lip-sync for the whole show, but the fans were still so damn happy!
 If you ignore work pressure that builds up over time, then very quickly you're going to break, so you must schedule time to do some stress-reducing activities that release the pressure!
@@ -15205,6 +15201,10 @@ My boyfriend is overseas Chinese, but except for his English being quite awesome
 I'm really bad at tossing and turning in my sleep. My husband often complains that after I've fallen asleep I always hit him, kick him with my foot, and keep him from sleeping well every night
 I'm now exactly eighteen weeks pregnant. Sometimes the baby moves the whole day. Sometimes I can't feel anything for several hours, and then I get quite worried about it
 A salesman told me off the record that this mobile phone should come down in price quite soon. It's to my advantage to wait a bit before buying it
+Yesterday in Mongkok police arrested five gamblers who are fans of cricket-fighting, and they confiscated two hundred fighting crickets, cricket-fighting paraphernalia along with eight thousand dollars of betting slips and cash
+Last night after we had finished watching a movie I spent the night at my girlfriend's house. In the middle of the night I woke up and couldn't stop myself from feeling around searching for my girlfriend
+Last night a pair of young lovers, while it was late and quiet, put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex acts outdoors
+Last night some cops pretended to be gays for an undercover operation, and successfully raided three one-man gay brothels, and arrested three gay male prostitutes from mainland China
 My husband says every day at his company as soon as he opens the lunch box I've fixed for him, his colleagues' mouths then water, and they envy him having a home-cooked meal to eat
 Last year my older sister got married. In the restaurant the people suddenly got quite happy and excited, especially the men friends who were getting drunk for all they were worth, the atmosphere was wildly bustling!
 The hiker slipped and fell down. His two legs were broken, because the environment was quite difficult, so the Fire Department had to mobilize the High Angle Rescue Team to rescue him
@@ -15214,7 +15214,6 @@ Working as a bar bender is not easy. You even have to work in scorching sun and 
 As a matter of fact, Hong Kong also has masters of Asian black magic who cast magic spells. Moreover there are even three kinds of extremely terrible methods for casting magic spells; they're differentiated as incantations and curses, magic potions, and talismans
 For those several nights without sleeping pills I couldn't sleep, so the day before yesterday when I went for the subsequent consultation the doctor asked me if there was a need to continue prescribing the medicine. Naturally I said I wanted it no matter what
 This furniture design company offers a package deal of custom-made furniture for the whole house, including living room, dining room, and two bedrooms. The starting price is fifty thousand dollars
-Last night while it was late and quiet a pair of young lovers put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex outdoors
 If you're fighting on the street with somebody, and a cop passes by, it's bad luck. You'll then be taken back to the police station. Being persistently questioned is quite annoying!
 Somebody illegally parked on the other side, and they've been there for at least thirty minutes, but the cops seem not to dare to write a ticket, so maybe a privileged person has police protection
 I feel getting married really puts quite a lot of pressure on me now. A marriage certificate doesn't have any real purpose. That's to say if she wants it, then I might as well give her the piece of paper!
@@ -15227,6 +15226,7 @@ I also often go hiking by myself in Tai Mo Shan Country Park. The hikers even vo
 Losing water from its body is a natural process for a baby after it's born, and generally speaking, one or two days after the baby's birth, its weight will be reduced because of losing water from its body
 Losing water from its body is a natural process for a baby after it's born, and generally speaking, one or two days after the baby's birth, its weight will be reduced because of losing water from its body
 Sometimes when I'm walking together with a Hong Kong girl, I hear some passersby say to her, "Ha! Fate has so punished you to have to be together with an Indian man!"
+Last night while it was late and quiet a pair of young lovers put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex outdoors
 My boyfriend's parents don't like me, my parents don't like my boyfriend, and the two of us seem to be just like a sandwich cookie caught in the middle of an awkward predicament
 Although sometimes I will think, gosh, if I had a lot of money that would be great, however, to turn things around (and say it another way), there are lots of people who are poorer than I am!
 Of course at first you think the ones responsible for gambling chips in the casino are knowledgeable locals from Macau, but you're wrong, as it turns out a lot of them are Hongkongers
@@ -15298,9 +15298,9 @@ After she was robbed by the thief, she then installed a safety bell in the one-w
 The cop said he wanted to search my body. I then said it was necessary to have another policeman present. It wouldn't do to just have one person search me, because if something happens then neither person can prove his version of events
 Some old men are always saying to the young guys, "I've eaten more salt than you've eaten rice." It's because they want to emphasize they have comparatively more experiences of life
 At the Hong Kong airport a tour bus met us to take us to our hotel. After that another tour bus took us to see Hong Kong's night scenery, and then we went to a restaurant to eat
-Last night I went to the toilet and couldn't open the door, so then I called to look for a security guard to come up and open the door. As soon as the door opened I then saw the boss and a female colleague were inside!
 To celebrate the Lunar New Year our family will gather together. Mom says she wants to eat Japanese food, Dad wants to eat Italian, and I want to eat Shanghai food. I don't know which restaurant can satisfy us
 Every time I go to my girlfriend's house, her mother treats me like a servant. She will tell me to help her fold up clothes. She even tells me to wash the dishes, teach my girlfriend's younger brother how to do his homework, and so on
+Last night I went to the toilet and couldn't open the door, so then I called to look for a security guard to come up and open the door. As soon as the door opened I then saw the boss and a female colleague were inside!
 Brass knuckles are a kind of weapon used when fighting bare-handed. In Hong Kong they're a prohibited weapon. Taking brass knuckles with you when you go out is against the law, and you can be imprisoned for three years
 People all know that in Hong Kong competition to get into school is also rather intense, because it's the through-train school, so parents and primary-six students aren't worried about advancing to middle school
 That hamster you bought got sick and died within a week, but I think it's no use for you to go to the shop and complain. It's quite possible the shop clerks will say you had played with it till it died
@@ -15309,11 +15309,11 @@ The massage girl gave the man such a hard-on (erection) he was ready to explode,
 The pseudo-model said, my chest is quite big but it's real. I've experienced other models without asking give me a poke on my chest. They said they were checking to see if it were real or not!
 In fact she's also a pseudo-model, but not one with big boobs and no brain. It turns out she's studying medicine at Hong Kong University, and is also even thinking of hanging out her shingle and being a doctor after she graduates this year
 The symptoms of illness caused by prolonged exposure to cold air conditioning include dry eyes, dry throat, dizziness, headache, runny nose, aching back and bones. It is only by leaving the air-conditioned room that the symptoms will disappear
-Yesterday on the way going home in my husband's car, he stopped the car, turned off the ignition, and got out of the car to go buy stuff. I was the only one inside the car and was asleep. After a while I got so hot I woke up
 I can affirm her boobs have been surgically enlarged with implants. Before when the whore was in Victory Road her pair of big boobs hadn't been cut. However she's quite pretty. Her service is pretty good. She's willing to do whatever you tell her
 Yesterday when I was out shopping someone opened the zipper on the backpack I was wearing. I discovered my coin purse was stolen, but luckily the purse with my credit card was still there
 My wife and my mother quarrel all the time. My wife says she wants to divorce me. I'm really quite vexed. I'm caught in a difficult dilemma between two sides, and I don't know what I should do at all
 According to regulations on employment of domestic helpers, foreign domestic helpers who have been fired must leave Hong Kong. That's to say they must leave Hong Kong for a period of time before they can come back and work in Hong Kong
+Yesterday on the way going home in my husband's car, he stopped the car, turned off the ignition, and got out of the car to go buy stuff. I was the only one inside the car and was asleep. After a while I got so hot I woke up
 Hong Kong is one of the world's busiest cargo container ports. Most of the cargo containers passing through Hong Kong are handled in the nine container terminals located in Kwai Tsing
 Hong Kong is one of the world's busiest cargo container ports. Most of the containers passing through Hong Kong are handled in the nine container terminals in Kwai Tsing
 Hong Kong is one of the world's busiest container ports. Most of the containers passing through Hong Kong are handled in the nine container terminals in Kwai Tsing
@@ -15332,9 +15332,9 @@ As the old lady hit the paper effigy, she also loudly shouted, "I beat you, pett
 As the old lady hit the paper effigy, she also loudly shouted, "I beat you, petty person! You have air but can't breathe! You have feet but can't walk!"
 In fact crashing his car is his own problem, he shouldn't look for you to pretend to be the driver and take the blame for him, for him and you to do like that is illegal! It's called perverting the course of justice!
 The clientele for this nightclub with Thai male prostitutes is fairly broad; it includes local businesswomen, professional women, lawyers, overseas Chinese women from Thailand, and so on, and ranges from young girls to middle-aged married women
-Last night I went to a wedding banquet, and next to me was someone who had barged in to eat without being invited. We finished eating the shark's fin soup and he was eventually found out, and after he had been given a tongue-lashing by the host he was then forced to leave
 I'm the same as you, I also feel guys wearing flip-flops look really disgusting, but because girls have prettier toes, so for us wearing flip-flops is fine
 Tuesday night while playing ball I twisted my ankle, after going into the hospital and having an X-ray taken I then knew the bone wasn't broken, only the ligament has something wrong with it, but today my foot is still quite swollen, and it's completely bruised
+Last night I went to a wedding banquet, and next to me was someone who had barged in to eat without being invited. We finished eating the shark's fin soup and he was eventually found out, and after he had been given a tongue-lashing by the host he was then forced to leave
 Late last night the police carried out Operation Torch in Kwai Chung, Happy Valley, Chai Wan, and several other places and dealt a severe blow to illegal car racing. Altogether in the operation fourteen race cars were intercepted and seized
 As for cage fighting, under the conditions of two people not wearing any helmets or kneepads to protect their bodies, punches with fists, jabs with elbows, and snap kicks with feet are all okay
 You better not hire an illegal worker to work for you. Last year my boss hired several illegal workers. All of them stole stuff, but my boss couldn't report them to the police, because he had broken the law by hiring them!
@@ -15382,12 +15382,12 @@ If you discover when the man is talking that he's coarse and also not your type,
 He and I were fighting for the ball in the air. I took a couple of steps back, raised his whole body up in the air. After that I flung him down hard so he dropped to the ground like a black fish onto the chopping block. Then I saw there was blood all over the ground, along with two of his teeth
 I want to know if there's still a residents' bus from Central returning to Tai Po. What number is it? Where do you board the bus in Central? After returning to Tai Po where do you get off?
 Finally the police officer will tell you that you must sign your name on each page of your cautioned statement to verify it. This is your last time to have the opportunity to change the contents of your statement. As soon as you've signed your name, then you've verified it and you can't make any more changes to it!
-Last night when finishing work a colleague was walking down the stairs. Suddenly she loudly cried out. What happened was she made a misstep. She wasn't careful so she sprained her ankle. Her ankle bone then swelled up, it was as big as an egg!
-Last night police intercepted a boat smuggling illegal immigrants at Lantau Island. They arrested twenty Indian and Pakistani illegal immigrants and the snakehead smuggling the illegal immigrants. It's the third group of South Asian illegal immigrants intercepted by police within two days
-Last night police intercepted a boat smuggling illegal immigrants at Lantau Island. They arrested twenty Indian and Pakistani illegal immigrants and the snakehead smuggling the illegal immigrants. It's the third group of South Asian illegal immigrants intercepted by police within two days
 I went in to eat dinner. From the start the waiter strongly recommended lobster and grouper, but I refused to listen to him and ordered some other dishes. His expression then made a hundred and eighty degree turn, changing to quite bad
 For one whole week my digestive system felt inflamed and sore and I had diarrhea. A friend recommended I drink some fermented tea. I don't know if it's really miraculous or if I got better because my illness had run its course. Now I really have nothing the matter with me
 One day I and some classmates were holding a student union activity. Since we offended several horny senior classmates, they then told us to take off our shirts and pants. It seemed like they wanted to bully us, and fool around doing some lewd stuff with us
+Last night when finishing work a colleague was walking down the stairs. Suddenly she loudly cried out. What happened was she made a misstep. She wasn't careful so she sprained her ankle. Her ankle bone then swelled up, it was as big as an egg!
+Last night police intercepted a boat smuggling illegal immigrants at Lantau Island. They arrested twenty Indian and Pakistani illegal immigrants and the snakehead smuggling the illegal immigrants. It's the third group of South Asian illegal immigrants intercepted by police within two days
+Last night police intercepted a boat smuggling illegal immigrants at Lantau Island. They arrested twenty Indian and Pakistani illegal immigrants and the snakehead smuggling the illegal immigrants. It's the third group of South Asian illegal immigrants intercepted by police within two days
 A said to B: Somebody has said to me, you said to the boss' face that I steal things, B replies: Who said such a thing? The best thing is to tell him to come out to clear things up with all of us all in one go
 The judge ordered the defendant to go in (to the dock), he then immediately stepped into the dock, but all of a sudden he went crazy, he pushed over the court policeman next to him, opened the bar of the dock and ran away!
 What are Hong Kong's core values? I'll tell you, Hong Kongers have freedom, democracy, human rights, fairness, freedom of speech, freedom of the press, rule of law, clean government, independent judiciary
@@ -15404,8 +15404,8 @@ When I go camping or shoulder a heavy load while hiking, I usually will use a hi
 It's possible Judaism's ban on eating pork is related to the hygiene environment of that time, but even though the hygiene environment has improved to be good today, there's just no leeway about it, and Jews aren't allowed to eat pork and that's the way it is
 First of all, you yourself need to go to the Registrar of Marriages. You have to have gotten the Certificate of Absence of Marriage Record first. To do this you'll need to pay eight hundred and forty dollars as processing-fee, wait about fourteen working days or so, and then it's taken care of
 At the Mid-Autumn Festival this restaurant sells mooncakes. Making mooncakes requires a large amount of salted egg yolks, but the egg whites have no use, so the boss ordinarily takes the salted egg whites and gives them to the waiters for extra income (by selling the egg whites)
-Last night in Prince Edward a cop checked my identity (ID) card, searched my body, asked me stuff, and originally it wasn't anything, but in the middle of this without any reason he told me to open up the waist of my trousers. After that he shone a flashlight inside the front and back of my underpants
 The guy has already been in the bathroom for a very long time. There was no sound of water so then I assumed he's finished, but who would know he turns the faucet on again? I hear him brushing his teeth. Assuming he's finished everything, I hear him turn on the faucet again, maybe he's washing his face
+Last night in Prince Edward a cop checked my identity (ID) card, searched my body, asked me stuff, and originally it wasn't anything, but in the middle of this without any reason he told me to open up the waist of my trousers. After that he shone a flashlight inside the front and back of my underpants
 To my surprise the bill for this plate of shrimp in tomato sauce was two hundred and thirty dollars. On average each shrimp was more than thirty dollars. At the time I was really shocked, but there was nothing I could do. I couldn't say anything, so I paid up, but then there's no next time
 I had first applied for leave from the boss, and then bought the airline ticket and reserved the hotel room, but then who would know the boss suddenly tells me that he has work for me and I can't go on vacation, so I was really put in a difficult spot by him
 In the past the two brothers were shareholders in a company, but they had conflicts every day, and there was no way they could continue cooperating with each other, so as a result they broke up and went their separate ways, and the company was then closed down 
@@ -15417,8 +15417,8 @@ I have bought a poodle. It's a female. Originally I thought I could put up with 
 Yesterday Customs smashed an endangered-species smuggling case at the Kwai Chung Customshouse Cargo Examination Compound, and seized a total of one thousand two hundred ivory tusks, thirteen rhinoceros horns, and five leopard skins, the total value of the goods was about forty-one million (HK.) dollars
 I've got several lines to say to sweet-talk a girl into going to bed. For example, if you really love me then you'll let me do it. I'll definitely marry you. Anyway it's something we'll do sooner or later. I guarantee nobody will know. It won't hurt, so believe me!
 In the dash cam video the driver sees that in front of him there's a big puddle. He then says, "So I'll then go across it." Who would know after he's gone across it the car surprisingly breaks down, so then like that the driver is stopped in the middle of the puddle! 
-Last night I was riding my bicycle on the road in my estate to return home. Both my front and back lights were all lit. A taxi opposite me didn't use its signal light, and when it was driving on my right front side it suddenly turned in toward my left. Luckily I was able to stop in time. Otherwise I would have been hit hard!
 I bought a restaurant coupon for one hundred dollars. It said the original price was five hundred dollars; after going to the restaurant to eat I knew it wasn't worth the money. It turns out they told such a big lie, my wife said to me it was too good to be true
+Last night I was riding my bicycle on the road in my estate to return home. Both my front and back lights were all lit. A taxi opposite me didn't use its signal light, and when it was driving on my right front side it suddenly turned in toward my left. Luckily I was able to stop in time. Otherwise I would have been hit hard!
 My older brother has become a completely changed person. He's always arguing with Dad. He also says he wants to divorce his wife. He's also rejected his daughter, his two eyes look very strange. Damn, maybe he's had a magic spell cast on him by a shaman. Now we don't know what to do about it!
 The World Health Organization's standard is that two point five fine particulate matter shouldn't exceed twenty-five micrograms (per cubic meter), but the government is incapable of solving the air pollution problem, so it flouts and ignores the international standard, and adopts a relatively looser and more favorable standard of seventy-five micrograms
 In fact my girlfriend and I had never ridden in an open-top bus, I heard people say at night on Christmas riding in an open-top bus on a tour of Hong Kong has a quite nice atmosphere and is a lot of happy fun, so this year I and my girlfriend will give it a try and ride together in one!

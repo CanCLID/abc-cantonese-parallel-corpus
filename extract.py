@@ -2,10 +2,31 @@ from bs4 import BeautifulSoup
 import regex as re
 from glob import glob
 
+substitution_yue = (
+    ('!', '！'),
+    (',', '，'),
+    (':', '：'),
+    ('?', '？'),
+    ('啝', '喎'),
+    ('噖', '琴'),  # 噖[日晚] -> 琴[日晚]
+    ('嚫', '親'),
+    ('衭', '褲'),
+    ('贃', '賺'),
+    ('𠶧', '掂'),
+    ('𠹺', '埋'),
+    ('𡁵', '緊'),
+    ('𡃶', '錫'),
+    ('依𠺢', '依家'),
+    ('而𠺢', '而家'),
+    ('𠺢吓', '家下'),
+    ('𠺢陣', '家陣'),
+    ('星架波', '新加坡'),
+    ('自覺得己', '覺得自己'),
+)
+
 def normalise(yue: str, en: str) -> tuple[str, str]:
-    yue = yue.replace(',', '，')
-    yue = yue.replace('!', '！')
-    yue = yue.replace('?', '？')
+    for src, dst in substitution_yue:
+        yue = yue.replace(src, dst)
     return yue, en
 
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
