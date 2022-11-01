@@ -69,11 +69,20 @@ pattern_pua = re.compile(r'[\ue000-\uf8ff\U000f0000-\U000ffffd\U00100000-\U0010f
 def contains_pua(s: str) -> str:
     return bool(pattern_pua.search(s))
 
+def is_paren_balanced(yue: str, en: str) -> bool:
+    a = yue.count('（')
+    b = yue.count('）')
+    c = en.count('(')
+    d = en.count(')')
+    return a == b == c == d
+
 def should_remove(yue: str, en: str) -> bool:
     if '(empty band???)' in (yue, en) or \
             '[missing example characters???]' in (yue, en):
         return True
     if contains_pua(yue):
+        return True
+    if not is_paren_balanced(yue, en):
         return True
     return False
 
