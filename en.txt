@@ -2145,10 +2145,10 @@ He holds the cardboard box on the palm of his hand
 She raised up her head and saw me
 Do I need to take off my shoes?
 Generally speaking you better not do it
-Okay, I understand what I should do
 Were you looking for me?
 He is the one who told me about it
 Right, then it's like that
+Okay, I understand what I should do
 Let Mom give you a kiss
 The baby boy has developed prickly heat
 The wound has still not healed up
@@ -2659,8 +2659,8 @@ It's now seven-thirty
 It vanished in a flash with a whizzing sound
 In a flash it had vanished with a whizzing sound
 Pull in your belt
-Baby, it's time to go to sleep
 The baby's head is round like a ball
+Baby, it's time to go to sleep
 Funfair; entertainment show
 One catty of flour is mixed with a half catty of water
 One stack of books, three stacks of magazines
@@ -3779,9 +3779,9 @@ You need to lift up your feet to dance ballet
 You must first take off those pieces of jewelry
 You need to decide to put serious effort into your studies
 See what happens to you if you beat someone up again!
-Would you say he's gay or not?
 Would you say it was like that or not?
 Which pseudo-model would you say is the prettiest?
+Would you say he's gay or not?
 Your telling lies has no effect on me
 You speak Cantonese quite well
 You follow behind and keep a close watch on the automobile in front
@@ -4166,7 +4166,6 @@ How can one breathe under the water?
 The staff are required to report for duty according to the duty roster
 Oh! I now realize the situation turns out to be like this
 No matter how hard things get, I have to endure
-Yes, right, then it's like that
 There's no need for you to become well-known in this way, right?
 I bet it'll not rain tomorrow
 It's not the case! It's impossible!
@@ -4195,6 +4194,7 @@ If you don't know anything about it, then don't be here acting like you're cleve
 Do you really mean to say that you've never seen her?
 If he doesn't like it then don't force him to eat it
 If you don't like to eat it, then throw it away
+Yes, right, then it's like that
 As soon as the ticket office opens up, there's a really long queue of people (waiting to buy tickets)
 The more angry people got the more they said he's disgusting
 The students go to school carrying schoolbags on their backs
@@ -4258,9 +4258,9 @@ He was so scared that his face turned pale
 Come on, ride on Dad's shoulders
 Four quarts equal one gallon
 Returning bottles (after use) is beneficial to the natural environment
-Watch out! There's a drainage ditch in front!
 Be careful not to get your hand caught and hurt by the car door
 Be careful not to step on my foot
+Watch out! There's a drainage ditch in front!
 As for infinite greed, that's human nature
 The one sitting on the side is my older sister
 By how many percent has it increased?
@@ -4583,9 +4583,9 @@ The house has been gorgeously decorated
 The bank is directly opposite from the subway station entrance
 Is it any of your fucking business? Fuck off!
 Sonny, how old are you?
-Mom, I'm sure that's the way to write it
 Is Mom at home?
 What things did Mom buy and bring home?
+Mom, I'm sure that's the way to write it
 Every day Daddy takes me home after school
 Officer, I don't know anything about it
 Let's have a party at my house on New Year's Eve
@@ -4651,9 +4651,9 @@ What, you say he doesn't know about it? (I don't think that can be true)
 What? He was hit by an automobile?
 Everyone says this old house is very haunted
 This piece of ginseng is given to Mom for nourishment
+You have to take special care of others' belongings
 Don't be so meddlesome in other people's business
 Don't talk so much about other people's business
-You have to take special care of others' belongings
 There are so damned many people! I can't move!
 Have you had the air conditioner cleaned this year?
 This year's first division soccer league earned a good amount of money
@@ -5269,8 +5269,8 @@ Cut some celery stalks into one-inch pieces
 Hang the picture a bit above the light switch
 Sorry, I don't have time to visit you
 At primary school he and I once shared the same table
-Be careful! The floor is very slick!
 Be careful of the mudpit, and don't make a misstep
+Be careful! The floor is very slick!
 You cry over such trifling issues and are so easily moved to tears
 Do you still want to take a rest, as we're almost there?
 I drove around a long distance before I could find a parking space for the car
@@ -5459,8 +5459,8 @@ Recently he replaced me to be the top boss
 These days the value of the yen is quite high
 Say whatever you have to say, and don't lie to people!
 We can talk it over, so please don't start hitting anyone!
-Someone said he made a mistake and got implicated in the mess
 Some people say they are a shell company
+Someone said he made a mistake and got implicated in the mess
 There is a hooligan here harassing some girls
 Fight with me if you have the guts!
 Some schoolgirls like to smoke cigarettes
@@ -5995,12 +5995,12 @@ She pouted her lips, and looked pretty much like a bird
 She made up her mind to go to Hong Kong to look for a job
 After spending so much money, I have come out with nothing in the end
 The mortgage on my flat uses up almost half of my salary
-Yes, I got it! Let me go do it right now
 Really? Her situation is really like that?
 Are you wanting me to beat you up?
 Yes, (it's obvious) he has already gone back home!
 That's right, I didn't think about these things
 Even though it was expensive, it was very, very tasty
+Yes, I got it! Let me go do it right now
 The baby boy is really cute!
 The baby girl likes to drink apple juice
 My son is so naughty, and I really don't know what to do about him
@@ -6018,8 +6018,8 @@ Where did the young boy again wander off to?
 The kid is so naughty he deserves a spanking!
 The young boy forgot to flush the toilet again
 The boy earns some money by delivering newspapers to subscribers
-I don't know where that rascal has sneaked off to
 All along that scoundrel hasn't listened to other people
+I don't know where that rascal has sneaked off to
 The thief ran with all his might, while the cops did their utmost to chase after him
 You don't need to lose your temper like an unsatisfied poor man even if you couldn't borrow any money
 (you want me to) Loan you money so you can waste it? You would like to think so!
@@ -6063,12 +6063,12 @@ Those people who bribe cops will end up being arrested by the I.C.A.C.
 Are there any concerts being put on recently?
 I was recently transferred to work in the headquarters
 Recently I've very little time to see you
-In fact, do you know anything about this matter?
 This issue will lead to great troubles once it comes to light
 As for this matter, can he manage it by himself?
 Does this matter have any connection to me?
 This matter isn't finished, as there are still things to be followed up on
 This matter has no solution, so what can we do about it?
+In fact, do you know anything about this matter?
 This one should be put inside, while that one goes on the outside
 Is this worthless old shirt worth a thousand dollars?
 What are you studying this semester?
@@ -6139,8 +6139,8 @@ Among so many people she is especially talkative
 There are more than enough seats for all of you
 With so many spectators, as soon as there is disorder, it will lead to big trouble
 You're such a big boy now, but you're still crying? How disgraceful you are!
-It's such a small amount of money that it's no big deal, so take it as you like
 You want to buy an apartment with so little money? It's impossible!
+It's such a small amount of money that it's no big deal, so take it as you like
 It's quite enjoyable to have a swim at the beach on such a hot day
 It hasn't rained for such a long time, so the reservoir is completely dry
 You bought such an expensive thing! You're crazy!
@@ -6264,12 +6264,12 @@ My wife dislikes that her chubbiness has increased a little bit
 The stalls in Ladies' Market are open for business every night
 Rarely is a girl as tall as 1.8 meters
 Decent girls should never talk nonsense
-Okay, it's fine to give you one more try
 It seems like someone has surreptitiously entered your house
 A school term has passed by very quickly again
 I haven't played mahjong for a long time, so I'm really itching for a chance to play
 I haven't played mahjong for a long time, so I'm really itching for a chance to play
 Unfortunately, it started to rain just as I went out the door
+Okay, it's fine to give you one more try
 If you were I, what would you do?
 If you have got a criminal record then it's quite troublesome
 If it's really useful then it's worth considering
@@ -6292,12 +6292,12 @@ You'll have to turn the sofa at an angle in order to move it in
 The stool didn't feel very comfortable anymore after I sat on it for a while
 The paper is so coarse. How can I write anything on it?
 Coi has gone to the supermarket to buy things
-Hurry up! Everybody is waiting for you!
 Hurry up! Time is running short!
 Hurry up! Time is running short!
 Hurry up, you're walking too slowly and carefully like a snail!
 Hurry up and walk, and don't keep talking for such a long time
 Hurry up and get out of bed, and don't pretend to be asleep
+Hurry up! Everybody is waiting for you!
 Move more quickly! Don't waste time!
 Don't be lazy if you want to get off work earlier
 How do you cook Australian lamb steak Italian-style?
@@ -6332,8 +6332,8 @@ Tonight are we going to eat Chinese food or Western food?
 We don't need to rush, as there's lots of time
 We held our banquet with twenty-five tables in a hotel
 Our factory only had ten or so workers at the very beginning
-As soon as we get the money, we'll run away at once
 As soon as we get the money, we'll run away at once!
+As soon as we get the money, we'll run away at once
 At this moment we don't have enough evidence to charge him
 We will debit your account for the amount
 We will follow up on the issue of repair and maintenance works
@@ -6742,8 +6742,8 @@ You're such a picky eater that it'll be strange if you don't become thinner
 You have the ability, so why don't you compete with him?
 As you are so bullying, who will like you?
 You're so blockheaded and don't know anything!
-You're so slow moving. How long will it take you to finish it?
 You're so slow moving. When will you have finished the work?
+You're so slow moving. How long will it take you to finish it?
 Don't you hurry me here, okay!
 You are all unqualified and good-for-nothing people
 I'm always the one who is held responsible for the mistakes made by you guys
@@ -7188,9 +7188,9 @@ You ate so little. Are you trying to lose weight?
 It's so disgusting that the kids shouldn't see it!
 It's so disgusting, as you've completely marked up somebody's book
 Don't throw my things around recklessly like that, okay?
-Wait just a minute, I'll first ask my boss if it's all right
 Hold on! This stuff can't be eaten!
 Wait just a minute! Has everybody gotten it wrong?
+Wait just a minute, I'll first ask my boss if it's all right
 Don't be so stubborn, and hurry up and apologize to Mom
 His title is shown on his business card
 Wow! It turns out that you and I also qualified!
@@ -7264,8 +7264,8 @@ There is a bus service in the train station that links to the school
 In the first round of voting he was eliminated from the election
 He really made an impressive performance at the meeting of the board of directors
 In the countryside there are still some farmers who perform the traditional wedding ritual in which the groom's family members visit the bride's family to pay the bride-price and give them presents
-In Hong Kong the electrical sockets take plugs with square prongs
 Where do you go to roller skate in Hong Kong?
+In Hong Kong the electrical sockets take plugs with square prongs
 Riding a motorcycle on the freeway is very dangerous
 That person seems somewhat crazy, so don't get close to him
 That girl is really awful, as she rejected my invitation
@@ -7321,8 +7321,8 @@ Get him and bring him out here, as I want to ask him something
 Place the bookcase on the left-hand side of the piano
 That last Sunday she didn't come to look for me
 Some sand got in my shoes, and it rubbed against my feet till I felt very uncomfortable
-Be careful, these roses have lots of thorns
 Be careful! The floor is quite slippery!
+Be careful, these roses have lots of thorns
 Time is almost up but he's still so unhurried
 Time is almost up, but he's still so unhurried
 Exams are coming, so I've got to study hard
@@ -7695,8 +7695,8 @@ How come you're so well-behaved today? Have you changed your character? (as said
 Why are you so slow in doing things? Be quicker!
 Ordinarily second-hand watch shops will guarantee your watch to be accurate for a half year
 How much is fifty pence in Hong Kong dollars?
-Rich as he is, there's no use to envy him
 When people have money and respect, of course they have lots of friends
+Rich as he is, there's no use to envy him
 When people are unfamiliar with local conditions, they can be easily bullied
 This Chinese New Year all the kids received lots of laisee (i.e. red envelopes with 'lucky money' inside)
 What makes you so crestfallen today?
@@ -8351,8 +8351,8 @@ If you want to go swimming, then hurry up and put on your swimming trunks
 If this issue becomes known by the superiors, it will turn out to be difficult to deal with
 If everybody can amicably agree to settle the dispute, then there's no problem at all
 If there's any information, then I'll inform you first about it
-Mommy, braid my hair for me, okay?
 Mom will first have the soup cooked and ready for you, and you can eat it when you come home
+Mommy, braid my hair for me, okay?
 The mother must wait for the baby to be tired before she puts him in the bed
 I'm married to a stubborn husband, and I really don't know what to do
 I've written for a few hours already, so naturally my hands are tired out
@@ -8376,11 +8376,11 @@ Well, I'm taking a few good photos to remember this!
 As for the person in last position, do you recognize him?
 As for the person in last position, do you recognize him?
 What finally happened? Did you ever find them?
-Okay, but you've got to wait a moment first, as I'm doing something
 Whether it works or not depends on his father's capability
 How is this tiny sum of money enough to take a taxi?
 When you are free, tidy up those odds and ends of things in the drawer
 If you're free, come over and we'll go to a restaurant for dimsum and have a chat
+Okay, but you've got to wait a moment first, as I'm doing something
 Hurry up and say to me, "Happy Birthday!"
 Hurry up and fix it, so you can avoid being scolded
 Young people don't accept someone exploiting his seniority
@@ -8519,8 +8519,8 @@ When people get off work the bus is really very crowded
 The whole procedure took approximately fifteen minutes or so
 To sum up, the dishes she cooked were really quite delicious
 A new official will strive for a good start for everything
-Yee Dat House, Yee Nga Court, Tai Po, New Territories
 It rained a lot in the New Territories, and a lot of people had to escape from the flood
+Yee Dat House, Yee Nga Court, Tai Po, New Territories
 Since the money can't be found, I'll abandon my plan (since there's no alternative)
 Clearly it's your fault, but here you are still jabbering on and on and being unwilling to admit your mistake
 Obviously you knew it was going to rain, so why didn't you bring along your umbrella?
@@ -8530,9 +8530,9 @@ A book fair is a good time for publishers to retail their books
 If there is any news of action, immediately report it to me
 Whatever argument there is, everybody sit down and slowly talk about things
 More than fifty wooden huts were caused to collapse by the strong wind
-Some people say pregnant women are the prettiest
 Someone said the things he has done are illegal
 Some people say that a marriage without sex can't last
+Some people say pregnant women are the prettiest
 There's a female colleague who makes me have a full hard-on all the time
 A passerby who was an eyewitness also said it was completely outrageous! 
 The lecher stuck out his hand and touched the girl's bosom
@@ -8689,12 +8689,12 @@ The room is so dirty and shabby, of course you can't rent it out
 The store on average makes a profit of over a hundred thousand dollars each year
 What does it have to do with you? You're here just talking nonsense!
 Boss, there's a matter I want to ask you about
+My son is lazy and pleasure-loving, and he doesn't help me with anything
+My son is lazy and pleasure-loving, and he doesn't help me with anything
 Son, if you don't brush your teeth, you'll have bad breath
 Son, the best thing for you is to study hard
 Son, the best thing for you is to study hard (obediently and without complaining)
 Son, why are you such a crybaby?
-My son is lazy and pleasure-loving, and he doesn't help me with anything
-My son is lazy and pleasure-loving, and he doesn't help me with anything
 Little sister, please hang out all these clothes to dry for me
 Mom is stuffing some pork into beancurd and bitter melon for cooking
 Grandpa, I have come especially to visit you today
@@ -9017,8 +9017,8 @@ If he causes trouble, I'll uproot (destroy) his entire Ma family
 She lost a great deal of blood after giving birth, and so relies on blood transfusions to stay alive
 He hit the table with a bamboo pole making a cracking noise
 From primary school to university, he went all the way without any trouble
-She was sick, had also lost weight, and her appearance had completely changed
 He got sick and is staying in the hospital, and no one knows for how long
+She was sick, had also lost weight, and her appearance had completely changed
 She has really won the Mark 6 Lottery? You must be kidding!
 She's really pitiful as she gave birth to a son who has grown up to be unfilial
 He's very impressive, as his playing of the violin sounded great
@@ -9037,13 +9037,13 @@ The shirt he's wearing is so awfully white it's really unattractive
 The shirt he's wearing is such a dull white. It's really unattractive
 After his anus prolapsed, the doctor said he should be hospitalized
 He wanted me to wait for a very long time before he was willing to return the money to me
-She said today she went shopping and to her surprise was robbed by force
 She said it took her quite a long time before she got the coins put into the parking meter
 He said taking the examination this time was simply as easy as falling off a log
 She had told you that she doesn't want such dirty things
 He said he didn't know his own house had six illegal structures
 He said that because he had failed, he has to repeat the same class
 He said he feels very uncomfortable and urgently needs to go take a shit
+She said today she went shopping and to her surprise was robbed by force
 I didn't understand anything he was talking about, so it left me completely lost and puzzled
 I didn't understand anything he was talking about, so it made me completely lost and puzzled
 He was talking so rudely, how could I persuade him?
@@ -9110,9 +9110,9 @@ Even with two guns pointed at him, he was still in a relaxed state of mind
 How much were two euros worth in French francs in the past?
 His company's business is not doing well, and it makes him feel very uncomfortable
 The policies of this company are very restrictive, so that it's hard for its employees to advance in their careers
-In fact, cricket-fighting is a kind of traditional pastime of China
 In fact in thinking back about it now, I'm still a little afraid!
 In fact I think Hong Kong girls acting stuck up and playing hard to get is quite commonplace
+In fact, cricket-fighting is a kind of traditional pastime of China
 Without those employees patronizing us, we wouldn't have any customers
 No problem, tomorrow I'll come to fix the things for you
 We have no money to buy meat, so of course we have to endure a vegetarian meal again
@@ -9236,9 +9236,9 @@ It's no wonder she can't buy anything, as it's obvious she has no money
 It's no wonder she can't buy anything, as it's obvious she has no money
 If you don't bring money with you, there is no doubt your son will not end up well (as said by a kidnapper)
 I wouldn't allow him to eat at McDonald's, so he threw temper tantrums
+I don't know why I have been feeling really jittery for these several days
+I don't know why I have been feeling really jittery for these several days
 I don't know the reason, but his check has bounced at the bank (or the bank has rejected his check)
-I don't know why I have been feeling really jittery for these several days
-I don't know why I have been feeling really jittery for these several days
 Every time I ask him he always hems and haws and won't tell me so I'll know
 Just now did you feel the earthquake?
 These things are worn out, so it would be better to simply throw them away
@@ -9278,9 +9278,9 @@ That rascal is very cunning, so you must certainly be careful of him
 He didn't invite me to the meal on that occasion. Each of us paid our own share
 Well, anyway you're here to have sex, so how about sex with two whores (as I'm sure you'll agree it would be good)?
 It really wasn't to your advantage to spend so much money buying that fake merchandise
+Well! The dress you're wearing today is really stylish!
 Wow! Suddenly several cars crashed into each other!
 Wow! I heard that in Wan Chai Road several cars crashed into each other resulting in a serious accident
-Well! The dress you're wearing today is really stylish!
 As you don't have a boyfriend, do you need to hire a male prostitute?
 Last night you didn't sleep enough, so it's no surprise that today you're very tired
 Last night she was very tired, so it's no wonder she overslept this morning
@@ -9298,9 +9298,9 @@ The match may draw a capacity crowd, so it would be better to buy tickets as ear
 The piece of beef steak was fried, but it's still raw, so I dare not eat it
 Keep your mouth shut! What allows you to interrupt while the adults are talking?
 Thanks to your help, we can finish up all that work
+The boss says he needs me and you to be lookouts tonight
 Hey! It costs too much! People surely won't buy it!
 Boss, if we can't make a deal with them, then why don't we fight them?
-The boss says he needs me and you to be lookouts tonight
 Only a clumsy ox couldn't do this action
 Tai Po, On Po Road, Fu Shin Estate, Shin Nga House
 Everybody should stick the travel agency sticker on your shirts
@@ -9322,8 +9322,8 @@ If you can't find a job, you'll have to cut back on your spending
 If you want to shift gears, you first need to step on the clutch
 If you want to invest in real estate, now is the opportune time
 Whatever he does is beside the point, the first thing is for you to do the right thing
-Mommy, big brother snores, and it's keeping me awake
 Mom has made two tuna-fish sandwiches for me
+Mommy, big brother snores, and it's keeping me awake
 Mom says eating scallions is good for health
 Is learning English more difficult or is Chinese more difficult?
 I've always taken a laid-back approach to matters of power and influence
@@ -9565,8 +9565,8 @@ When all is said and done, which profession should I work in to earn the most mo
 He suddenly lost his footing and fell, and almost fell down to collide into me
 Why is the group of children so noisy? I want to read the newspaper
 Put on a smile and don't wear such an gloomy face all the time!
-Young man, you may not have seen this kind of record player
 Kids are like that, as they always look forward to celebrating Christmas
+Young man, you may not have seen this kind of record player
 When I was a young kid I always felt like there was a ghost following behind me
 Children shouldn't play with fire! Be careful of a fire accident!
 Children who are not coddled may be better off physically
@@ -9778,11 +9778,11 @@ You should be careful around that slut, as these days she behaves like she's ful
 You need to get a table-cleaning cloth and wipe the table clean before you eat your meal
 You need to lie down for a while, after that then the doctor will feel your pulse
 You need to know that I am the boss in charge of this gang!
-Who do you think is the most telegenic young actress?
 You say they are good friends? I think it's possible it could be true
 You say he is very thrifty, and I say he is very stingy and mean
 You say he is very thrifty, but I say he is very stingy
 You say she's very pretty, but I would say she is only pretty at first glance
+Who do you think is the most telegenic young actress?
 Are you talking nonsense? How could he do such things?
 You should take responsibility for the things you say. Don't make promises so lightly without intending to keep them
 You excel in your studies, so you must know this Chinese character, right?
@@ -9900,12 +9900,12 @@ He has lived abroad from childhood, so he can't speak Chinese very well
 As his behavior is so bizarre, is he possessed by a demon?
 When the trapeze artist performed he did it without wires attached to his body!
 He saw someone downstairs but still poured a basin of water right on top of the person's head
-She says she's flopped on both the English-language and Chinese-language exams
 He says Hong Kong's inflation could be quite severe at the end of this year
 His wife said that after he lost his job he went insane
 He said only cash is accepted here, and you can't use a credit card
 He has said he would buy this horse, so he certainly will give you the money
 He says too many girls feel that breaking off dating someone to switch to a new partner doesn't matter a bit
+She says she's flopped on both the English-language and Chinese-language exams
 He talked for a long time, so in the end did he say he would go or not?
 He talked about this and that, and it really got me thoroughly annoyed
 In speaking her pronunciation isn't clear, and she seems to lisp
@@ -10163,12 +10163,12 @@ We waited till after seven o'clock at night to eat dinner
 We're all really tired, so we had better sit down in the shade and catch a cool breeze
 I don't come here every day. It's every other day that I come
 I don't have enough money to pay the rent, so could you just lend me some money?
-I don't know why, at this time my heart feels very sad
 I don't know why he would behave like that without any reason
+I don't know why, at this time my heart feels very sad
 I didn't know the way, so I had to go around in a circle before I could find your house
 I don't like to eat Peking duck because it is terribly greasy
-I asked her, has your Prince Charming come or not?
 I asked him what had happened, but he didn't utter a sound
+I asked her, has your Prince Charming come or not?
 I've been working here for quite a long time, but the salary is still quite small
 I have been working as a cook in this restaurant for more than ten years
 Where did I buy it? It was that shop in Wan Chai, don't you remember?
@@ -10230,8 +10230,8 @@ Hey, which gang do you belong to? Tell me the name of your gang!
 Octopus card is very convenient when taking the MTR, as soon as you swipe it (on the card reader), you go through the turnstile
 If Buddha encountered these whining and temperamental children, even he couldn't tolerate them!
 For a new employee, he is really a lot sharper than lots of other people
-We're now in the Chinese New Year, so don't say unlucky things
 How can you say such things now during the Chinese New Year! That's an unlucky remark!
+We're now in the Chinese New Year, so don't say unlucky things
 Since he's busy, I'll come here again tomorrow
 Every day I listen to my old mother's grumbling, and I really can't tolerate it
 A while back I was super busy. Every night I was working till after ll o'clock
@@ -10281,8 +10281,8 @@ Pay more attention to your studies and don't be so unruly!
 When the economy is in a downturn, this district will have many people begging for a living
 The driver of the illegal taxi said it would cost thirty-five dollars to go to Sheung Shui
 Watch out for my vase and don't act like a bull in a China shop!
-From your appearance, you seem to be brooding in anger, so are you?
 In looking at your appearance with such a full, unkempt beard, I think you haven't shaved in a number of days
+From your appearance, you seem to be brooding in anger, so are you?
 You look dead tired, so why don't you do it tomorrow?
 You two look so great together. When will you get married?
 Wait until after he comes into the room before you start singing
@@ -10447,10 +10447,10 @@ Your work is so bad that it's not at all strange you've been fired by the boss
 As you're carrying so much luggage, taking the elevator would be more convenient
 You have displeased a large customer, so quickly think of a way to remedy the errors you have caused
 You want to learn how to drive a car? You first need to get the learner's driving license to do that
-You should know that respectable people don't rely on illegal activities to eat their meals
 You should know that every place has these madmen
 You should know that this person sometimes can be very overly confident and leave matters unattended
 You should know that this person sometimes can choose to ignore dangers
+You should know that respectable people don't rely on illegal activities to eat their meals
 You act just like an old man, who could like you?
 You tossed and turned in bed all night, so is it because you feel unwell somewhere?
 You're so dirty from head to toe, so hurry up and go take a shower first
@@ -10565,7 +10565,6 @@ He injured his ankle bone so it's red and swollen. There's possibly the danger o
 He has been clever, obedient, and quick-witted from a very young age, and whatever he learns, he learns it at once
 If she sees a cockroach she then becomes afraid, so she won't go into the kitchen
 Under the false pretext of teaching them how to swim, he took liberties with girls by inappropriately touching parts of their bodies
-He said if he wins money he rents a hotel room, but if he has lost money he sleeps in the street
 He said those accountancy tests are not easy
 He says he doesn't like to smoke cigarettes, but occasionally likes to smoke a pipe
 She said because her income isn't enough, so she then secretly moonlights
@@ -10573,6 +10572,7 @@ He said his wife had become pregnant, but his good news turned out to be untrue
 He said he would support me, but didn't say clearly how that would do it
 He said he had to return a phone call, but took the opportunity and has slipped away
 Saying that he had to return a phone call, he took the opportunity and slipped away
+He said if he wins money he rents a hotel room, but if he has lost money he sleeps in the street
 He was speaking in a such a strange voice that it was hard to recognize it was his voice
 He just kept talking about the same useless thing over and over again, so while he might not find it annoying, I did
 After he finished speaking, he was at once refuted thoroughly by other people
@@ -10644,7 +10644,6 @@ You seem so reluctant when I ask you to eat, so if you don't want to bother, the
 As for those people who were on the same flight to Hong Kong, some of them were Taiwanese
 Every time I make love with my boyfriend he comes (ejaculates) prematurely
 Huh! What'd you say? Say it again, as I couldn't hear (what you said)!
-Okay now, so these things are yours, those are hers
 The winner in this singing competition is number 12
 I've already engaged in this business for a few decades, so I'm going to retire
 You must be held responsible for this matter, and there's no way for you to get away from it
@@ -10695,6 +10694,7 @@ We've decided to start work on this matter, and in two days we'll then start doi
 This bookstore has so many wonderful books he was dazzled by them
 The toilet in this shabby restaurant is for common use by both men and women
 Of course I'm very satisfied this penny stock has risen so marvelously
+Okay now, so these things are yours, those are hers
 They are renovating the house, and so it makes a terrible racket
 Just at the time he came to visit me, I had already gone out
 It's so simple, and yet you don't know it, so have you learned nothing from your studies ?
@@ -11183,10 +11183,10 @@ He is willing to do this job for no other reason than his greed for its high sal
 He is a businessman on the surface, but in fact he belongs to a criminal gang
 The things she wants to do are numerous, so it's quite pitiful she has no ability to do anything
 After he saw cigar ashes on his shirt, he flicked them all off
+He said he would get married this month, but up to now there has still been no further news about it
 He says the 1980s were the golden era (i.e. the best time) of Cantonese songs
 He says the 1980s were the golden era (i.e. the best time) of Cantonese songs
 He said there was a famous model who went out driving late one night even though she doesn't have a driver's license
-He said he would get married this month, but up to now there has still been no further news about it
 She believes that working for a foreign boss should give her the opportunity to learn some new things
 What he said is quite correct. The one who made the mistake is you. It's not me
 He's outspoken in expressing his opinions, so it's no wonder he easily offends people
@@ -11396,8 +11396,8 @@ Several young guys suddenly got into an argument with those young hooligans
 In Hong Kong the Mandatory Provident Fund is already a thing that makes people feel disgusted
 In Hong Kong the Mandatory Provident Fund is already a thing that makes people feel disgusted
 A young guy should also properly take care of his health
-Okay! No problem, I promise you, I'll keep my word!
 We've got so little gas, yet we still have to drive for so many more kilometers, so the situation is quite tight!
+Okay! No problem, I promise you, I'll keep my word!
 As for whether I feel happy or not, it's difficult to tell. My feelings vary at different times
 You want to gobble up my company? How greedy you are!
 At that intersection drivers are always jumping red lights and hitting and killing people
@@ -11479,9 +11479,9 @@ When I was a young kid in school, I studied at this school
 I have already made my decision, so it's no use for you to beg me persistently like that
 I have already made my decision, so it's no use for you to beg me persistently like that
 I'm now going home, but I don't know if my old lady has cooked anything for me to eat
+I've heard people say they're sworn older and younger brothers, and aren't brothers related by blood
 I heard somebody say that the boss is going to fire me!
 I have heard people say that the woman who lives next door is getting married again tomorrow
-I've heard people say they're sworn older and younger brothers, and aren't brothers related by blood
 I heard the bicyclist cry out, "I can't brake my bicycle!"
 I won't be free tomorrow, so I'd like you to wrap up this issue
 I myself had made a big mess out of things. Now I need to take action to correct the mistake
@@ -11597,9 +11597,9 @@ There's no way that the head office is willing to provide any financial support,
 There's no way that the head office is willing to provide any financial support, so it's hard for us to continue operating
 As for how the general manager will handle this matter, I'm completely in the dark about it
 Bagged American baking potatoes, in one-kilogram bundles, ten dollars and ninety cents a bag
-Sweetheart, why don't you ask your dad to loan us ten thousand HK. dollars?
 His wife darted a look at him, so right at that moment he didn't dare make a sound
 The wife is very happy to see her husband drink up her tasty and nutritious double-stewed Cantonese soup
+Sweetheart, why don't you ask your dad to loan us ten thousand HK. dollars?
 Once the teacher turned his back to write on the blackboard, they fooled around and twisted and turned their bodies
 Since the boss has said it in such a forceful way, I have no choice but to work overtime tonight
 As the boss has said it in such a forceful way, I have no choice but to work overtime tonight
@@ -11622,14 +11622,14 @@ No one cares about how busy I am, and so no one gives me a hand
 Some relatives and friends usually have some secondhand stuff to give my baby
 Ordinarily when my classmates and I go out to eat lunch we always go Dutch
 It's not at all strange some girls are quite afraid their boyfriends will disappear right after having sex with them
-The doctor says my nose has developed a tumor. It's become quite serious
 The doctor said he has lung cancer, and that scared him so he is panic-stricken
+The doctor says my nose has developed a tumor. It's become quite serious
 Driving a sports car fast on the freeway is really invigorating
+My son now likes to play by biting people, and he bites his Mommy till she cries
+Sonny likes to ride a bicycle, but he needs to be holding on to his pappy
 Son, what have you been doing? You're as dirty as can be!
 Son, what have you been doing? You're as dirty as can be!
 Son, have you been good-for-nothing, and got forced into joining a triad society?
-My son now likes to play by biting people, and he bites his Mommy till she cries
-Sonny likes to ride a bicycle, but he needs to be holding on to his pappy
 Daughter, tomorrow you must take an exam, so why don't you want to study for it?
 Given Mom's advanced age, it's not strange that her eye has developed glaucoma
 Chan is not only addicted to gambling but also to prostitution, so whoever is his wife is really pitiful
@@ -11837,11 +11837,11 @@ Two cars collided, but surprisingly he wasn't hurt, so he really had a narrow es
 The two teams of the company kicked up a ruckus and the big boss had to settle it personally
 How did the company's secrets become known by other people? There must be a hidden traitor!
 As your company has collapsed, you can go to work for someone else, and so make the best of a bad situation
-In fact the situation isn't like that at all! You've been thinking too much!
 In fact for any country you go to you must adjust yourself to the people's language of that country
 In fact quite a lot of foreign jokes are not very understandable to Hongkongers
 In fact if I see my boyfriend together with other girls I don't feel unhappy
 In fact tourists from mainland China coming to Hong Kong to buy stuff, that only benefits big merchants
+In fact the situation isn't like that at all! You've been thinking too much!
 There's not any reason to tell your mother to support you for your whole life you black sheep!
 If I didn't have such acute insight, how could I have found such a good wife?
 The air conditioning isn't cool, so maybe it's because the filter for the air conditioner hasn't been cleaned for too long
@@ -11997,9 +11997,9 @@ I want to order some more things to eat, but I can't find a waiter to take my or
 I want to work in the private sector, as I believe the salary will be more than working for the government
 I want to request those ignorant busybodies to shut their mouths!
 I wanted to take the elevator to go down to the ground floor, but who would know that I first had to go up before I could go down, so I really had to go for an elevator ride
-I would like to know what the ratio of Portland cement, sand, and water should be.
 I would like to know the meaning of this expression "冇厘頭 mou5 lei4 tau4"
 I would like to know which platinum (credit) card is the most difficult to apply for?
+I would like to know what the ratio of Portland cement, sand, and water should be.
 I have an old friend who fell into a trap: he was cheated out of his money and tricked into thinking he was loved by a middle-aged woman from mainland China
 I haven't started cooking yet, so I think you've got to wait a while before you will have anything to eat
 I originally had come with good intentions to mediate in the quarrel, but who would have thought that someone would punch me?
@@ -12188,8 +12188,8 @@ Today there were no tangerines for sale in the wet market, so I bought these ora
 This morning when I was in the department store settling the account, I found the numbers weren't correct
 This morning heavy rain fell, everywhere was flooding, and I almost lost my life!
 To everyone's surprise this time he managed to survive the disastrous affair, so he really had a narrow escape!
-To everyone's surprise, this time he managed to survive the disastrous affair, so he really had a stroke of good luck!
 To everyone's surprise this time he managed to survive the disastrous affair, so he really had a stroke of good luck!
+To everyone's surprise, this time he managed to survive the disastrous affair, so he really had a stroke of good luck!
 For me to receive the prize this time is largely due to the work of the director, and I have merely benefited from his help
 The teacher didn't leak any details about the examination this time, so that's why more than half of the class failed
 The teacher didn't leak any details about the examination this time, so that's why more than half of the class failed
@@ -12565,9 +12565,9 @@ The chick's figure is quite fit, somewhat thin, but she does have a sexy figure
 The girl was good looking with a great figure. As soon as I saw her I then knew she was a good screw!
 Every Sunday lots of hawkers come here and set up roadside stalls to sell things
 Each room has its own independent air conditioning, and all the furniture is new and attractive
-Boss, you're going to tell him to do these things? It's well beyond his capabilities
 The boss sent several flunkies to have a meeting with us, and it really wasted our time
 The boss hired someone to work part-time, and the time is at night and on Saturday afternoon
+Boss, you're going to tell him to do these things? It's well beyond his capabilities
 Nowadays consumer prices in Shenzhen are very expensive. Unless you know your way around. Otherwise you'll have a big loss of money
 A price war is nothing but a vast display of strength, and eventually it will benefit only those big companies
 In order to support his son studying in university, he has to work very hard in a factory
@@ -12589,11 +12589,11 @@ My husband is a cop, so I was prepared for him having the possibility of dying i
 My wife has gone to Taipei to visit relatives, so this week I must look after myself
 The lady of the house got very angry at me, so what could I do but submit to her will and accept the blame?
 Of course the teacher hopes all the students will do all right on the exam, but she's not going to give out tips about it
-Boss, he just makes a mess of things when he's here, so wouldn't it be better for you to fire him?
 The boss ordered us not to accept one-thousand-dollar notes. We will tell customers to use their credit cards
 The boss harshly scolded me, saying he told me to do some stuff and I didn't do anything!
 The boss is quite unhappy. Maybe he'll create some troublesome situation for you to enjoy!
 That the boss now still pays wages to you to work proves you're valuable
+Boss, he just makes a mess of things when he's here, so wouldn't it be better for you to fire him?
 Dad wouldn't allow me to go, so I begged Mom and she bought the ticket for me
 Dad has not even kicked the bucket yet, but all of you are already disputing the assets of his estate
 Don't you understand that times have changed? You're still trying to manage everything about your children's weddings!
@@ -12701,8 +12701,8 @@ Speak up if you have anything to say, and don't hold it back!
 You have so many trivial matters, how could I be able to help you?
 You're pregnant, so you need to be careful eating soft cheese. It might have listeria monocytogenes
 As you're interested in dating that boy, you had better check into his background first
-As you can see, she goes around all the time with her nose stuck up in the air like that, so who among her classmates would like her?
 Look at those young hoodlums quarreling! They look like they are getting ready to fight
+As you can see, she goes around all the time with her nose stuck up in the air like that, so who among her classmates would like her?
 Anyway you'll do it whatever way you want, so that should be good enough
 The New York cheese cake you make yourself will be better than those you buy outside
 Even you yourself do things in such a topsy-turvy and untidy way, so how can you teach your child?
@@ -12993,8 +12993,8 @@ There are some pens on the desk. However, there's no paper, so how can I write a
 Recently it's raining and the ground is slippery, so young probationary drivers must be especially careful of skidding
 Recently it's raining and the ground is slippery, so young probationary drivers must be especially careful of skidding
 Recently it's raining and the ground is slippery, so young probationary drivers must be especially careful of skidding
-Some people say that because working for the government is more stable, therefore it's better
 People say that he gave up his post of manager and then went to work as a sailor, so he really cheapened himself
+Some people say that because working for the government is more stable, therefore it's better
 A newborn baby was abandoned by its mommy in a women's toilet at the border
 A young waitress with a table-cleaning cloth came out and wiped the table clean for me
 A male demonstrator was bashed on the head by a cop, and the blood flowed covering his face
@@ -13174,10 +13174,10 @@ She had made an appointment with us, but she herself hasn't come, so she has sto
 When he was young his family was very poor, and his parents struggled hard to earn their living
 She has already fallen asleep, so how about you come again a little later to see her?
 When he was lifting the weights, he held out by holding his breath, and eventually broke the world record
-He says when taking photos, simple composition is better, and too many gimmicks don't look attractive
 She said complaining to the ombudsman was useless, as he was just a paper tiger
 He said that several years ago illegal dealing in foreign currency and money laundering activities were fairly common
 He said we should remember to put on a condom, as it helps to prevent AIDS
+He says when taking photos, simple composition is better, and too many gimmicks don't look attractive
 She knows how to use the computer, and she speaks English quite well, but she's a jack of all trades but master of none
 After he has bought a flat, he will then invite a Fung Shui master to come and advise him on how to arrange everything
 Although he is the boss, he does many things himself
@@ -13344,9 +13344,9 @@ Of course I'm quite worried about him. I hope he will very soon find other work
 Every time I type a wrong character, I want to go back and correct the letter and it's quite hard to do
 I believe that if the C.E. doesn't step down, nothing can really rescue the Hong Kong government
 I know, placing a bet on a racehorse at an illegal place is illegal, but sometimes it's more convenient!
+I've heard people say early next year One Direction (the internationally-popular musical band) will break up, and each of the members will do his own thing
 I heard people say that two years ago there was also an incident of sexual molestation within Hong Kong's movie business
 I've heard people say that some young Hongkongers support the Hong Kong National Party
-I've heard people say early next year One Direction (the internationally-popular musical band) will break up, and each of the members will do his own thing
 I listened to her speak with such strenuous effort badly pronounced Cantonese word by word
 I saw the waiter next to a diner's table spill the tea, and it scared the diners
 I see some white people look down on Chinese people, so of course it makes me feel quite disgusted
@@ -13416,8 +13416,8 @@ Even though she was going to have a baby she was still dumped by that scoundrel,
 The doctor has said to me, being pregnant with twins I should still be able to have a natural childbirth
 Once in a while I'll go to an internet café to play computer games. I'm also afraid that someone smoking could easily cause a fire
 The restaurant is so dirty, there's no point in talking about eating there, and as soon as I came in I lost my appetite
-Son, look at you, you're always fooling around doing nothing productive. You need to seriously look for something to do
 My son has always been very good, his grades in school are also good, and he also doesn't run around at night
+Son, look at you, you're always fooling around doing nothing productive. You need to seriously look for something to do
 Besides talking about food and drink, what topics do you also like to talk about?
 Miss Chan asked if you could accompany her back to her home, and that's the kind of request you'll accept enthusiastically, right?
 Although he's lived in Hong Kong for more than thirty years, he's still not learned any Cantonese
@@ -13519,9 +13519,9 @@ He has already turned you down, but you still go look for him all the time. How 
 After he came in first on the exam he has been really showing off, so now his classmates can't stand him
 He wore a Western-style suit thinking it made him look quite impressive, but in fact it didn't raise his social status or make him look better
 Of course, she was fierce to you as you're a woman, and you don't know how very lustful she becomes when dealing with a man
+He said he had been hired to be in a movie. To my surprise it turns out he's merely an extra in the movie
 He said that last month he became sick and didn't want to eat anything, so his appearance became thin and bony like that
 She said she jogged every day for a month before her fat tummy was gone
-He said he had been hired to be in a movie. To my surprise it turns out he's merely an extra in the movie
 As he was heading the ball, he hit his head against the goalpost, and after he got up he still felt very dizzy
 Why are you always thinking about the size of your rod (penis)? If a rod serves its purpose, isn't that fine?
 Why are you always thinking about the size of your rod (i.e. penis)? If a rod serves its purpose isn't that good enough?
@@ -13877,8 +13877,8 @@ I don't know what the problem is with this Octopus card reading machine, I had s
 I don't know what the problem is with this Octopus card reading machine. I had swiped the card against it twice, but nothing happened
 I asked her if she were afraid her younger sister would get married before she did, she then said it was all right and didn't matter to her
 I've just started working as a shop assistant. I never thought I would be so busy with this job that I couldn't get away from it even for a short time
-My friends, no matter whether they're men or women, all like to go to Shenzhen to have a massage
 All my friends know I've tied a fake bun into my hair as a compensating device, because all along I've not had a lot of hair
+My friends, no matter whether they're men or women, all like to go to Shenzhen to have a massage
 Yesterday I annoyed my girlfriend, and now I don't know what to do about it, she's really angry at me
 I don't want to be an insurance broker because I would have to run around all over the place in a monkey suit all day
 I want to start a real estate business in Guangzhou, so do you have any connections to find some pieces of land for me?
@@ -13960,8 +13960,8 @@ Just now in this park I saw a boy being intimate with his girlfriend
 The Hong Kong government says that residents of caged homes live there because the rent is cheap and it's convenient
 The Hong Kong headquarters of Citibank is in Central at the intersection of Des Voeux Road and Pedder Street
 Mahjong has had some major changes. The greatest one is naturally the invention of the automatic mahjong table!
-In the 1970s every person in Hong Kong knew that cops accepted bribes, and they ate meals without paying for them
 Before the 1970s Hong Kong still had a good number of women who had chosen to remain unmarried their whole lives and worked as household maids
+In the 1970s every person in Hong Kong knew that cops accepted bribes, and they ate meals without paying for them
 Next Saturday is my girlfriend's twenty-fifth birthday. On the twenty-first I'll eat dinner with her
 When writing Chinese and English from memory one wrong character gets five points taken off, so if you got twenty characters wrong then you've already got zero
 Ms. Shopowner, one potato you sell is even more expensive than a chicken sold at the next stall, so it's such a rip-off here!
@@ -14005,10 +14005,10 @@ He basically doesn't understand bowling. He looks impressive but nothing comes f
 He's only been able to be an extra who makes numerous appearances in movies. In the area of performing he hasn't obtained any opportunities for development
 His father maintains that studying music is useless, all the time he says his son doesn't really have any future at all
 He has continuously been the champion many times, but this time the old pro suffered a setback, and lost to a young upstart rookie
-He said your gang robbed a watch shop, and now you have stolen goods to sell
 She said she had broken up with her boyfriend, but in fact they had entered into a secret love affair instead
 He said he would renovate the flat, but he still hasn't looked for anyone to do it, so I think he's just talking without intending to actually do anything
 He said he would renovate the flat, but he still hasn't looked for anyone to do it, so I think he's just talking without intending to actually do anything
+He said your gang robbed a watch shop, and now you have stolen goods to sell
 Before our son was born, my husband went abroad, so I have had to bring up our son all alone
 Before our son was born, my husband went abroad, so I have had to bring up our son all alone
 My domestic helper has been working for me for three months. These past few days she says she has a toothache, what should I do?
@@ -15071,9 +15071,9 @@ Today I was shopping and saw a pair of shoes. They were quite pretty and cheap, 
 This morning as I was boarding the minibus, a middle-aged guy wanted to cut in front of me. I said I'm standing in the queue, but he treated me like I wasn't there, and it made me extremely angry!
 Do you know which bank changes foreign currency banknotes with the most advantageous rates? I don't want to go to money changers, because I've heard there's rather a lot of fake banknotes around
 At this moment you don't need to do anything, because when the time comes and he files the lawsuit, he has the responsibility to send copies of the lawsuit documents to you
+You must be more tolerant, as the saying goes there are different kinds of people, it's quite normal for each person to have their own way of looking at things!
 You must be more tolerant, as the saying goes, there are different kinds of people. It's quite normal for each person to have their own way of looking at things!
 You must be more tolerant. As the saying goes there are different kinds of people. It's quite normal for each person to have their own way of looking at things!
-You must be more tolerant, as the saying goes there are different kinds of people, it's quite normal for each person to have their own way of looking at things!
 He's very stupid, because he fears someone may sneak into his house and steal stuff, he completely sealed up all the windows, so isn't doing like that the same as making big sacrifices to avoid minor troubles?
 He has a chin that juts out, the two sides of his face are sunken in, and his cheekbones stick out. His face looks like a horse, so would all of you say someone like that is good-looking?
 He's both sickly pale and unhealthily skinny. His hair is dirty and his face is oily. He shuts himself up in the house the whole day and doesn't come out. He's such a complete nerd
@@ -15152,8 +15152,8 @@ This morning when I was taking the MTR there was only a two-inch gap between my 
 As for boiled vegetable and boiled meat, which one do you think has the better taste? Of course boiled vegetable! Boiled meat is tough and tasteless!
 The stewardess said sometimes there's only one passenger who's quite annoying: he wants to have this, he wants to have that, and before very long she's then been worn out by him
 There's a damn white guy in my company. If he's sick he still comes to work. He also doesn't wear a face mask. He infects all his colleagues around him. He's really a selfish devil!
-In fact, after my girlfriend had left me, every single night I can't sleep, I'm there waiting for her to come and get in bed, just like it had been before when she slept next to me
 In fact those protesters really have guts! As for the police, as for tear gas, they say they're not the least bit afraid!
+In fact, after my girlfriend had left me, every single night I can't sleep, I'm there waiting for her to come and get in bed, just like it had been before when she slept next to me
 In the winter we very much like to cook fresh vegetables and seafood by scalding in boiling water, because after the vegetables and seafood are cooked, there will be a really tasty soup
 Traveling together with some friends is really quite difficult. Sometimes the place everybody wants to go is not the same. If you find a friend then you may not necessarily be compatible
 Traveling together with some friends is really quite difficult. Sometimes the place everybody wants to go is not the same. If you find a friend, then you may not necessarily be compatible
@@ -15210,8 +15210,8 @@ Last year my older sister got married. In the restaurant the people suddenly got
 The hiker slipped and fell down. His two legs were broken, because the environment was quite difficult, so the Fire Department had to mobilize the High Angle Rescue Team to rescue him
 This year the financial secretary gives out sweeteners. Some citizens hope for even more, there are also some people who criticize and say, "Other people benefit but I don't. It's quite unfair!"
 Today when I was jerking off in the bathroom I unexpectedly heard my mother very loudly say, are you stupid? As it turned out she was talking to my younger brother!
-As a matter of fact, Hong Kong also has masters of Asian black magic who cast magic spells. Moreover there are even three kinds of extremely terrible methods for casting magic spells; they're differentiated as incantations and curses, magic potions, and talismans
 Working as a bar bender is not easy. You even have to work in scorching sun and drenching rain. Heck!, nowadays young guys aren't willing to endure that. If you want to hire someone it's really quite difficult
+As a matter of fact, Hong Kong also has masters of Asian black magic who cast magic spells. Moreover there are even three kinds of extremely terrible methods for casting magic spells; they're differentiated as incantations and curses, magic potions, and talismans
 For those several nights without sleeping pills I couldn't sleep, so the day before yesterday when I went for the subsequent consultation the doctor asked me if there was a need to continue prescribing the medicine. Naturally I said I wanted it no matter what
 This furniture design company offers a package deal of custom-made furniture for the whole house, including living room, dining room, and two bedrooms. The starting price is fifty thousand dollars
 Last night while it was late and quiet a pair of young lovers put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex outdoors

@@ -2,6 +2,12 @@ from bs4 import BeautifulSoup
 import regex as re
 from glob import glob
 
+def normalise(yue: str, en: str) -> tuple[str, str]:
+    yue = yue.replace(',', '，')
+    yue = yue.replace('!', '！')
+    yue = yue.replace('?', '？')
+    return yue, en
+
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 
 with open(filename, encoding='utf-8') as f:
@@ -19,6 +25,7 @@ for page in soup.select('page'):
             continue
         assert '\n' not in yue
         assert '\n' not in en
+        yue, en = normalise(yue, en)
         sentences.append((yue, en))
 
 def key(item):
