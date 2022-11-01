@@ -41,9 +41,11 @@ def remove_space(s: str) -> str:
     '''
     >>> remove_space('摸 A B 12至 3')
     '摸A B 12至3'
+    >>> remove_space('噉你哋要唔要呢 ？')
+    '噉你哋要唔要呢？'
     '''
-    s = re.sub(r'(?<=[\p{Unified_Ideograph}\u3006\u3007]) (?=[\da-zA-Z])', r'', s)
-    s = re.sub(r'(?<=[\da-zA-Z]) (?=[\p{Unified_Ideograph}\u3006\u3007])', r'', s)
+    s = re.sub(r'(?<=[\p{Unified_Ideograph}\u3006\u3007]) (?=[\da-zA-Z！，：？《》])', r'', s)
+    s = re.sub(r'(?<=[\da-zA-Z！，：？《》]) (?=[\p{Unified_Ideograph}\u3006\u3007])', r'', s)
     return s
 
 pattern_han = re.compile(r'[\p{Unified_Ideograph}\u3006\u3007]')
