@@ -2,9 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 
 cookies = {
-    'wenlinco_wowdbUserName': '...',
-    'wenlinco_wowdbUserID': '...',
-    'wenlinco_wowdb_session': '...',
+    'wenlinco_wowdbUserName': ...,
+    'wenlinco_wowdbUserID': ...,
+    'wenlinco_wowdb_session': ...,
 }
 
 def write_titles(titles: list[str], filename: str='titles.txt') -> None:

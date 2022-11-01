@@ -7,12 +7,13 @@ filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 with open(filename, encoding='utf-8') as f:
     soup = BeautifulSoup(f, 'lxml')
 
+pattern = re.compile(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', flags=re.MULTILINE)
 sentences = []
 
 for page in soup.select('page'):
     content = page.select_one('text').get_text().removeprefix('<WL>').removesuffix('</WL>')
 
-    for match in re.finditer(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', content, flags=re.MULTILINE):
+    for match in pattern.finditer(content):
         yue, en = match.groups((1, 2))
         if yue == '(empty band???)' or en == '(empty band???)':
             continue
@@ -26,7 +27,8 @@ def key(item):
 
 sentences.sort(key=key)
 
-with open('sentences.txt', 'w', encoding='utf-8') as f:
+with open('yue.txt', 'w', encoding='utf-8') as f1, \
+        open('en.txt', 'w', encoding='utf-8') as f2:
     for yue, en in sentences:
-        print(yue, file=f)
-        print(en, file=f)
+        print(yue, file=f1)
+        print(en, file=f2)
