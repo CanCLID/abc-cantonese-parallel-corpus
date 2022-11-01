@@ -30,6 +30,37 @@ substitution_yue = (
     ('自覺得己', '覺得自己'),
 )
 
+_pattern_lower = re.compile(
+    r'(?<![a-zA-Z])('
+    'ARTS|'
+    'BAND|'
+    'BIO|'
+    'CAMP|'
+    'CANCER|'
+    'CHEAP|'
+    'CREAM|'
+    'FACIAL|'
+    'FRIEND|'
+    'GAG|'
+    'HAPPY|'
+    'KEY|'
+    'LIKE|'
+    'MOVIE|'
+    'OUT|'
+    'PACK|'
+    'QUALI|'
+    'ROUND|'
+    'SALES|'
+    'SEM|'
+    'SHARP|'
+    'SHORT|'
+    'TITLE|'
+    'WINNER'
+    r')(?![a-zA-Z])'
+)
+def upper_to_lower(s: str) -> str:
+    return _pattern_lower.sub(lambda match: match.group(0).lower(), s)
+
 _fw = 'ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ１２３４５６７８９０'
 _hw = unicodedata.normalize('NFKC', _fw)
 _trans = str.maketrans(_fw, _hw)
@@ -58,6 +89,7 @@ def is_letter(c: str) -> str:
 def normalise(yue: str, en: str) -> tuple[str, str]:
     for src, dst in substitution_yue:
         yue = yue.replace(src, dst)
+    yue = upper_to_lower(yue)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
     if is_han(yue[-1]) and is_letter(en[-1]):
