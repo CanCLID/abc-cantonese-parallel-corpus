@@ -14,6 +14,7 @@ substitution_yue = (
     ('床', '牀'),
     ('衭', '褲'),
     ('贃', '賺'),
+    ('𠵉', '行'),
     ('𠶧', '掂'),
     ('𠹺', '埋'),
     ('𡁵', '緊'),
@@ -76,15 +77,20 @@ def is_paren_balanced(yue: str, en: str) -> bool:
     d = en.count(')')
     return a == b == c == d
 
+def is_colon_balanced(yue: str, en: str) -> bool:
+    a = yue.count('；')
+    b = en.count(';')
+    return a == b
+
 def should_remove(yue: str, en: str) -> bool:
-    if '(empty band???)' in (yue, en) or \
-            '[missing example characters???]' in (yue, en):
-        return True
-    if contains_pua(yue):
-        return True
-    if not is_paren_balanced(yue, en):
-        return True
-    return False
+    bad_texts = ('(empty band???)', '[missing example characters???]')
+    should_remove_list = ("She's not here, lit. Not even her shadow is seen",)
+    return yue in bad_texts or \
+        en in bad_texts or \
+        en in should_remove_list or \
+        contains_pua(yue) or \
+        not is_paren_balanced(yue, en) or \
+        not is_colon_balanced(yue, en)
 
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 
@@ -92,26 +98,25 @@ def main():
     with open(filename, encoding='utf-8') as f:
         soup = BeautifulSoup(f, 'lxml')
 
-    _pattern_data = re.compile(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', flags=re.MULTILINE)
-    sentences = []
+    pattern_data = re.compile(r'^[^ ]*hz +(.+)\n[^ ]*tr +(.+)', flags=re.MULTILINE)
+    sentences = set()
 
     for page in soup.select('page'):
         content = page.select_one('text').get_text().removeprefix('<WL>').removesuffix('</WL>')
 
-        for match in _pattern_data.finditer(content):
+        for match in pattern_data.finditer(content):
             yue, en = match.groups((1, 2))
             if should_remove(yue, en):
                 continue
             assert '\n' not in yue
             assert '\n' not in en
             yue, en = normalise(yue, en)
-            sentences.append((yue, en))
+            sentences.add((yue, en))
 
     def key(item):
         yue, en = item
         return len(yue), yue, en
-
-    sentences.sort(key=key)
+    sentences = sorted(sentences, key=key)
 
     with open('yue.txt', 'w', encoding='utf-8') as f1, \
             open('en.txt', 'w', encoding='utf-8') as f2:

@@ -8,10 +8,6 @@ Step 1: Run `scrape.py` to get a list of the titles of all pages under the `Jyut
 
 Step 2: Go to the [export page](https://wenlin.co/wow/Special:Export) to export all the data to an XML file.
 
-Step 3: Postprocessing. (仲未做)
+Step 3: Postprocessing.
 
-1. Add periods at the end of the sentences.
-1. Convert half shape punctuations to full shape.
-1. Convert full shape numbers and letters to half shape, e.g. ＤＱ -> DQ
-1. Check 著 and 着.
-1. Check all the characters that contains 口, e.g. 𠺢 -> 㗎.
+TODO: Check 著 and 着.
