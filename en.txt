@@ -578,7 +578,7 @@ The orange is that big
 I have some pain in my stomach due to indigestion
 A scab has formed over the wound
 Scald the shrimps in hot oil first
-Congee with minced beef   
+Congee with minced beef
 Two fruit stalls
 Twenty-five minutes past eight
 I'm going to tickle you if you don't stop saying that
@@ -2061,7 +2061,7 @@ He had suffered a loss by speculating on margin.
 He lost money speculating in stocks.
 He played the stock market and lost heavily.
 He is very skilled in working on the computer.
-He passed away yesterday!  
+He passed away yesterday!
 He has cancer
 She is too ugly.
 He's quite pint-sized.
@@ -2229,7 +2229,6 @@ Has this amount of earnings been entered into the ledger?
 One must speak English here.
 This film has still not been sent to a government department for inspection.
 This stuff is big trouble.
-This shop specializes in selling second-hand goods 
 This shop sells great products.
 This piece of silk cloth is two feet wide.
 When does this boat arrive at the port?
@@ -3126,6 +3125,7 @@ These days I rarely seem them.
 This troublesome problem really worries me.
 How much money is this house worth?
 There are three bedrooms in this flat.
+This shop specializes in selling second-hand goods.
 This shop has gone out of business.
 This shop sells things very cheaply.
 This shop specializes in selling parallel-imported goods.
@@ -3630,7 +3630,7 @@ If you bring that much baggage, then we will charge you transportation fees.
 You're so whining and temperamental that I'll just ignore you!
 Your doing things so carelessly isn't okay.
 You are so young yet you imitate the others who smoke cigarettes.
-You are so lazy and still want to be promoted? 
+You are so lazy and still want to be promoted?
 Why are you spitting out saliva like that?
 Who is the person in charge of your company?
 What are you guys arguing about here?
@@ -5105,6 +5105,7 @@ The waiting time for a seat to eat inside the restaurant is five minutes.
 Signing up is open from now until the 10th.
 Reading dog-racing columns in the newspaper is an everyday part of his life.
 Your big brother stays at home the whole day being so gluttonous and lazy.
+Let's all eat, and all of you make yourselves at home!
 Everyone earnestly wishes that you will quickly succeed.
 On hot days everyone wants to go swimming.
 Being out in such strong sunlight made me feel like fainting.
@@ -5328,6 +5329,7 @@ On the school's foundation day everyone happily enjoyed themselves.
 My girlfriend most likes for me to lick her cunt.
 The carrying pole is so thin it can't bear much weight.
 The trousers shrank the first time they were washed.
+The landlord informed them that he wants to raise the rent.
 Legitimate massage is just an ordinary massage.
 Shut up, you damn bitch!
 Just now in Central I saw her.
@@ -5501,7 +5503,6 @@ It started to rain just as soon as I got out of the door, so it's really bad luc
 In a nutshell he was the one who first stirred up the trouble.
 Deal with one thing at a time, and don't be in such a hurry.
 He walked quickly back to his office as soon as he got off the bus.
-As soon as it rains, then my back feels sore 
 Get it all done in one go, and don't leave things unfinished for someone.
 It's going to get dark soon, and my son still hasn't come back.
 This shop had shut down at the end of last month.
@@ -5865,7 +5866,6 @@ She is the most gossipy and meddlesome one in class!
 Two women making love is called having lesbian sex.
 Eight ounces of ginger beer has eighty calories.
 Our company's boss suspects that someone is skimming off money from the accounts.
-Sometimes the right speaker has sound and sometimes it doesn't     
 As a matter of fact I think traditional Chinese clothes are quite good looking.
 There's nothing the matter. It's quite unimportant!
 In wintertime lots of people go out wearing knitted woolen hats.
@@ -6077,7 +6077,6 @@ The boss says that tonight we will call out reinforcements of members from other
 The boss says that tonight we will call out our followers to fight.
 Tai Wai and Kat Hing Wai are both in the New Territories.
 Everybody quickly finish the work, and we can leave earlier.
-Let's all eat, and all of you make yourselves at home!
 All of us are good friends, so there's no need to be polite.
 It's so hot the tree leaves were burned by the sun and have turned brown.
 Since the weather is so hot, going swimming would be the most enjoyable thing to do.
@@ -6325,7 +6324,7 @@ I was given a scolding by my mom for no reason at all.
 I was scolded for no reason, and it's really baffling.
 No matter what we must still go cast our votes!
 Barbecued meat is very salty, so I don't like to eat it.
-Before Daddy goes out the door he'll always give us a kiss
+Before Daddy goes out the door he'll always give us a kiss.
 The dentist said this tooth needs to be pulled out.
 Mr. Wong, are you free tomorrow?
 We're just playing, so how come you break the rules so wildly?
@@ -6467,6 +6466,7 @@ As soon as I was presented with the bill, I discovered that the meal cost three 
 One pound has sixteen ounces, isn't that right?
 You can't even jump over a height of one meter, so it's really disappointing.
 I'm scared as soon as I hear the doctor say I must get an injection.
+As soon as it rains, then my back feels sore.
 As soon as he sees a pretty girl he lusts after her.
 As soon as he sees a pretty girl he lusts after her.
 As soon as she saw me come in, she became red-faced.
@@ -6682,7 +6682,6 @@ He is so bad I earnestly wish that someday he'll fall down in the street!
 The two of them have lived together for a long time.
 Everyone knows that they have shady relations with each other.
 It's all because I brought them together that they know each other.
-They're suffering so, I really feel sorry  
 They're here eating noodles and making such slurping sounds doing it.
 They fixed Thursday morning for holding the meeting.
 What good is it for them always being slow and lazy like that?
@@ -6871,6 +6870,7 @@ When a married couple fights, it's bad luck for the pots and jars.
 This year the company began implementing a system with alternate Saturdays off.
 Our company recently introduced the Employees Award Scheme.
 As a matter of fact, he can speak only a few phrases of Japanese.
+Sometimes the right speaker has sound and sometimes it doesn't.
 In fact these lyrics are really meaningless.
 In fact I can only speak a little bit of Japanese and that's all.
 Nobody has falsely accused you of doing anything, so don't put it aside and think about it.
@@ -7106,7 +7106,6 @@ The table is uneven, so you need to wedge something under one of the legs to fix
 The bed collapsed after I slept on it once, so it's as fragile as if it were a ritual paper offering.
 The bed and the cupboard are his only possessions.
 The bed is not long enough, so I have to huddle up when I sleep.
-The menu is all familiar French food 
 Well, I'm taking a few good photos to remember this!
 As for the person in last position, do you recognize him?
 As for the person in last position, do you recognize him?
@@ -7141,6 +7140,8 @@ It's quite easy for this girl and me to talk to each other, or This girl and I g
 A friend and I are planning to go travel at the end of February.
 I told the doctor that sometimes I wake up in the night with the urge to urinate.
 These days I don't have any money, so I need to find someone to loan it to me.
+What have I done to offend you? All the time you're criticizing me!
+What have I done to offend you? You're criticizing me all the time!
 This month we don't have enough money for our living expenses.
 We live here because it's near the school.
 This matter of us working as pimps has become known to the cops.
@@ -7269,7 +7270,7 @@ If there is anything I can do to help, please feel free to call me.
 Someone told me he passed away this morning.
 She's been invited to a banquet so then she hurries to go buy formal clothes.
 A student carved on the desk with a small knife, so he's really naughty.
-A passerby who was an eyewitness also said it was completely outrageous! 
+A passerby who was an eyewitness also said it was completely outrageous!
 Does anyone know what this hot-looking chick's name is?
 With so much money, I need not worry about anything for the rest of my life.
 Some people earned big money by making deals under the table.
@@ -7285,7 +7286,6 @@ The school term is not even half over but your book has already become worn out 
 I have never seen a woman as cheap as she is.
 Originally we wanted to go to the Shatin bowling alley.
 The cigarette has something in it. It's been spiked with marijuana.
-The pallet jack is used for the work of moving around pallets 
 The bicycle braked too late, and so it rammed into a lamppost.
 The toy car is small and exquisite, so people will like it for sure.
 The car's speed was too fast, and the driver couldn't apply the brakes in time.
@@ -7300,7 +7300,6 @@ This bamboo pole is too flimsy, so how can it serve as a flagpole?
 The ship takes ten or so days for a journey to Singapore.
 This road is so rough and uneven, it would be better to drive more slowly.
 The young hoodlum carried a beef knife and went to chop someone up.
-The landlord informed them that he wants to raise the rent  
 Every time we go out for a meal, I am the one who pays for it.
 European fashion shows will be starting very soon.
 What a mess! I've left my wallet at home!
@@ -7310,7 +7309,6 @@ Every morning they will raise the flag at this place.
 Rice generally yields two crops a year.
 The automobiles parked alongside the road were set ablaze by evildoers.
 The court issues warrants against the defendants who are absent.
-Is it true the boss is going to be paying out our wages today? 
 The boss discovered the manager had padded the list of employees and collected their salaries for more than ten years.
 It's so annoying! My passport has expired!
 The show that leads the way tonight is the dragon dance.
@@ -7647,6 +7645,7 @@ They are still resisting? Handcuff all those guys, and take them back to the pol
 They never thought this matter would be mismanaged into such a big mess.
 All of them have lots of money, and so they can afford to spend a lot.
 They covertly used their boss's automobile as part of an illegal taxi service.
+They're suffering so, I really feel sorry.
 Their boss has shown up with lots of his followers, so what can we do to save ourselves?
 They want to wait till next year before getting married.
 They're speaking incoherently all the time, so I don't know what they're saying.
@@ -8064,6 +8063,7 @@ When will I finish it? I suppose around June or July.
 The starting bid is five hundred thousand dollars, and the minimum bid increment is fifty thousand dollars.
 A light in the kitchen didn't come on, and it turns out a fuse burned out.
 The paper was torn into scraps and pieces, so it's hard to fit them all back together again.
+The menu is all familiar French food.
 Whether it works or not depends on his father's capability.
 When you are free, tidy up those odds and ends of things in the drawer.
 If you're free, come over and we'll go to a restaurant for dimsum and have a chat.
@@ -8095,10 +8095,7 @@ I give you my assurance that he will definitely come.
 When I played chess with him, I captured all the enemy pieces except for the general.
 When I eat a late-snack with my girlfriend, naturally we eat McDonald's.
 My boyfriend and I don't quite like to chat on the telephone.
-This recipe of mine makes fifteen little chicken cookies   
 It's sometimes that I have these discomforts and sometimes not.
-What have I done to offend you? All the time you're criticizing me!
-What have I done to offend you? You're criticizing me all the time!
 It's exactly like that with me, I say I'll overcome my weaknesses but I still can't overcome them
 How about we eat at home tonight?
 Let's find some people to play mahjong tonight, okay?
@@ -8174,6 +8171,7 @@ Start only when I say so and don't cheat!
 I think you should still have one spare to be okay!
 I think it's groundless rumor, so no need for you to pay attention to it.
 I think if each person puts in a little over a thousand dollars that should be enough.
+When I think back about this matter, I always feel very unhappy.
 I tell you that I don't want you to be unhappy.
 I bought a boxed cake as a souvenir to give Mom.
 In gambling on dog races I don't need to study dog-racing commentary, as I win all the time.
@@ -8249,6 +8247,7 @@ My business partner is my buddy, so surely things will go more smoothly.
 All of the concerned documents have already been stored away in the safe.
 You dared to get into the water even in the presence of sharks, so you're really courageous!
 It's for nothing that I cooked so much stuff to eat, as they don't come.
+The pallet jack is used for the work of moving around pallets.
 The bus is completely full. There are only some places to stand.
 The automobile braked too late and crashed into the one in front of it.
 The automobile is so big it won't matter if one more person gets in.
@@ -8563,7 +8562,7 @@ You're already over 30, so you had better marry an older woman and be done with 
 How stupid you are! You are paid such a high salary but you don't do the work!
 You must be crazy! You've donated such a large sum of money!
 If your medical treatment harms others, they will come here and kick up a fuss.
-You just look for anyone to go do it and then that'll be fine!   
+You just look for anyone to go do it and then that'll be fine!
 You're a lazybones staying home the whole day watching TV.
 You eat the food so noisily, and it's ill-mannered.
 Why did you do it merely half-way and not finish it all the way to the end?
@@ -8957,7 +8956,6 @@ The bed is bumpy, so last night I didn't sleep well.
 Hurry up and come here to us and eat a refreshing breakfast!
 A whole morning has passed, and not even a single customer came in, so the profit remains at zero.
 The whole group of guys was going to take drugs, but surprisingly he chickened out!
-When I think back about this matter, I always feel very unhappy.
 I grabbed hold of his shirt so he couldn't get away.
 As soon as I saw his girlfriend wearing a swimsuit I got a hard-on.
 As soon as I said I wouldn't give him back the money, he then became furiously angry.
@@ -8982,6 +8980,7 @@ I've ordered a bowl of rice but it hasn't come yet, so please check about it.
 You and I are very close friends, so I will definitely help you in any situation.
 He and I are strangers, so why should I help him?
 I'm dating her! Who was it that told you that?
+This recipe of mine makes fifteen little chicken cookies.
 This business suit of mine is tailor-made, and it's really good.
 These days I'm short of money, so I need to ask friends to loan me some money.
 These days I can't eat much, so probably I have some sort of indigestion.
@@ -9517,7 +9516,7 @@ This construction work will become quite problematic without further investment.
 It's clear that you are wrong, so why are you here still refusing to correct your mistakes?
 At first I thought he was just kidding, but who would have thought it was really true?
 When meeting someone for the first time, you shouldn't pry into his family background.
-A while back I was quite unwell. For several days I didn't go to work
+A while back I was quite unwell. For several days I didn't go to work.
 As it turns out this is the new function of the Octopus card-reading device.
 The best thing to do when traveling in Japan is to go shopping
 You are not going to a banquet, so why do you need to be so overdressed like that?
@@ -11066,6 +11065,7 @@ It was after I finished the meal that I discovered I didn't have enough money, b
 I can handle any problems that arise, so I'm not going to blame you if anything happens.
 Eat a Western meal? I'd rather go to the food stall next door to have Chaozhou food instead.
 When you eat you can make a pig of yourself, but I don't see you put that same effort into working.
+Quite a few Hong Kong drivers don't even know how to open the hood of their car.
 The Hong Kong government encourages Hongkongers to study and observe the Basic Law.
 Can Hong Kong taxi drivers refuse drunks getting into their cabs?
 The triad society ordinarily will force someone to join up inside entertainment places.
@@ -11254,7 +11254,7 @@ Do the labor legal regulations inform clearly that you must see a doctor when yo
 Never defy your boss! You surely don't want to get beaten up by your own gang members, right?
 As it turns out this job requires working overtime. The overtime pay is forty dollars an hour.
 Can you slow down a bit? There are some people who are lagging behind us.
-What? He has cheated you out of several tens of thousands of dollars? Then you get even with him! 
+What? He has cheated you out of several tens of thousands of dollars? Then you get even with him!
 This matter is indeed rather troublesome, so let's all cooperate to get it done well.
 This person overreacts even on trifling issues.
 This woman brought along her two young kids from a previous marriage and got married again to a rich man.
@@ -11305,7 +11305,6 @@ The new classmates were either from English-language elementary schools or schoo
 These grains have become soaking wet from the rain, so hurry up and spread them out to dry in the sun.
 The robbers are inside there, and that man outside is standing lookout for them.
 In this illegal mahjong gambling den each table collects a commission of one hundred dollars.
-The one who is working as the cashier over there is precisely the person in charge of this cafe 
 Babies born in Hong Kong to mothers and fathers without right of abode have the right of permanent residency in Hong Kong.
 In Hong Kong even in winter the average temperature is still more than ten degrees Celsius.
 Those things are all quite ordinary, and they're being sold everywhere.
@@ -11537,7 +11536,6 @@ Just now I went to Temple Street to have my fortune told with my palm and face, 
 Just now I went to the library to borrow a book, and I bumped into the teacher who teaches you English.
 Just now I was able to withdraw cash from this ATM, and there wasn't any problem.
 Just now I saw some cops giving out tickets to illegally parked cars one by one.
-Quite a few Hong Kong drivers don't even know how to open the hood of their car
 In Hong Kong there are wholesalers of gutter oil, and they're supplying quite a few food-and-drink syndicates.
 About three hundred thousand households in Hong Kong have the custom of burning paper offerings to pay respect to their ancestors.
 Most of the okra in Hong Kong supermarkets is imported from Thailand.
@@ -11774,6 +11772,7 @@ What tricks are the kids getting up to? You need to go take a look at them.
 Well, the old folks have been standing in line for so long that it's no wonder that some of them are jumping the queue.
 Well, the old folks have been standing in line for so long, so it's no wonder that some of them are jumping the queue.
 Social order here is quite bad. We old folks don't dare go out at night!
+The one who is working as the cashier over there is precisely the person in charge of this cafe.
 In Britain if one has five pounds, it should last much longer than five dollars in Hong Kong.
 In Hong Kong some Westerners know how to speak Cantonese as well as read Chinese characters.
 That person is wandering around near the doorway of the bank and doesn't look quite right.
@@ -12147,7 +12146,7 @@ Just the same as you, my husband works in the construction industry. He has also
 This person really has a high opinion of himself, that he ignores the boss is not at all strange.
 This girl is so haughty that she won't necessarily respond to you even if you say 'hi' to her.
 This girl looks well-educated and well-brought-up, so I think her family background must be pretty good.
-This girl's legs are long, her waist slim, and her boobs are also quite big. She's really very sexy
+This girl's legs are long, her waist slim, and her boobs are also quite big. She's really very sexy.
 It doesn't matter that this taxi driver refuses to take us where we want to go, as there are lots of taxis tonight.
 This district is a place for the triads to make money, as all the shops must pay protection money.
 All these people are VIPs, so they won't tell you their phone numbers.
@@ -12382,7 +12381,6 @@ The dog suddenly jumped up on her body and licked her face. It scared her so she
 Although he lost a lot of money investing in the stock market, he still insists on not giving up.
 Although my plane ticket was quite cheap, the airline's service was not at all substandard or disappointing.
 Although the savings one gets is just a small amount, still, as they say, one dollar saved is one dollar gained.
-Just now he was wearing a sport shirt, and said he was going out to ride his bicycle for an hour 
 Just now I saw them walking back and forth. It seemed like they couldn't find some seats.
 Management fees for Mandatory Provident Fund plans are terribly expensive, and profits are quite excessive.
 The Hong Kong team has lost so many times, it is not surprising they now play so halfheartedly.
@@ -12407,7 +12405,6 @@ This morning the dentist needed to use a lot strength to extract a tooth, and my
 That the two triad gangs were fighting with weapons was because one gang had invaded the other's territory.
 In the past one hundred dollars would last for quite a long time. Now you buy a few things then it's all gone.
 Before he liked to read, but after he became blind he couldn't do that and it's really pitiful.
-In the past if an elderly person wanted to apply for Comprehensive Social Security Assistance, the son definitely had to sign the bad-son statement 
 Formerly, it was a village of hundreds of people, but nowadays the villagers have scattered far and wide and so only a few dozen people remain.
 Do you think your boss had asked you to traffic drugs as a favor for you? He's just treating you like a fall-guy!
 Do you think just because I'm quite old I can't help you? I can also help you!
@@ -12708,6 +12705,7 @@ Although he has won this election, you don't have to fawn all over him like that
 Although the economy is in a depression, we still must make money everywhere we can to pay back the debt.
 Although my boss is willing to give me overtime pay, however this job is really quite difficult.
 Just now he got drunk with some friends in the bar, and now he's vomiting in the street.
+Just now he was wearing a sport shirt, and said he was going out to ride his bicycle for an hour.
 A dishonest taxi driver just now cheated you? You need to hurry up and complain to the police!
 The dancing girls who come at the beginning are usually not pretty. If it weren't like that, how else could the customers be induced to pay more to replace them with others?
 The geomancy master cheats you for eight to ten years, but every sentence I've said to you is true.
@@ -12730,6 +12728,7 @@ This morning when I was driving and applied the brakes, the brakes then made a j
 As for the transportation, food, and accommodation during this trip, he arranged everything to be in perfect order.
 As for his requirements, when he looks for a wife, he will certainly want to find one who will be a good match for him.
 Before these two people got along well, as they were always hugging each other, but now they seem like enemies.
+In the past if an elderly person wanted to apply for Comprehensive Social Security Assistance, the son definitely had to sign the bad-son statement.
 From now on when you go to Macau to have fun you should be more careful. Otherwise if you're not you'll suffer a big loss of money.
 Your shirt has lost some buttons, and your trousers aren't ironed, so how can you go out looking so slovenly?
 Our colleagues have arrested some young gangsters from mainland China, but we don't know which province they came from.
@@ -12983,7 +12982,7 @@ Before you go out in your car, you can call the telephone hotline first to get a
 Whatever you do, don't listen to what he says. This person is inconsistent in his words, you can't trust him.
 You should be careful going out on a date with him, as some people say he likes to take the opportunity to grope a girl.
 You need to be careful playing cards with them, as I have heard their cards have been tampered with.
-The best thing for you all to do is to set up a street counter there, then ask some residents what opinions they have 
+The best thing for you all to do is to set up a street counter there, then ask some residents what opinions they have
 You guys should slowly talk about it, as it's not a very big matter, so don't say he's disgusting!
 You don't have to let me know anything about him. I won't be so stupidly looking for him to get him back.
 You have just started working at this company, so you need to be careful and watch your step.
@@ -13124,7 +13123,7 @@ I raised you till you were grown up, but now you show no gratitude to me but hel
 What I'm afraid of is namely the colleague next to me. He's one of those quiet but treacherous people.
 He found such an unscrupulous woman to be his wife, so I think he will definitely be made a cuckold.
 Every day all you want to do is play, but you can't pass your exams, so when your father comes home, let's see what kind of lesson he teaches you.
-Every day some young men say to me, when will Hong Kong finally have genuine universal suffrage? 
+Every day some young men say to me, when will Hong Kong finally have genuine universal suffrage?
 A while back I went to Lamma Island to see a friend, but it's still the same: hopelessly crowded.
 It's recently already been said that not a few small and mid-sized real estate agencies can't survive and must close down.
 Recently it's already been said that not a few small and mid-sized real estate agencies can't survive and must close down.
@@ -13497,7 +13496,7 @@ When you go to that district you should be careful, as a friend said that yester
 You men are all so lecherous. All the time you're staring lasciviously at another person's chest.
 Do you know that he moves around Portland Street, specializing in collecting debts? Do you want to die?
 Do you know that he moves around Portland Street, specially collecting debts? Do you want to die?
-You must be especially careful crossing the road here. Remember there's no second chance in life! 
+You must be especially careful crossing the road here. Remember there's no second chance in life!
 When you were using the shovel to dig the dirt you didn't wear gloves, so it's no wonder that some calluses have formed on the palms of your hands.
 You see, there are so many people here taking photos, you then know that Hong Kong University is also a hot spot for taking selfies!
 As for whether or not your younger brother will go to reformatory school, I think it must depend on what his mentality is when he goes to court.
@@ -13575,7 +13574,6 @@ Me, Mommy, Daddy, little sister, all of us want to go out to eat this evening.
 I want to hire two Indonesian domestic helpers. They'll mainly help my mother wash the dishes, do the housework, and look after grandpa.
 I had looked in lots of shops, and there aren't any Italian-style chocolate filled sandwich cookies. I don't know when there will be some.
 My girlfriend is a white girl. She's German, and she's got blonde hair and blue eyes, exactly like an angel!
-From the time I was a child I've always quite liked eating imitation shark's fin soup. I will usually buy it at streetside mobile stalls   
 When I was little I liked to play blind man's language with my friends. Other people couldn't understand at all what we were saying.
 Back then when I was young, I saw his mom many times, because my mom and his mum were mahjong partners.
 My father is really good at betting on the horses, and tonight at Happy Valley Racecourse he placed a winning bet and won lots of money.
@@ -13698,6 +13696,7 @@ My girlfriend won't let me get my ears pierced. She says it will look like I'm s
 I loathe gambling. I myself don't like gambling for money. When I see dice or mahjong then I'm quite disgusted.
 I have a classmate who immigrated to America. She's given birth to two westernized Chinese boys. They both act like they're rich boys.
 From the time I was a child I haven't been good at English. I studied Chinese in middle school. Now at work I have to use English all the time.
+From the time I was a child I've always quite liked eating imitation shark's fin soup. I will usually buy it at streetside mobile stalls.
 It's really sad about my boyfriend. He lost lots of money in Macau. Now there are several loan sharks looking for him chasing after the debts.
 I've discovered my boyfriend occasionally likes to go to department stores and stealthily steal girls' black lace panties.
 I know there's nothing that can change the facts. I only want very much, very much to say to you all that I'm sorry!
@@ -13742,7 +13741,6 @@ A young masseuse needs to have body contact with her clients, so the chance of b
 My baby is almost a year old, and when he takes a bath, he likes to play with his willy, so is this normal?
 The pair of 15-year-old lovers tasted the forbidden fruit of sex and consequently the boy was arrested for illegally having sex with an underaged girl.
 Last time I inadvertently allowed you young boys to go in, so are you trying to take advantage of my negligence again this time?
-In the afternoon at 3:30 I felt hungry, so then I went to a tea café and bought a pineapple bun with butter. I ate it as I walked along 
 Today for the first time I went to have the prenatal exam. To my surprise the scan shows I'm having twins! I immediately had the feeling of wanting to cry.
 Today out of the blue I got bumped into by some guy, and it made me fall down and injure myself. My left knee was badly hurt and bleeding.
 As soon as my little son got up this morning he argued with me, "Mommy, I don't want to go to school. I don't like to study!"
@@ -13825,6 +13823,7 @@ Recently my young son is unwilling to eat solid food. He says he wants to drink 
 Just now I saw many young hoodlums fighting in the street, and several of them fell down on the ground with their heads split open and bleeding.
 The lady boss of the café shouted to the boy, "Get those three carryout orders of ham and egg sandwich delivered for me!"
 Young female pseudo-models are young girls who have newly entered the trade to be models. Their selling points are being young and sexy.
+In the afternoon at 3:30 I felt hungry, so then I went to a tea café and bought a pineapple bun with butter. I ate it as I walked along.
 Today was the first time I made cream of mushroom soup. It turns out it's not a bit difficult. It tastes even better than the canned!
 Today in Central more than two hundred N-nothings demonstrated demanding the government distribute eight thousand dollars to each resident.
 When playing ball today I got hit inside my thigh near my scrotum. Not until returning home and taking a look did I realize there was a lot of bleeding.
@@ -13918,7 +13917,7 @@ At my previous job I worked ten hours a days, and now I see this new job has abo
 When you go visit whores it's best you wear a condom. Wearing a condom is not only used to avoid pregnancy. It also can even prevent sexual diseases!
 You said he did it, and he denies it, but no matter who is right, I will definitely get to the bottom of the matter.
 He thinks he's really smart, but he took many subjects and will likely fail this semester, so he really bit off more than he could chew!
-His former girlfriend said he’s a playboy. She couldn’t put up with seeing him always chatting up girls, so then she broke up with him!   
+His former girlfriend said he’s a playboy. She couldn’t put up with seeing him always chatting up girls, so then she broke up with him!
 That time she went to bed with her boyfriend, her boyfriend didn't wear a condom. As a result she has become pregnant, and now she doesn't know what to do.
 He denied going to the hospital to observe was for show. He said it was because he wanted to understand more about the circumstances of the accident.
 Originally, he was just a clerk, but he knew how to bootlick, and so that's why he was a lucky villain and got promoted to manager.
@@ -14068,6 +14067,7 @@ Yesterday I helped a friend move some rubbish, sheets of stainless steel, marble
 Because my wife and daughter were both here, if I were to walk out of the room and see the thief, given my personality, I definitely would fight with him!
 Most one-woman brothels in Tsim Sha Tsui are concentrated together. The ground-floor shops of several buildings are fashion shops. The flats on floors upstairs are all one-woman brothels.
 The washbasin in the bathroom of my house all of a sudden doesn't drain properly. It seems like it's gotten clogged up, but I'm afraid to use drain cleaner to unclog it.
+The Correctional Services officer said to the prisoner, "Squat on the ground! Squat-toilets are used here. We need to see if you have any difficulty using a squat toilet"
 I'm triad society! Who told you to put up a stall here? Take out every bit of your money. If you don't give it to me, I'll get my chopper and chop you to death!
 I believe there are ghosts. All along I've believed you really can call up spirits of the dead and communicate with them, but if you want to find a person who really has genuine psychic powers, that's really hard!
 I went to the Mongkok branch store and saw that the silk stockings had already been nearly cleaned out, and all that was left were some torn-up leftovers.
@@ -14109,7 +14109,7 @@ In Hong Kong this jockey has already been riding for 13 seasons, and this season
 After the young hoodlums were arrested and brought to the police station by the cops, a cop then took their photos and fingerprints.
 Under the current conditions with the unemployment rate for young people being so high, I'm quite sure it's impossible for you to find a job.
 In Hong Kong the mother tongue of the majority of students is Cantonese, so adopting Cantonese as the medium to teach the Chinese language subj. is more beneficial to the students' learning.
-Because the government wants to use the judicial system to overturn the election result, so then we must use civil strength to resist this disqualification! 
+Because the government wants to use the judicial system to overturn the election result, so then we must use civil strength to resist this disqualification!
 Since the acoustics of the performance stage were quite bad, and the singers were all quite tired, that day they had to lip-sync their singing.
 If you think he inflates the numbers, why don't you tell him to bring out the account book. Everything can be checked over. You can see if there's a problem or not.
 Learn from what has been wisely said: a distant relative is not as good as a close neighbor. He sends rice so I have food to eat, and when you have someone to chat with, it's not so boring!
@@ -14117,7 +14117,6 @@ As for Hong Kong horse racing fans, the daily-newspaper horse racing section in 
 Even if you really feel he's quite suitable for you, if you two aren't suitable for each other, then in that case the person will want to break up with you.
 No matter how my wife uses her mouth to suck my willy, I still can't get erect, but because of the matter of my dignity, I don't dare go see the doctor.
 Twenty-odd years ago he bought that stock for a few tens of dollars, now it has risen in price 10,000 times, so he really gained a big benefit with only a small investment.
-The Correctional Services officer said to the prisoner, "Squat on the ground! Squat-toilets are used here. We need to see if you have any difficulty using a squat toilet"
 My company hired an MK-style girl. She seemed to be about twenty years old or so. She had bleached-blonde hair. She even wore mini-skirts and strongly smelled of cigarettes.
 I told you not to buy that stock, but you turned a deaf ear to my advice, and as a result you lost a lot of money.
 It was only that we had gotten to know an old French couple, and they lived there, so we just tagged along with them and went in to have a visit
@@ -14301,6 +14300,7 @@ Sometimes when I'm walking together with a Hong Kong girl, I hear some passersby
 Yesterday in Mongkok police arrested five gamblers who are fans of cricket-fighting, and they confiscated two hundred fighting crickets, cricket-fighting paraphernalia along with eight thousand dollars of betting slips and cash.
 Last night after we had finished watching a movie I spent the night at my girlfriend's house. In the middle of the night I woke up and couldn't stop myself from feeling around searching for my girlfriend.
 Last night a pair of young lovers, while it was late and quiet, put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex acts outdoors.
+Last night while it was late and quiet a pair of young lovers put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex outdoors.
 Last night some cops pretended to be gays for an undercover operation, and successfully raided three one-man gay brothels, and arrested three gay male prostitutes from mainland China.
 My husband says every day at his company as soon as he opens the lunch box I've fixed for him, his colleagues' mouths then water, and they envy him having a home-cooked meal to eat.
 The hiker slipped and fell down. His two legs were broken, because the environment was quite difficult, so the Fire Department had to mobilize the High Angle Rescue Team to rescue him.
@@ -14318,7 +14318,6 @@ My friend said the other woman is so ugly, she can't understand why her husband 
 After having invited me to eat a meal with him, my boyfriend is always wanting me to pay, he says later we'll pool money together, but every time he never contributes, and also doesn't pay me back.
 I also often go hiking by myself in Tai Mo Shan Country Park. The hikers even voluntarily greet you. The feeling is extremely genial and comfortable.
 Losing water from its body is a natural process for a baby after it's born, and generally speaking, one or two days after the baby's birth, its weight will be reduced because of losing water from its body.
-Last night while it was late and quiet a pair of young lovers put on a live sex show, and it was in a pavilion that they quite boldly engaged in sex outdoors.
 My boyfriend's parents don't like me, my parents don't like my boyfriend, and the two of us seem to be just like a sandwich cookie caught in the middle of an awkward predicament.
 Nowadays the market is dominated by cars with automatic transmission. Finding a car with stick shift is basically quite difficult. In regard to operation, a manual transmission is also more complicated than an automatic transmission.
 Of course at first you think the ones responsible for gambling chips in the casino are knowledgeable locals from Macau, but you're wrong, as it turns out a lot of them are Hongkongers.
@@ -14339,7 +14338,7 @@ The family living above me keeps a dog. Every day in the middle of the night it'
 What were you so carelessly doing to sprain your ankle? You must be more careful looking after yourself! Hurry up and go see the doctor! If you don't there are really long-term consequences!
 Whatever you do don't patronize this unscrupulous shop, it only cheats you out of your money, you buy something but they don't give you a receipt, their attitude is quite nasty, there's not even anyone who takes responsibility!
 He got a high-up promotion, but frankly speaking it's a post in name only, in reality he hasn't got even a bit of power!
-All the time their vehicles occupy the area for unloading goods. The logistics companies then position their forklifts and pallets to save the space for them. By doing that it's just like other people don't need to park their cars! 
+All the time their vehicles occupy the area for unloading goods. The logistics companies then position their forklifts and pallets to save the space for them. By doing that it's just like other people don't need to park their cars!
 He has a very unusual request for the materials to be used in renovating his house: ceramic tiles with patterns of lilies, water taps with a dragon head, and even a patterned toilet seat.
 The driver of the Mercedes-Benz loudly shouted, "Hey! Are you the boss? Why do you want to chop me? You're attacking the wrong guy! I think you've got some things all wrong!"
 In fact Hong Kong has quite a lot of strawberry fields. Picking strawberries is really loads of fun, so if I have the opportunity I'll go again to pick them
@@ -14392,7 +14391,7 @@ This morning while I was sitting on the bus the auntie sitting in the seat next 
 I can affirm her boobs have been surgically enlarged with implants. Before when the whore was in Victory Road her pair of big boobs hadn't been cut. However she's quite pretty. Her service is pretty good. She's willing to do whatever you tell her.
 Yesterday when I was out shopping someone opened the zipper on the backpack I was wearing. I discovered my coin purse was stolen, but luckily the purse with my credit card was still there.
 My wife and my mother quarrel all the time. My wife says she wants to divorce me. I'm really quite vexed. I'm caught in a difficult dilemma between two sides, and I don't know what I should do at all.
-I feel that not teaching in the mother tongue will have an impact on the effectiveness of education. Teaching the Chinese language subject in Putonghua is also closely linked to the communization of Hong Kong. It will eventually endanger the position of Hong Kong Cantonese
+I feel that not teaching in the mother tongue will have an impact on the effectiveness of education. Teaching the Chinese language subject in Putonghua is also closely linked to the communization of Hong Kong. It will eventually endanger the position of Hong Kong Cantonese.
 As some demonstrators scattered note offerings toward the financial secretary, they also loudly shouted to mock him, "You like future reserve funds so much, so we give them all to you! You don't care anything about Hong Kong's old folks!"
 According to regulations on employment of domestic helpers, foreign domestic helpers who have been fired must leave Hong Kong. That's to say they must leave Hong Kong for a period of time before they can come back and work in Hong Kong.
 Yesterday on the way going home in my husband's car, he stopped the car, turned off the ignition, and got out of the car to go buy stuff. I was the only one inside the car and was asleep. After a while I got so hot I woke up.
@@ -14400,6 +14399,7 @@ Speaker A says: Going to the hospital is quite troublesome. Sometimes for a mino
 Hong Kong is one of the world's busiest cargo container ports. Most of the cargo containers passing through Hong Kong are handled in the nine container terminals located in Kwai Tsing.
 Hong Kong is one of the world's busiest cargo container ports. Most of the containers passing through Hong Kong are handled in the nine container terminals in Kwai Tsing.
 Hong Kong is one of the world's busiest container ports. Most of the containers passing through Hong Kong are handled in the nine container terminals in Kwai Tsing.
+Vivek Mahbubani is an Indian born and raised in Hong Kong. He speaks very fluent Hong Kong Cantonese and English performing stand-up comedy.
 Today I didn't need to go to work and was quite free, so I decided to clean up the rooms. When I was tidying up my husband's wardrobe I discovered at the very back a rubber masturbator, it's a woman's vagina!
 As the old lady hit the paper effigy, she also loudly shouted, "I beat you, petty person! You have air but can't breathe! You have feet but can't walk!"
 In fact crashing his car is his own problem, he shouldn't look for you to pretend to be the driver and take the blame for him, for him and you to do like that is illegal! It's called perverting the course of justice!
@@ -14414,16 +14414,16 @@ You better not hire an illegal worker to work for you. Last year my boss hired s
 I'm the same as you, I also feel guys wearing flip-flops look really disgusting, but because girls have prettier toes, so for us wearing flip-flops is fine.
 Tuesday night while playing ball I twisted my ankle, after going into the hospital and having an X-ray taken I then knew the bone wasn't broken, only the ligament has something wrong with it, but today my foot is still quite swollen, and it's completely bruised.
 Late last night the police carried out Operation Torch in Kwai Chung, Happy Valley, Chai Wan, and several other places and dealt a severe blow to illegal car racing. Altogether in the operation fourteen race cars were intercepted and seized.
-Although every time it seems to be at the last minute that your boyfriend looks for you to go shopping, eat a meal, see a movie, or sing karaoke, in fact each time you still want to go out with him! 
-Vivek Mahbubani is an Indian born and raised in Hong Kong. He speaks very fluent Hong Kong Cantonese and English performing stand-up comedy   
+Although every time it seems to be at the last minute that your boyfriend looks for you to go shopping, eat a meal, see a movie, or sing karaoke, in fact each time you still want to go out with him!
 Doing business is just like that, so you need to be clear about the amount of money owed and when it should be paid, sometimes you can't be too nice, because if you're too nice then people will take your weak point and use it against you.
-Lots of stuff causes cancer! If you don't eat a lot, there's no problem. For breakfast we don't choose too much. Luncheon meat, small sausages—these are quite ordinary, and everybody calls for them 
 If your bathtub drains quite slowly, it's probably stopped up with stuff. You can try using Mr. Plumber, squirt some into the drain and wait fifteen minutes then flush with water.  There's no need at all to be afraid it will damage the drain pipes.
 I still must take medication, but my mood is already quite stable. I can fall asleep. I want people to know that persons who have recovered from mental illness have hope all the same. They can duly live their lives.
 In a civilized society's parliament filibustering is the parliamentarian's last line of defense and weapon, and when you can do nothing about something, it's also used as a means to delay draconian laws and evil thieves.
 When the cop bumped into the young triad guy who was loitering there, he took the opportunity to secretly plant the knife in that guy's bag, and it was later on at the police station that the guy knew he had been framed by the cop.
+Suddenly a group of attackers with knives, there were at least four of them, ran out from nearby, with choppers in their hands like that, they then rushed into the cafe wildly chopping those people sitting there!
 When I was in the sixth grade, I was bullied by a kid of mixed race, so in a neighboring class there was a big kid who suddenly ran out and helped me thoroughly bash and bloody the mongrel's head. After that he never bullied me.
 Those people in the casinos who pester you in fact are called 'paa zai', you can also say they're swindlers. They will use whatever methods they can to deceive you to fall into their trap, in the end they want you to borrow their money.
+Lots of stuff causes cancer! If you don't eat a lot, there's no problem. For breakfast we don't choose too much. Luncheon meat, small sausages—these are quite ordinary, and everybody calls for them.
 Younger sister tearfully told me she's gotten pregnant! It was the first time she did it with her boyfriend. Her boyfriend ejaculated, and didn't wear a condom! She asked me what should she do now?
 I still remember when I was learning single English words in elementary school. The teacher explained to a class of little kids that the meanings of the two English words 'alone' and 'lonely' were different.
 After I had broken up with my former girlfriend, she then demanded to collect twenty-thousand dollars from me as compensation. She said if I didn’t give her compensation for breaking up with her, she would accuse me of raping her, what can I do?
@@ -14436,15 +14436,13 @@ In fact Chaozhou-style restaurants are not a bit cheap, but I myself like to eat
 The Chief Executive criticized Hong Kong U's student union publication 'Undergrad', he said as for advocating Hong Kong independence, this is not ordinary academic research, but it's advocacy.
 People all know Hong Kong Airport has lots of toilets, but just now I saw two young guys unable to find a toilet throw caution to the wind and find a corner to piss in!
 You've dyed your hair, have pierced ears and tattoos, wear a black vest and narrow-leg trousers, wear a cap and black-rimmed glasses. No wonder there are people who think you are really showing off your appearance and also quite want to beat you!
-As it turns out lots of drivers don't understand an attached single traffic light, private cars are like this, professional goods vehicles are also like this, it seems that when some drivers see two traffic lights showing at the same time they don't know what they should do  
 If you want to have a natural pregnancy, you need to look at your family heredity to have twins. If not even one of your relatives on either your side or your husband's side has ever given birth to twins, your chance of having twins is equal to zero.
 I'm very angry! I discovered today that my protective motorcycle cover was wickedly damaged. It's been so badly damaged it can't be used anymore. It's obvious somebody used scissors or a cutter to damage it.
 I want to know if there's still a residents' bus from Central returning to Tai Po. What number is it? Where do you board the bus in Central? After returning to Tai Po where do you get off?
 Originally, I didn't know how to get to that beach, but in front of me I saw two people who were dressed in beach clothes and they looked like they were walking to the beach, so I closely followed right behind them.
-Suddenly a group of attackers with knives, there were at least four of them, ran out from nearby, with choppers in their hands like that, they then rushed into the cafe wildly chopping those people sitting there!
 You try to go to the New Territories, and say you want to have the right to build a small house, that you want land to build a house on. I guarantee you'll be fucking beaten up, and thrown back into Kowloon, Why? Because you're not an indigenous male inhabitant of the New Territories!
-In fact in regard to this matter, I think the boss will first talk to the head, the boss himself wouldn't directly say anything to us, he's just that kind who is two-faced and insincere by trying to please all different kinds of people  
 Originally, my girlfriend had participated in this cake competition, who would know her cake was disqualified, the sponsor said the reason was that the size of the cake was too big, and so it had violated the competition rules.
+As it turns out lots of drivers don't understand an attached single traffic light, private cars are like this, professional goods vehicles are also like this, it seems that when some drivers see two traffic lights showing at the same time they don't know what they should do.
 Because the bridegroom said the scenery was unattractive, so right then they changed things and went to another bay, and then the civil celebrant had to hurriedly change the marriage license by hand on board the boat.
 Everybody can recognize each one of these legislators for what they are. They will use the filibustering method to delay matters, even to the point of causing the Innovation and Technology Bureau to be stillborn!
 If some English words seep into your Cantonese, it's quite normal that you then pronounce them incorrectly. It's because you're not really speaking English, you've only mixed some English words into your Cantonese
@@ -14455,14 +14453,15 @@ There was a male director whose pesky hands were the most difficult to endure. H
 A said to B: Somebody has said to me, you said to the boss' face that I steal things, B replies: Who said such a thing? The best thing is to tell him to come out to clear things up with all of us all in one go.
 As for looking for advantageous deals, when senior citizens are buying food for meals, they can choose districts with comparatively more shops in competition, such as wet markets in districts of Shamsuipo, Mongkok, and so on, and prices of goods are also comparatively low.
 The cop said he wanted to search my body. I then requested that one more policeman should be present. It wouldn't do to have just one person search me. If something were to happen, then neither person could really prove his version of events.
+In fact in regard to this matter, I think the boss will first talk to the head, the boss himself wouldn't directly say anything to us, he's just that kind who is two-faced and insincere by trying to please all different kinds of people.
 He and I were fighting for the ball in the air. I took a couple of steps back, raised his whole body up in the air. After that I flung him down hard so he dropped to the ground like a black fish onto the chopping block. Then I saw there was blood all over the ground, along with two of his teeth.
 For one whole week my digestive system felt inflamed and sore and I had diarrhea. A friend recommended I drink some fermented tea. I don't know if it's really miraculous or if I got better because my illness had run its course. Now I really have nothing the matter with me
 Last night when finishing work a colleague was walking down the stairs. Suddenly she loudly cried out. What happened was she made a misstep. She wasn't careful so she sprained her ankle. Her ankle bone then swelled up, it was as big as an egg!
+The Legislative Council chairman says today filibustering must stop. He has decided this afternoon at one o'clock all debate on the budget appropriation will cease. Some people say the chairman's authority to stop filibustering has expanded day by day.
 There's a one-woman brothel downstairs in the Chinese tenement building I live in. Sometimes I see the johns coming and going up and down. After they've finished their business their appearance is quite amusing. Quite a few of them are biting on a toothpick. They seem thoroughly relaxed!
 I went in to eat dinner. From the start the waiter strongly recommended lobster and grouper, but I refused to listen to him and ordered some other dishes. His expression then made a hundred and eighty degree turn, changing to quite bad.
 One day I and some classmates were holding a student union activity. Since we offended several horny senior classmates, they then told us to take off our shirts and pants. It seemed like they wanted to bully us, and fool around doing some lewd stuff with us.
 Last night police intercepted a boat smuggling illegal immigrants at Lantau Island. They arrested twenty Indian and Pakistani illegal immigrants and the snakehead smuggling the illegal immigrants. It's the third group of South Asian illegal immigrants intercepted by police within two days.
-The Legislative Council chairman says today filibustering must stop. He has decided this afternoon at one o'clock all debate on the budget appropriation will cease. Some people say the chairman's authority to stop filibustering has expanded day by day
 What are Hong Kong's core values? I'll tell you, Hong Kongers have freedom, democracy, human rights, fairness, freedom of speech, freedom of the press, rule of law, clean government, independent judiciary.
 As soon as I knew my girlfriend had been to bed with her second boyfriend, I then felt she was both very indecent and very dirty. I also started to ask myself, do I want secondhand goods? Do I want to date a girl who is not a virgin?
 When I was thirteen years old I was dumb. I stole stuff, and I got the Police Superintendent's Caution. Luckily this matter didn't have any effect on looking for employment. After I had graduated from university when I was twenty-some years old, I then went to work for the Revenue Office.
@@ -14473,16 +14472,16 @@ What is a through-train school? A through-train school is a school with a primar
 This is the fourth time I've come to Mido Café to eat. This café has been open for quite a long time. In fact it has a history of over fifty years. The baked ham and cheese with spaghetti is quite tasty. The iced coffee mixed with tea is also very good.
 When I go camping or shoulder a heavy load while hiking, I usually will use a hiking pole. A hiking pole is an auxiliary tool. You need to learn how to use a hiking pole. If you use it wrongly, it can affect your pace, and even injure your upper body.
 It's possible Judaism's ban on eating pork is related to the hygiene environment of that time, but even though the hygiene environment has improved to be good today, there's just no leeway about it, and Jews aren't allowed to eat pork and that's the way it is.
+Imitation shark's fin soup is a Hong Kong snack one sees daily on the street. This kind of popular imitation shark's fin appeared in the 1950s, the main ingredients are mungbean vermicelli, shredded edible fungus, shredded dried mushroom. It's quite tasty!
 First of all, you yourself need to go to the Registrar of Marriages. You have to have gotten the Certificate of Absence of Marriage Record first. To do this you'll need to pay eight hundred and forty dollars as processing-fee, wait about fourteen working days or so, and then it's taken care of.
+In the past the two brothers were shareholders in a company, but they had conflicts every day, and there was no way they could continue cooperating with each other, so as a result they broke up and went their separate ways, and the company was then closed down.
 The guy has already been in the bathroom for a very long time. There was no sound of water so then I assumed he's finished, but who would know he turns the faucet on again? I hear him brushing his teeth. Assuming he's finished everything, I hear him turn on the faucet again, maybe he's washing his face.
 To my surprise the bill for this plate of shrimp in tomato sauce was two hundred and thirty dollars. On average each shrimp was more than thirty dollars. At the time I was really shocked, but there was nothing I could do. I couldn't say anything, so I paid up, but then there's no next time.
-In the past the two brothers were shareholders in a company, but they had conflicts every day, and there was no way they could continue cooperating with each other, so as a result they broke up and went their separate ways, and the company was then closed down 
 I had first applied for leave from the boss, and then bought the airline ticket and reserved the hotel room, but then who would know the boss suddenly tells me that he has work for me and I can't go on vacation, so I was really put in a difficult spot by him.
-Imitation shark's fin soup is a Hong Kong snack one sees daily on the street. This kind of popular imitation shark's fin appeared in the 1950s, the main ingredients are mungbean vermicelli, shredded edible fungus, shredded dried mushroom. It's quite tasty!  
 You're a voter, so you should know that providing false registration information to an electoral officer and afterwards going to cast a vote like that is considered vote-rigging. That's breaking the law, so for heaven's sake don't do that!
 I have bought a poodle. It's a female. Originally I thought I could put up with her, but lately she is really hard to take care of. The whole day she chews on shoes. I scold her but she pays no attention. At night she barks. I really can't tolerate her!
 I've got several lines to say to sweet-talk a girl into going to bed. For example, if you really love me then you'll let me do it. I'll definitely marry you. Anyway it's something we'll do sooner or later. I guarantee nobody will know. It won't hurt, so believe me!
-In the dash cam video the driver sees that in front of him there's a big puddle. He then says, "So I'll then go across it." Who would know after he's gone across it the car surprisingly breaks down, so then like that the driver is stopped in the middle of the puddle! 
+In the dash cam video the driver sees that in front of him there's a big puddle. He then says, "So I'll then go across it." Who would know after he's gone across it the car surprisingly breaks down, so then like that the driver is stopped in the middle of the puddle!
 Last night I was riding my bicycle on the road in my estate to return home. Both my front and back lights were all lit. A taxi opposite me didn't use its signal light, and when it was driving on my right front side it suddenly turned in toward my left. Luckily I was able to stop in time. Otherwise I would have been hit hard!
 My older brother has become a completely changed person. He's always arguing with Dad. He also says he wants to divorce his wife. He's also rejected his daughter, his two eyes look very strange. Damn, maybe he's had a magic spell cast on him by a shaman. Now we don't know what to do about it!
 In fact my girlfriend and I had never ridden in an open-top bus, I heard people say at night on Christmas riding in an open-top bus on a tour of Hong Kong has a quite nice atmosphere and is a lot of happy fun, so this year I and my girlfriend will give it a try and ride together in one!

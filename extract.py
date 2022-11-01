@@ -23,11 +23,16 @@ substitution_yue = (
     ('𧨾', '氹'),
     ('𧵳', '蝕'),
     ('依𠺢', '依家'),
+    ('爹啲', '爹哋'),
     ('而𠺢', '而家'),
     ('𠺢吓', '家下'),
     ('𠺢陣', '家陣'),
+    ('你 吖', '你吖'),
+    ('喺 個', '喺個'),
+    ('我 諗', '我諗'),
     ('星架波', '新加坡'),
     ('自覺得己', '覺得自己'),
+    ('右冇畀返我', '又冇畀返我'),
 )
 
 _pattern_lower = re.compile(
@@ -89,6 +94,8 @@ def is_letter(c: str) -> str:
 def normalise(yue: str, en: str) -> tuple[str, str]:
     for src, dst in substitution_yue:
         yue = yue.replace(src, dst)
+    yue = yue.strip()
+    en = en.strip()
     yue = upper_to_lower(yue)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
