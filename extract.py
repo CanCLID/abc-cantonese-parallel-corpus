@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
-import regex as re
 from glob import glob
+import regex as re
 import unicodedata
 
 substitution_yue = (
@@ -103,6 +103,8 @@ def normalise(yue: str, en: str) -> tuple[str, str]:
         if (4 <= len(yue) < 6 and yue[0] in '我你佢') or len(yue) >= 6:  # 一定係陳述句
             yue += '。'
             en += '.'
+    if len(yue) < 4 and '，' not in yue and ',' in en:
+        en = en.split(',', 1)[0]  # remove explanatory words
     return yue, en
 
 pattern_pua = re.compile(r'[\ue000-\uf8ff\U000f0000-\U000ffffd\U00100000-\U0010fffd]')
@@ -129,7 +131,8 @@ def should_remove(yue: str, en: str) -> bool:
         en in should_remove_list or \
         contains_pua(yue) or \
         not is_paren_balanced(yue, en) or \
-        not is_colon_balanced(yue, en)
+        not is_colon_balanced(yue, en) or \
+        'i.e.' in en
 
 filename = glob('Wenlin+Dictionaries-*.xml')[-1]
 
