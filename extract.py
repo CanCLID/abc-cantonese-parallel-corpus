@@ -21,6 +21,7 @@ substitution_yue = (
     ('𠸐', '禁'),
     ('𠹳', '杰'),
     ('𠹺', '埋'),
+    ('𠻗', '呢'),
     ('𡁵', '緊'),
     ('𡃶', '錫'),
     ('𡄯', '噎'),
@@ -112,6 +113,10 @@ def normalise(yue: str, en: str) -> tuple[str, str]:
     yue = upper_to_lower(yue)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
+    if en[-1] == '!' and (is_han(yue[-1]) or is_letter(yue[-1])):
+        yue += '！'
+    if en[-1] == '?' and (is_han(yue[-1]) or is_letter(yue[-1])):
+        yue += '？'
     if (is_han(yue[-1]) or is_letter(yue[-1])) and is_letter(en[-1]):
         if (4 <= len(yue) < 6 and yue[0] in '我你佢') or len(yue) >= 6:  # 一定係陳述句
             yue += '。'
