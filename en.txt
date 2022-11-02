@@ -1857,11 +1857,11 @@ How much money did you put down as a deposit?
 Do you take me as someone who can be cheated?
 Have you settled the accounts?
 What a country bumpkin you are!
+If you wear this shirt you'll look nicer.
 You've suddenly turned up!
 Come here again tomorrow.
 Could you take a look at the negatives tomorrow?
 You're even off work tomorrow?
-If you wear this shirt you'll look nicer.
 You must pay the bill before you can leave.
 You need to press it harder to be okay.
 You need to think up some ideas in order to be okay.
@@ -2061,6 +2061,8 @@ He is as thin as a grasshopper.
 She is really thick-skinned and importunate.
 He's really clumsy and stupid-looking!
 He is really someone who rushes about.
+The clothes he wears are quite weird.
+The clothes he wears are quite weird.
 She completely read and understands this book.
 He is already psychologically prepared for failure.
 His wife was hit and injured by a car.
@@ -2075,8 +2077,6 @@ His back has become slightly curved.
 She must often cut her toenails.
 He has been clever and capable since he was young.
 His English is quite bad.
-The clothes he wears are quite weird.
-The clothes he wears are quite weird.
 He walks in a rather effeminate manner.
 He wants to buy two tubes of pills.
 She said she's not afraid of anything.
@@ -2928,6 +2928,9 @@ She uses a knife to cut one section of sugarcane at an angle.
 She shifts from second gear up to third gear.
 She gave me three sections of tangerine to eat.
 He is really an effeminate young man.
+He is wearing an inferior quality suit.
+She dresses in an overly casual way.
+He wears clothes very carelessly.
 He looked carefully before starting to do things.
 He laughed till tears came.
 He took ketamine so it got him really high.
@@ -2943,9 +2946,6 @@ She has a pistol tucked into her waist.
 She herself starts to make ice cream.
 He's particularly good at bragging.
 Her nickname is Giraffe.
-He is wearing an inferior quality suit.
-She dresses in an overly casual way.
-He wears clothes very carelessly.
 He walked with the sound of clomp-clomp.
 As he was walking down the street, he fell into a hole.
 He just scared you for the fun of it.
@@ -3674,12 +3674,12 @@ Your boyfriend is really very romantic!
 Why don't you discuss it with the boss directly?
 Why are you blinking your eyes and being expressionless like that?
 You're sleepy? Then doze for a bit.
+You look particularly elegant wearing this shirt.
+Where are you going dressed up in such stylish clothes?
 Altogether how many days were you gone?
 Does your darling young wife really allow you to go out?
 Your wife is a really good cook.
 If you change your approach now, it's still not too late.
-You look particularly elegant wearing this shirt.
-Where are you going dressed up in such stylish clothes?
 You need to shake up the bottle of medicine so it's well mixed before you take it.
 You have to use more strength in order to pull it out.
 You need to count this amount as an expense.
@@ -3854,6 +3854,7 @@ She uses the toaster to toast bread.
 She gave me three grapes to eat.
 He never guessed, not even in his dreams, that he would lose.
 She is really such a mannish woman.
+He's wearing a light blue shirt.
 He watched helplessly as his stocks fell.
 He has suffered my fury quite a lot.
 He caught a venereal disease the first time he had sex with a prostitute.
@@ -3868,7 +3869,6 @@ She has now ingratiated herself with a rich man to gain some benefit.
 He was so hungry he even wolfed down some pork bones.
 He is so fat that he's clumsy.
 If he kicks up a fuss, what should I do?
-He's wearing a light blue shirt.
 He's an idiot, so why should we give a shit about him?
 He said haircuts here are not cheap.
 She said she doesn't like to play mahjong with small stakes.
@@ -4394,6 +4394,7 @@ You're dreaming! You're really a fool!
 Taxi-drivers like to honk their horns.
 Service will be rendered with extra care if you pay first.
 It's really true, I can swear an oath.
+You are dressed up so smartly. Where are you going?
 Watch Cantonese opera? He has no interest in it!
 Keep your eyes on him, and don't let him get away.
 Take it easy, and don't feel so resentful and gloomy.
@@ -4417,7 +4418,6 @@ If worse comes to worst, we'll sell the flat.
 Last year he went back to the U.S.A. to visit friends.
 Seating in the ship cabin was filled to capacity and crowded.
 Sprinkle some salt on the peanuts after they have been well fried.
-You are dressed up so smartly. Where are you going?
 Pharmacies have adult diapers for sale.
 The screw is completely rusted and extremely tight.
 You bad guy! Are you trying to sneak on board the bus without paying the fare?
@@ -4639,10 +4639,10 @@ You bastard! How dare you still come to see me!
 Your reselling the tickets won't necessarily make a profit for you.
 Who are you trying to show your angry face to?
 You can just discuss it directly with the boss.
-Take a look at her appearance which is so unattractive and strange.
-Wait a moment while I go take a piss first.
 What size of jeans do you wear?
 Dressed up like that, how can you go out and chat up a girl?
+Take a look at her appearance which is so unattractive and strange.
+Wait a moment while I go take a piss first.
 You must destroy the enemy in one go.
 You need to be careful of him, as he does whatever comes into his head.
 You need to be careful of him, as he does whatever comes into his head.
@@ -5632,10 +5632,10 @@ It doesn't look nice for your shirttail to be hanging out.
 You'll have to come again in a few days after payday if you want to borrow money!
 You need to be careful! The floor is very slippery so you could fall!
 I think you had better pay more attention to studying.
-You should know that he is a smart kid.
 You need to put a coat on yourself, as it's cold outside.
 You need to put on a coat, as it's very cold outside.
 You need to put on a coat, as it's very cold outside.
+You should know that he is a smart kid.
 Didn't you see that she winked at you?
 Do you remember how much the score was?
 Do you think it's all right for me to date him?
@@ -7552,6 +7552,7 @@ You beat people with a club, so are you trying to kill somebody?
 You're so disorganized you certainly can't find anything.
 You were really mistaken in your judgment by getting to know the wrong friends.
 You have not yet reached the peak of the hill but you've already started gasping for air, so you're really in poor shape.
+You look really sharp wearing this shirt.
 After you've finished watching the video, then you'll know what to do.
 You have been looking at the computer for such a long time that it's no wonder your eyes have become blurred.
 You lie down and rest first, when I get the food cooked then I'll call you.
@@ -7562,7 +7563,6 @@ He's not the only smart person, so how could I be cheated by him?
 You've finally passed the driver's test and gotten your license, so I think you should celebrate!
 Don't spread rumors, as I never invited her to go out for a date!
 You may get into the university, but for me there's no hope.
-You look really sharp wearing this shirt.
 You must scald these bowls and chopsticks before you can use them.
 You need to know, this matter has no connection to me.
 Don't you agree he's very bad? He even gambled away all the money for our daily household expenses.
@@ -7717,6 +7717,7 @@ He's really a braggart, and always recklessly saying stuff.
 He's really a braggart, and is always recklessly saying stuff.
 He is really quite arrogant, and always looks down on people with disdain.
 He is really quite arrogant and always looks down on people with disdain.
+Dressed up in this set of clothes, she looks like an old woman trying to look young.
 He took a peep at the paper written by the student next to him.
 What did he finally say about what gel was good to use?
 He suddenly shouted, and it scared me so I was completely startled awake.
@@ -7733,7 +7734,6 @@ She's here now. Why are you looking for her?
 He's eating now, and has no time to take a phone call.
 Even he himself didn't know why he had been chased and hacked with knives by somebody.
 He has lived abroad from childhood, so he can't speak Chinese very well.
-Dressed up in this set of clothes, she looks like an old woman trying to look young.
 He intends to emigrate overseas, so these days he has been knocking himself out studying English.
 He deliberately raised the price of his goods when we ran out of stock.
 He said none of it had anything to do with him, so he really knows how to shake off his responsibilities.
@@ -8285,6 +8285,7 @@ A man's morning wood could possibly be related to dreaming.
 My boyfriend said to me, a girl has to be chubby in order to be pretty.
 What a scatterbrain I am! I've forgotten to bring my notes again!
 It's really troublesome to pay attention to that insolent woman!
+You're wearing so many clothes you look bulky, so do you really feel that cold?
 I can see from his face that I definitely have to pay money again.
 Aim carefully before you shoot the gun, and don't accidentally hurt a passer-by.
 In reading the news you know he's all right, so he can be considered quite lucky.
@@ -8329,7 +8330,6 @@ In the past the kids quite liked to play hide-and-seek.
 Lily says she's not going to get married but will be a spinster all her life.
 It rained heavily. A lot of soft mud is in the road, so it's quite hard to walk.
 Before entering the water to swim, warm up your body first by making circles with your wrists and ankles.
-You're wearing so many clothes you look bulky, so do you really feel that cold?
 Lan Kwai Fong is a place in Hong Kong for night-time entertainment and carousing.
 How disgusting! You've made my hair into a mess!
 You old devil, let's go out to have dinner tonight, okay?
@@ -8664,6 +8664,8 @@ She was sick, had also lost weight, and her appearance had completely changed.
 She's really pitiful as she gave birth to a son who has grown up to be unfilial.
 He's very impressive, as his playing of the violin sounded great.
 She's really old and senile, and doesn't remember anything anymore.
+The shirt he's wearing is so awfully white it's really unattractive.
+The shirt he's wearing is such a dull white. It's really unattractive.
 After knowing he couldn't be promoted, he completely lost all enthusiasm to do anything.
 As he is so short, who would want him to be their boyfriend?
 He's already left? Nobody told me about it!
@@ -8674,8 +8676,6 @@ After he got first place in the examination, he then became so arrogant.
 He himself didn't try to do a good job, so it's no use for you to worry about him.
 Even he himself didn't know why he was chased and hacked with knives.
 His ability in English is inferior, so don't ask him to teach you.
-The shirt he's wearing is so awfully white it's really unattractive.
-The shirt he's wearing is such a dull white. It's really unattractive.
 As his behavior is so bizarre, is he possessed by a demon?
 When the trapeze artist performed he did it without wires attached to his body!
 After his anus prolapsed, the doctor said he should be hospitalized.
@@ -9145,6 +9145,7 @@ Next month the price of a taxi will increase. The flag fall increases one dollar
 It would be better to put this pot of flowers outside the house to get moistened with dew.
 You've asked me a question I can't answer, as I don't know this Chinese character either.
 It's really puzzling, as there are nice things to eat but he doesn't come over here.
+Put on a pair of shoes. Don't go out on the street wearing a pair of slippers.
 The way for you to do this is to see how others do it and then follow suit.
 When you're watching a chess game from the sidelines, don't utter a word.
 See people for who they really are, and distinguish between what is true and what is false.
@@ -9184,7 +9185,6 @@ If my stocks still keep on falling like that, then I'll be really wiped out.
 It was definitely fake soccer, so that's why the result was like that.
 It's better not to leave a kid alone at home.
 After it had rained heavily the road is very muddy, it's quite difficult to walk.
-Put on a pair of shoes. Don't go out on the street wearing a pair of slippers.
 The size of a blue whale's heart is almost as big as a car.
 Advertising posters should be posted in prominent places.
 It's nude swimming, so naturally people strip off their clothes and go stark naked.
@@ -9336,10 +9336,10 @@ You've never run, so I then guessed you would certainly come in last.
 Of course you must inform him about it! He has responsibility!
 You can't even do the most minor thing, so what a jerk you are!
 What a recluse you have become! You don't even know that your buddies have emigrated
+You have worn this dress for such a long time that the fabric has already become soft and lacks body, so it doesn't hold its shape at all anymore.
 Your essay has been illegibly written, so how could anyone read it?
 It's unreasonable for you not to visit your father when he is sick.
 You're wearing a sad, miserable look, so needless to say you've lost money in horse racing again.
-You have worn this dress for such a long time that the fabric has already become soft and lacks body, so it doesn't hold its shape at all anymore.
 You better be careful about what you say to him, as he might kill himself in front of you.
 You should be careful of that man, as he is always cheating someone.
 You must be careful of that guy. His tricks are quite despicable.
@@ -9713,6 +9713,7 @@ I believe if you ride this bicycle you can chat up the girls!
 I really sense he does love me.
 I really sense he does quite like me.
 I was really scared by those debt-collectors till I couldn't think what to do about things.
+I can't get used to wearing boxer shorts. Only briefs suit me.
 I think she's as hardworking as you, but she's not as smart as you.
 My vision is rather blurry, so am I nearsighted?
 I know that boy has a crush on his English teacher.
@@ -9723,7 +9724,6 @@ I heard someone say the singer got sick, so will he appear or not for the perfor
 I heard the click-clack of her high-heeled shoes as she walked over.
 As for me, I do as I wish, and whatever I want to do I do it.
 Even I myself haven't got any power, so I can't help you.
-I can't get used to wearing boxer shorts. Only briefs suit me.
 I walked till the soles of my two feet had gotten blisters all over.
 I have seen that some girls really like to flirt with him.
 I see my friends on dates and all the time they're stuck to a boyfriend.
@@ -9960,6 +9960,7 @@ You're so dirty from head to toe, so hurry up and go take a shower first.
 You got the news really fast, as you even know that I've gotten married.
 The best thing for you is to hire him to do it for you, as he will do it very carefully and attentively.
 You have quite sharp eyesight, so you should be able to be a sharp-shooter.
+Wearing this sport shirt while jogging you should be very comfortable.
 You can see that lately she is shy and awkward like that, so of course she feels worried about something.
 Look at how he carries on in a disgusting manner in front of his boss. It really makes me sick.
 Can't you see I'm chatting with him? Don't you butt in!
@@ -9967,7 +9968,6 @@ You've overslept way past your time to get up, so you can't get to school in tim
 Do you know if you have to make a reservation for the barbecue pits at Tai Mei Tuk?
 You're now so popular that it's time to recruit a manager to work for you.
 When you leave, don't forget to turn off all the lights.
-Wearing this sport shirt while jogging you should be very comfortable.
 You need to be careful doing business with him, as you quite likely will suffer financial losses.
 You should be aware of that doctor, as he's really inferior.
 You should be careful of that guy, as he spreads bad rumors about people all the time.
@@ -11124,11 +11124,11 @@ You can take away all the food and if you can't eat all of it, then you can dist
 I see no reason for you to tell me to bear responsibility for the mess you have caused.
 What are you up to? I ate just a little bit, but you are charging me more than a hundred dollars!
 You really think you're very smart, in fact you're a fool!
+Don't you mind the cold wearing an off-the-shoulder dress? Do you also need to wear a shawl?
 Did you take a look at the roster? Will you have any leave at Christmas this year?
 It looks like you have aged a bit, but your vitality is still very good.
 You look like you have aged a bit. However your vitality is still very good.
 Are you hungry? Do I need to fix something for you to eat?
-Don't you mind the cold wearing an off-the-shoulder dress? Do you also need to wear a shawl?
 You must rely on yourself working diligently. Don't rely on fate to take care of things for you.
 You had better be careful. Otherwise it's quite easy to have an accident!
 You should be careful playing paai gau with that man, as he is really clever at cheating with the cards.
@@ -11380,6 +11380,8 @@ Last night I went to bed at ten o'clock, but it was sometime after midnight befo
 I use this pressure cooker to cook soup and congee, it's been quite good to use.
 My boyfriend is not only handsome and stylish, but he also dances quite well.
 My boyfriend quite likes to tell bad jokes, but nobody laughs.
+When I wear boxer shorts and go out on the street my dick's swinging back and forth, so it's quite easy to get an erection.
+After I've experienced wearing boxer shorts, I really wouldn't go back to wearing briefs again.
 I think these several rings of yours are all just merely fakes.
 I know you came in first on the exam, but you don't have to go around acting like you're so smart.
 The first time I played chess with him, I had checkmate within just ten minutes.
@@ -11390,8 +11392,6 @@ I'm now waiting to cross the efficiency bar on the pay scale, but I'm afraid I d
 I heard the taxi driver say, "Today I've already crossed the harbor several times"
 I myself have been working in this profession all along, so I'm quite familiar with it.
 I myself am doing fine, but several days ago she was already rather sick.
-When I wear boxer shorts and go out on the street my dick's swinging back and forth, so it's quite easy to get an erection.
-After I've experienced wearing boxer shorts, I really wouldn't go back to wearing briefs again.
 I want to order ten thousand items, so if you give me 20 percent off, then everyone gains from the deal.
 Seeing my son inside the dock, I really feel quite pained.
 I invited two Western friends to eat dinner with my family members on Chinese New Year's eve.
@@ -11455,6 +11455,7 @@ Last night I went together with some friends to Jordan to hang out in an upstair
 At that time even though it was so dangerous, you still stayed so calm, and you really impressed me.
 If Miss Baak were not a perfectionist, she would have gotten married long ago.
 What a coincidence! I bumped into him just as I was going out the door.
+That woman in the mink coat always appears in the newspapers.
 Look at your appearance, you wear shorts and flip-flops. You're just like an old male vendor in a wet market.
 I wish you progress in the new year, good health, and that you soon get married and start a new family.
 As for how the two of them got separated and then reunited over and over again, it's really a long story.
@@ -11484,7 +11485,6 @@ As the stock market has fallen so sharply, we had better immediately adopt decis
 Ever since I had split with my boyfriend several years ago and right up till now I haven't dated anyone.
 Ballet and linguistics seem to be two completely unrelated things.
 The teahouse's business is really very good, and the waiters are all extremely busy.
-That woman in the mink coat always appears in the newspapers.
 The accused is a primary-school principal, and was originally charged with two offenses of indecent assault.
 Be careful going into a place with 'special' massage, as people assume you want to have a massage that includes illegal sexual services.
 In order to continue operating, it is necessary for our company to open up overseas markets.
@@ -12773,12 +12773,12 @@ When making this soup she put in two tomatoes and a few pieces of okra, so it ha
 He has two businesses, one he gave to his older son and the other to his younger son to manage.
 She had suffered a miscarriage once before, but no one would have guessed this time she would lose her baby again after three months of pregnancy.
 He's really a glutton, as he's always eating snacks, so it's no wonder he's put on lots of weight.
+He wore a Western-style suit thinking it made him look quite impressive, but in fact it didn't raise his social status or make him look better.
 He suddenly hit the cue stick to the side, maybe he was too tense holding the cue stick and then miscued the shot
 After a girl turned down his invitation for a date he's just not in the mood, so you guys don't tease him by speaking sarcastically and further upset him.
 After a girl turned down his invitation for a date, he's just not in the mood, so you guys don't tease him by speaking sarcastically and further upset him.
 He has already promised you lots of things, so it's quite possible he just wants to use you for his own ends.
 After he came in first on the exam he has been really showing off, so now his classmates can't stand him.
-He wore a Western-style suit thinking it made him look quite impressive, but in fact it didn't raise his social status or make him look better.
 Of course, she was fierce to you as you're a woman, and you don't know how very lustful she becomes when dealing with a man.
 He said he had been hired to be in a movie. To my surprise it turns out he's merely an extra in the movie.
 He said that last month he became sick and didn't want to eat anything, so his appearance became thin and bony like that.
@@ -13188,10 +13188,10 @@ When you have made a promise to someone, you have to do it, so don't make promis
 At an HSBC ATM you should be able to deposit money into a Hang Seng bank account.
 You're always just talking but never do anything, so you're just like a spanner without a handle, only a set of teeth which is useless.
 You can relax. My company doesn't pay me a commission, so you don't need to worry I'll take advantage of you!
+You are dressed in ancient clothing but haven't taken off your watch, so when it's time to film the movie you will make an embarrassing mistake.
 Look at how many people are eating in this restaurant! We'll have to share a table in order to have a place to sit.
 Look at how many people are eating in this restaurant. We'll have to share a table in order to have a place to sit.
 The first part of your essay is well written, but the concluding part appears to have been rushed.
-You are dressed in ancient clothing but haven't taken off your watch, so when it's time to film the movie you will make an embarrassing mistake.
 As soon as he set off on the marathon, he ran with all his might, but he seems destined to have begun with a bang but will end with a whimper.
 He's really annoying, saying that if I argued with him over the amount, then he wouldn't give me back even one dollar!
 His wife knows neither how to cook nor how to rear children, so it's really pitiful for anyone married to her.
