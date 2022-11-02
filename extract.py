@@ -12,12 +12,14 @@ substitution_yue = (
     ('噖', '琴'),  # 噖[日晚] -> 琴[日晚]
     ('嚫', '親'),
     ('床', '牀'),
+    ('杧', '芒'),
     ('著', '着'),  # 著 zyu3 as in 著作, does not exist in the corpus
     ('衭', '褲'),
     ('贃', '賺'),
     ('𠵉', '行'),
     ('𠶧', '掂'),
     ('𠸐', '禁'),
+    ('𠹳', '杰'),
     ('𠹺', '埋'),
     ('𡁵', '緊'),
     ('𡃶', '錫'),
@@ -25,6 +27,7 @@ substitution_yue = (
     ('𧨾', '氹'),
     ('𧵳', '蝕'),
     ('依𠺢', '依家'),
+    ('橋​𠮩', '𠵇𠺫'),
     ('爹啲', '爹哋'),
     ('而𠺢', '而家'),
     ('𠺢吓', '家下'),
@@ -45,12 +48,17 @@ _pattern_lower = re.compile(
     'CAMP|'
     'CANCER|'
     'CHEAP|'
+    'CIVIL|'
+    'COMPUTER|'
     'CREAM|'
     'FACIAL|'
+    'FIT|'
     'FRIEND|'
     'GAG|'
     'HAPPY|'
+    'KEEP|'
     'KEY|'
+    'LAW|'
     'LIKE|'
     'MOVIE|'
     'OUT|'
@@ -58,10 +66,13 @@ _pattern_lower = re.compile(
     'QUALI|'
     'ROUND|'
     'SALES|'
+    'SEMINAR|'
     'SEM|'
     'SHARP|'
+    'SHOPPING|'
     'SHORT|'
     'TITLE|'
+    'TUTORIAL|'
     'WINNER'
     r')(?![a-zA-Z])'
 )
@@ -101,7 +112,7 @@ def normalise(yue: str, en: str) -> tuple[str, str]:
     yue = upper_to_lower(yue)
     yue = full_width_to_half_width(yue)
     yue = remove_space(yue)
-    if is_han(yue[-1]) and is_letter(en[-1]):
+    if (is_han(yue[-1]) or is_letter(yue[-1])) and is_letter(en[-1]):
         if (4 <= len(yue) < 6 and yue[0] in '我你佢') or len(yue) >= 6:  # 一定係陳述句
             yue += '。'
             en += '.'
