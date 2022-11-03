@@ -52,11 +52,3 @@ While the space in this sentence is not:
 This is because the spaces between Chinese characters and English letters and Chinese characters and numbers do not affect the understanding of sentences and can be easily converted to and from each other by rules when needed.
 
 4\. TODO: ...
-
-## License
-
-By Robert S. BAUER 包睿舜.
-
-Copyright © 2017–2021 Wenlin Institute, Inc. SPC, All Rights Reserved.
-
-The author of this repository does not hold the copyright to the content.
